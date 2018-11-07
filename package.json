@@ -1,0 +1,25 @@
+{
+  "name": "elastic_fe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack --mode development ./src/index.js --output ./dist/index.bundle.js --watch",
+    "build": "webpack --mode production ./src/index.js --output ./prod/main.js --watch",
+    "start": "http-server -p 9001"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.0.4",
+    "babel-preset-env": "^1.7.0",
+    "webpack": "^4.23.1",
+    "webpack-cli": "^3.1.2"
+  },
+  "dependencies": {
+    "elasticsearch": "^15.2.0"
+  }
+}
