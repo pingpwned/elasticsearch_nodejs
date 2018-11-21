@@ -53,6 +53,14 @@ export default class Connect extends Component {
         )
     }
     renderData() {
+        // this.state.data.map((item, i) => {
+        //     item._source.SHOPITEM.PARAM.map((param, i) => {
+        //         if (param.PARAM_NAME === "Datum vydání") {
+        //             console.log(param.VAL)
+        //         }
+        //     })
+        //     }
+        // )
         return this.state.data.map((item, i) => 
             (
                 <div className="list__item" key={i} data-id={item._id} onClick={() => this.handleBookOpen(item._id)}>

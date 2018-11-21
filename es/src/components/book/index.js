@@ -62,16 +62,20 @@ export default class Book extends Component {
                     <div className="book__content">
                         <span onClick={this.handleBookOpen} className="close"></span>
                         <h1>{item._source.SHOPITEM.PRODUCTNAME}</h1>
-                        <h2>
-                            <b>Autor: </b>
+                        {item._source.SHOPITEM.CONTRIBUTOR !== null && item._source.SHOPITEM.CONTRIBUTOR.length > -1 ? <h2>
                             {Object.keys(item._source.SHOPITEM.CONTRIBUTOR).map((key, i) => {
                                 return (
                                     <span key={i}>
-                                        <span>{item._source.SHOPITEM.CONTRIBUTOR[key].SURNAME+", "+item._source.SHOPITEM.CONTRIBUTOR[key].NAME}</span><br/>
+                                        <b>{item._source.SHOPITEM.CONTRIBUTOR[key].ROLE}: </b><span>{item._source.SHOPITEM.CONTRIBUTOR[key].SURNAME+", "+item._source.SHOPITEM.CONTRIBUTOR[key].NAME}</span><br/>
                                     </span>
                                 )
                             })}
-                        </h2>
+                        </h2> : ""}
+                        {item._source.SHOPITEM.CONTRIBUTOR !== null ? <h2>
+                            <span key={i}>
+                                <b>{item._source.SHOPITEM.CONTRIBUTOR.ROLE}: </b><span>{item._source.SHOPITEM.CONTRIBUTOR.SURNAME+", "+item._source.SHOPITEM.CONTRIBUTOR.NAME}</span><br/>
+                            </span>
+                        </h2> : ""}
                         <img src={item._source.SHOPITEM.IMGURL ? item._source.SHOPITEM.IMGURL : "#"} />
                         <p><b>Popis: </b>{item._source.SHOPITEM.DESCRIPTION}</p>
                         <p><b>EAN: </b>{item._source.SHOPITEM.EAN}</p>
