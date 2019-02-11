@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>533780</ITEM_ID>
+   <PRODUCTNAME>Oko jelena 2 - Andrzej Pilipiuk</PRODUCTNAME>
+   <EAN>9788076171060</EAN>
+   <ISBN>978-80-7617-106-0</ISBN>
+   <PRICE_VAT>209</PRICE_VAT>
+   <DESCRIPTION>
+
+Vítejte ve světě, ze kterého je tak blízko do... písku. Představte si, že dnes znamená před věky a že pokud se dožijete rána, hraničí to se zázrakem... Norsko léta Páně 1559 je pro tři současné pozemšťany smrtíci doba.
+
+</DESCRIPTION>
+   <CATEGORYTEXT />
+   <URL>
+https://www.sckn.cz/oko-jelena-2-andrzej-pilipiuk-pn-533-780/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/306d59a045e3e2ec923596fd4c9d82a2.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>280</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Andrzej</NAME>
+         <SURNAME>Pilipiuk</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Robert</NAME>
+         <SURNAME>Pilch</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

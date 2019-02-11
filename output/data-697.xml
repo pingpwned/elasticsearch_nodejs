@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>533998</ITEM_ID>
+   <PRODUCTNAME>Nerozhodnost - Ed McBain</PRODUCTNAME>
+   <EAN>9788026909781</EAN>
+   <ISBN>978-80-269-0978-1</ISBN>
+   <PRICE_VAT>159</PRICE_VAT>
+   <DESCRIPTION>
+
+Před 87. okrskem postává ve sněhové vánici cizí muž. Ví, že by měl vstoupit a ohlásit policii, co se přihodilo minulou noc, povědět jim o své bývalé přítelkyni Molly. Ale každá vteřina váhání znamená krok opačným směrem.
+
+</DESCRIPTION>
+   <CATEGORYTEXT>
+E-knihy | Krásná literatura | Próza | Detektivky, napětí
+</CATEGORYTEXT>
+   <URL>
+https://www.sckn.cz/nerozhodnost-ed-mcbain-pn-533-998/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/f1dd235eec0df4e29597e20a172c8b1b.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>160</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Ed</NAME>
+         <SURNAME>McBain</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Kateřina</NAME>
+         <SURNAME>Tomcová</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

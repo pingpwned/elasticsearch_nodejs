@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534002</ITEM_ID>
+   <PRODUCTNAME>Chladnokrevně</PRODUCTNAME>
+   <EAN>9788027105229</EAN>
+   <ISBN>978-80-271-0522-9</ISBN>
+   <PRICE_VAT>399</PRICE_VAT>
+   <DESCRIPTION>
+
+Chladné londýnské ráno. Velký kufr, který vyplavila Temže. Detektiv šéfinspektor Erika Fosterová a její kolegyně Mossová už tuší, že je uvnitř nečeká příjemné překvapení…
+
+</DESCRIPTION>
+   <CATEGORYTEXT>
+Tištěné knihy | Krásná literatura | Próza | Detektivky, napětí
+</CATEGORYTEXT>
+   <URL>
+https://www.sckn.cz/chladnokrevn-robert-bryndza-pn-534-002/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/522a792e0634aedd52efaea12adfa3cc.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>416</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>kniha, vázaná vazba</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Jazyk</PARAM_NAME>
+         <VAL>český</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Robert</NAME>
+         <SURNAME>Bryndza</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

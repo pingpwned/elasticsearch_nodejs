@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>533788</ITEM_ID>
+   <PRODUCTNAME>Deset tajemství nebe - Theresa Cheungová</PRODUCTNAME>
+   <EAN>9788075498366</EAN>
+   <ISBN>978-80-7549-836-6</ISBN>
+   <PRICE_VAT>209</PRICE_VAT>
+   <DESCRIPTION>
+
+Jaké je nebe? Jaký smysl má duše? Dokážeme odhalit svůj božský potenciál? Pokrok v moderní medicíně umožňuje vracet do života stále více lidí, kteří se nacházeli ve stavu klinické smrti, a díky tomu je možné vykreslit obraz toho, co je „na onom světě“.
+
+</DESCRIPTION>
+   <CATEGORYTEXT />
+   <URL>
+https://www.sckn.cz/deset-tajemstvi-nebe-theresa-cheungova-pn-533-788/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/6df3a530e383d18e20895252ec81899d.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>280</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Theresa</NAME>
+         <SURNAME>Cheungová</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Věra</NAME>
+         <SURNAME>Klásková</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

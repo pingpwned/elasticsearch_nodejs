@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534638</ITEM_ID>
+   <PRODUCTNAME>Kořist - Wilbur Smith</PRODUCTNAME>
+   <EAN>9788075439062</EAN>
+   <ISBN>978-80-7543-906-2</ISBN>
+   <PRICE_VAT>269</PRICE_VAT>
+   <DESCRIPTION>
+
+Francis Courtney připlouvá ke břehům Afriky, aby pomstil smrt svého otce. Hamižní obchodníci a obávaní piráti, kteří pobřeží obývají, v podstatě představují vřelé uvítání ve srovnání s nebezpečím, jež vychází z rodinného kruhu.
+
+</DESCRIPTION>
+   <CATEGORYTEXT />
+   <URL>
+https://www.sckn.cz/ko-ist-wilbur-smith-pn-534-638/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/1cae5836917264f0a0c44cce8f6fe48e.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>392</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Dalibor</NAME>
+         <SURNAME>Míček</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Wilbur</NAME>
+         <SURNAME>Smith</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

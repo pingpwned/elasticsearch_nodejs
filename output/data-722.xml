@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>533970</ITEM_ID>
+   <PRODUCTNAME>Nejkrásnější česká říkadla</PRODUCTNAME>
+   <EAN>9788075673213</EAN>
+   <ISBN>978-80-7567-321-3</ISBN>
+   <PRICE_VAT>199</PRICE_VAT>
+   <DESCRIPTION>
+
+Tato kniha je plná známých i méně známých českých říkadel a písniček, které provázejí naše nejmenší od útlého dětství. Předávají se z generace na generaci a jsou určeny především pro rodiče a děti.
+
+</DESCRIPTION>
+   <CATEGORYTEXT />
+   <URL>
+https://www.sckn.cz/nejkrasn-j-scaron-i-eska-ikadla-pn-533-970/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/438713c5357ef5c2f2852022964935fd.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>158</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>kniha, vázaná vazba</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Martin</NAME>
+         <SURNAME>Izák</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Lenka</NAME>
+         <SURNAME>Izáková</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Dita</NAME>
+         <SURNAME>Křišťanová</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+<ITEM_ID>534407</ITEM_ID>
+<PRODUCTNAME>Jaromír Roller</PRODUCTNAME>
+<PRODUCT>Jaromír Roller</PRODUCT>
+<EAN>9788074372667</EAN>
+<ISBN>978-80-7437-266-7</ISBN>
+<PRICE_VAT>450</PRICE_VAT>
+<DESCRIPTION>
+
+Do fotografií Jaromíra Rollerova se promítají krajiny, města, konformní i bohémská místa, budovy, cesty a ulice spolu s rozličnými lidmi a jejich posláním.
+
+</DESCRIPTION>
+<CATEGORYTEXT>Tištěné knihy | Umění | Fotografie</CATEGORYTEXT>
+<URL>
+https://www.sckn.cz/jaromir-roller-jaromir-roller-pavlina-vogelova-pn-534-407/
+</URL>
+<IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/a4b35f77a8aac18dbd0be4d621999531.jpg
+</IMGURL>
+<PARAM>
+<PARAM_NAME>Počet stran</PARAM_NAME>
+<VAL>120</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Datum vydání</PARAM_NAME>
+<VAL>2018</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Vazba</PARAM_NAME>
+<VAL>kniha, vázaná vazba</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Pořadí vydání</PARAM_NAME>
+<VAL>neurčeno</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Jazyk</PARAM_NAME>
+<VAL>český</VAL>
+</PARAM>
+<CONTRIBUTOR>
+<ROLE>Autor</ROLE>
+<NAME>Jaromír</NAME>
+<SURNAME>Roller</SURNAME>
+</CONTRIBUTOR>
+<CONTRIBUTOR>
+<ROLE>Autor</ROLE>
+<NAME>Pavlína</NAME>
+<SURNAME>Vogelová</SURNAME>
+</CONTRIBUTOR>
+<THEMATIC_GROUP>9 - Umění</THEMATIC_GROUP>
+</SHOPITEM>

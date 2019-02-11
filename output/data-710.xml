@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>533982</ITEM_ID>
+   <PRODUCTNAME>Cvičení a úkoly pro malé školáky</PRODUCTNAME>
+   <EAN>9788075670403</EAN>
+   <ISBN>978-80-7567-040-3</ISBN>
+   <PRICE_VAT>99</PRICE_VAT>
+   <DESCRIPTION>
+
+Učení s touto cvičebnicí nebude rozhodně nuda. Je plná hravých úkolů z oblasti čtení, psaní, kreslení, počtů či jazykových her. Školáci (a nejen oni) otestují své znalosti i schopnosti a zároveň se pobaví.
+
+</DESCRIPTION>
+   <CATEGORYTEXT />
+   <URL>
+https://www.sckn.cz/cvi-eni-a-ukoly-pro-male-scaron-kolaky-pn-533-982/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/2958f7a3c7ecc6f6c6393497b05de8b0.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>192</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>kniha, brožovaná vazba</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS />
+</SHOPITEM>

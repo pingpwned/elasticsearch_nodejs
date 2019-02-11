@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>533712</ITEM_ID>
+   <PRODUCTNAME>Obchodníkem po Latinské Americe</PRODUCTNAME>
+   <EAN>9788086652641</EAN>
+   <ISBN>978-80-86652-64-1</ISBN>
+   <PRICE_VAT>289</PRICE_VAT>
+   <DESCRIPTION>
+
+Zkušený cestovatel zúročil své nadšení pro Jižní Ameriku, znalost reálií i jazyků v profesním životě. Po studiích na VŠE od roku 2011 kontinent nesčetněkrát navštívil jako obchodník a úspěšně pomáhá českým produktům vstupovat na tamní, pro nás poněkud exotické trhy. O svých zkušenostech umí vyprávět s humorným nadhledem a neobyčejným pochopením pro latinskoamerický svět a jeho obyvatele. Poskytuje cenné rady pro cestování a neváhá se kolegiálně podělit o mnoho let budované obchodnické know-how. Kapitoly: Argentina, Paraguay, Chile, Uruguay, Brazílie, Bolívie, Peru, Ekvádor, Kolumbie, Kostarika a Mexiko.
+
+</DESCRIPTION>
+   <CATEGORYTEXT>
+Tištěné knihy | Krásná literatura | Cestopisy a reportáže
+</CATEGORYTEXT>
+   <URL>
+https://www.sckn.cz/obchodnikem-po-latinske-americe-pn-533-712/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/e604e1d007a8e7ad0fe6bf724f89aad2.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>196</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>
+měkké desky, lepená brožura oříznutá po třech stranách
+</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Jazyk</PARAM_NAME>
+         <VAL>český</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Rozměr</PARAM_NAME>
+         <VAL>135 x 225</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>16. 11. 2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>1.</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Pavel</NAME>
+         <SURNAME>Šembera</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Ilustrátor</ROLE>
+         <NAME>Martin</NAME>
+         <SURNAME>Hůla</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

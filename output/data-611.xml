@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534085</ITEM_ID>
+   <PRODUCTNAME>Gulliverovy cesty – pro děti</PRODUCTNAME>
+   <EAN>9788025339268</EAN>
+   <ISBN>978-80-253-3926-8</ISBN>
+   <PRICE_VAT>229</PRICE_VAT>
+   <DESCRIPTION>
+
+Jmenuji se Lemuel Gulliver. Říkají o mně, že jsem odvážný cestovatel...
+
+</DESCRIPTION>
+   <CATEGORYTEXT>
+Tištěné knihy | Pro děti a mládež | Pro děti 3-7 let | Příběhy
+</CATEGORYTEXT>
+   <URL>
+https://www.sckn.cz/gulliverovy-cesty-ndash-pro-d-ti-jana-eislerova-pn-534-085/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/2906fc5ab0d48dc655e454b37d73527c.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>48</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>kniha, vázaná vazba</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Jazyk</PARAM_NAME>
+         <VAL>český</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Ilustrátor</ROLE>
+         <NAME>Antonín</NAME>
+         <SURNAME>Šplíchal</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Jana</NAME>
+         <SURNAME>Eislerová</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

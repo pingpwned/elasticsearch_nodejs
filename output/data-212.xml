@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534558</ITEM_ID>
+   <PRODUCTNAME>100 divů světa</PRODUCTNAME>
+   <EAN>9788025510551</EAN>
+   <ISBN>978-80-255-1055-1</ISBN>
+   <PRICE_VAT>299</PRICE_VAT>
+   <DESCRIPTION>
+ Sto nejkrásnějších divů světa v jediné knize. 
+</DESCRIPTION>
+   <CATEGORYTEXT />
+   <URL>https://www.sckn.cz/100-div-sv-ta-pn-534-558/</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/2399a599951e41e7d1874cbafbf55b38.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>144</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>kniha, vázaná vazba</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Monika</NAME>
+         <SURNAME>Kittová</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

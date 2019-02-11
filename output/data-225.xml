@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534542</ITEM_ID>
+   <PRODUCTNAME>Breaking News - Frank Schätzing</PRODUCTNAME>
+   <EAN>9788024250458</EAN>
+   <ISBN>978-80-242-5045-8</ISBN>
+   <PRICE_VAT>349</PRICE_VAT>
+   <DESCRIPTION>
+
+Tom Hagen, reportérská hvězda mezi válečnými zpravodaji, je vždy v první linii a odhodlán podstoupit jakékoli riziko. Specializuje se na země Blízkého východu a referuje odtud přímo z pekla. Jenže v Afghánistánu ho štěstí opustí. Jeho pověst se octne v troskách a zoufale..
+
+</DESCRIPTION>
+   <CATEGORYTEXT />
+   <URL>
+https://www.sckn.cz/breaking-news-frank-schatzing-pn-534-542/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/e9fc11fa80b159a64a325203028be20c.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>888</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Vítězslav</NAME>
+         <SURNAME>Čížek</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Frank</NAME>
+         <SURNAME>Schätzing</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>533931</ITEM_ID>
+   <PRODUCTNAME>Vyšlapaná čára - Sara Baume</PRODUCTNAME>
+   <EAN>9788020718730</EAN>
+   <ISBN>978-80-207-1873-0</ISBN>
+   <PRICE_VAT>229</PRICE_VAT>
+   <DESCRIPTION>
+
+Frankie je na dně. Zhroutila se na vyšisovaný koberec zatuchlé dublinské garsonky a sbírá sílu k poslednímu zoufalému počinu: zavolá mamince. Hrdinkou druhé knihy pozoruhodné irské autorky je pětadvacetiletá výtvarnice, která prochází tvůrčí i existenciální krizí.
+
+</DESCRIPTION>
+   <CATEGORYTEXT />
+   <URL>
+https://www.sckn.cz/vy-scaron-lapana-ara-sara-baume-pn-533-931/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/20d42a482bb2631efb3326586102c1cf.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>320</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Sara</NAME>
+         <SURNAME>Baume</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

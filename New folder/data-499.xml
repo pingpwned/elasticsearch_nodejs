@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+<ITEM_ID>534205</ITEM_ID>
+<PRODUCTNAME>Štědrosaurus - Tom Fletcher</PRODUCTNAME>
+<PRODUCT>Štědrosaurus - Tom Fletcher</PRODUCT>
+<EAN>9788075295781</EAN>
+<ISBN>978-80-7529-578-1</ISBN>
+<PRICE_VAT>299</PRICE_VAT>
+<DESCRIPTION>
+
+Druhou knihu slavného anglického autora dětských knih, textaře a zpěváka Toma Fletchera vydáváme (jak jinak) před Vánocemi.
+
+</DESCRIPTION>
+<URL>
+https://www.sckn.cz/-scaron-t-drosaurus-tom-fletcher-pn-534-205/
+</URL>
+<IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/0128964d6c7acca55298c7a15daeb5c1.jpg
+</IMGURL>
+<PARAM>
+<PARAM_NAME>Počet stran</PARAM_NAME>
+<VAL>400</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Datum vydání</PARAM_NAME>
+<VAL>2018</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Vazba</PARAM_NAME>
+<VAL>kniha, vázaná vazba</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Pořadí vydání</PARAM_NAME>
+<VAL>neurčeno</VAL>
+</PARAM>
+<CONTRIBUTOR>
+<ROLE>Autor</ROLE>
+<NAME>Tom</NAME>
+<SURNAME>Fletcher</SURNAME>
+</CONTRIBUTOR>
+<CONTRIBUTOR>
+<ROLE>Autor</ROLE>
+<NAME>Bohuslav</NAME>
+<SURNAME>Březovský</SURNAME>
+</CONTRIBUTOR>
+<CONTRIBUTOR>
+<ROLE>Autor</ROLE>
+<NAME>Tereza</NAME>
+<SURNAME>Nuckollsová</SURNAME>
+</CONTRIBUTOR>
+<CONTRIBUTOR>
+<ROLE>Autor</ROLE>
+<NAME>Vratislav</NAME>
+<SURNAME>Kadlec</SURNAME>
+</CONTRIBUTOR>
+<THEMATIC_GROUP>999 - nezařazeno</THEMATIC_GROUP>
+</SHOPITEM>

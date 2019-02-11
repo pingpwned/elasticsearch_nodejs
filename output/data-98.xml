@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534675</ITEM_ID>
+   <PRODUCTNAME>
+Tréma u hudebníků a její prevence ve vzdělávacím systému - Ena Stevanović
+</PRODUCTNAME>
+   <EAN>9788024640310</EAN>
+   <ISBN>978-80-246-4031-0</ISBN>
+   <PRICE_VAT>250</PRICE_VAT>
+   <DESCRIPTION>
+
+Tréma je vážným problémem mnoha studentů hudby a profesionálních hudebníků, který může způsobit závažné poškození výkonu a vyvolat utrpení a stres.
+
+</DESCRIPTION>
+   <CATEGORYTEXT />
+   <URL>
+https://www.sckn.cz/trema-u-hudebnik-a-jeji-prevence-ve-vzd-lavacim-systemu-ena-stevanovi--pn-534-675/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/7b3117593b955179eee3fd7b21d0135b.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>200</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>kniha, brožovaná vazba</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Ena</NAME>
+         <SURNAME>Stevanović</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

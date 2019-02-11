@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534670</ITEM_ID>
+   <PRODUCTNAME>Neúspěch neexistuje - Eva Půlpánová</PRODUCTNAME>
+   <EAN>9788087579541</EAN>
+   <ISBN>978-80-87579-54-1</ISBN>
+   <PRICE_VAT>199</PRICE_VAT>
+   <DESCRIPTION>
+
+„Neúspěch neexistuje. Smiřte se s tím... Pozitivní myšlenky ve vašem nitru přivedou úspěch za vámi. Negativní k vám přivolají neúspěch,“ říká na jednom místě své knížky.
+
+</DESCRIPTION>
+   <CATEGORYTEXT />
+   <URL>
+https://www.sckn.cz/neusp-ch-neexistuje-eva-p-lpanova-pn-534-670/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/c5ffb40afd09460321c34bf76779e69b.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>104</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>kniha, vázaná vazba</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Eva</NAME>
+         <SURNAME>Půlpánová</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

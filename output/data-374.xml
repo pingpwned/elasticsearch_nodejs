@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534378</ITEM_ID>
+   <PRODUCTNAME>Techniky kresby</PRODUCTNAME>
+   <EAN>9788024261119</EAN>
+   <ISBN>978-80-242-6111-9</ISBN>
+   <PRICE_VAT>499</PRICE_VAT>
+   <DESCRIPTION>
+
+Tato kniha vám umožní objevit svého vnitřního umělce a jedinečný styl, a začít tvořit vlastní umělecká díla.
+
+</DESCRIPTION>
+   <CATEGORYTEXT />
+   <URL>https://www.sckn.cz/techniky-kresby-pn-534-378/</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/20beb130df79469cf7487e7ca106a972.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>304</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>kniha, vázaná vazba</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Světlana</NAME>
+         <SURNAME>Pavlíková</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>533920</ITEM_ID>
+   <PRODUCTNAME>O šťastném sněhulákovi</PRODUCTNAME>
+   <EAN>9788075672148</EAN>
+   <ISBN>978-80-7567-214-8</ISBN>
+   <PRICE_VAT>99</PRICE_VAT>
+   <DESCRIPTION>
+
+Přečtěte si oblíbený klasický příběh o šťastném sněhulákovi v tomto fantastickém prostorovém leporelu. Vašík a šťastný sněhulák se před vámi i vašimi nejmenšími objeví jako živí pokaždé, když otevřete některou ze stránek.
+
+</DESCRIPTION>
+   <CATEGORYTEXT />
+   <URL>
+https://www.sckn.cz/o-scaron-astnem-sn-hulakovi-pn-533-920/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/671fc5f42edcc41cf5c6b918d201a2c1.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>16</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>dětské skládanky a leporela</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS />
+</SHOPITEM>

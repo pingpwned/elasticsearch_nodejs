@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534144</ITEM_ID>
+   <PRODUCTNAME>Prince - Paradox jménem Prince</PRODUCTNAME>
+   <EAN>9788025510490</EAN>
+   <ISBN>978-80-255-1049-0</ISBN>
+   <PRICE_VAT>699</PRICE_VAT>
+   <DESCRIPTION>
+ Prince byl plný paradoxů, během života i po smrti. 
+</DESCRIPTION>
+   <CATEGORYTEXT />
+   <URL>
+https://www.sckn.cz/prince-paradox-jmenem-prince-pn-534-144/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/2f1bb9b6d6e602fa67185689698c21d9.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>124</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>kniha, vázaná vazba</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS />
+</SHOPITEM>

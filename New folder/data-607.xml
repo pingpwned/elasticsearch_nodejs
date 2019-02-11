@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+<ITEM_ID>534088</ITEM_ID>
+<PRODUCTNAME>Princezna - Moje první knihovnička</PRODUCTNAME>
+<PRODUCT>Princezna - Moje první knihovnička</PRODUCT>
+<EAN>9788025243442</EAN>
+<ISBN>978-80-252-4344-2</ISBN>
+<PRICE_VAT>299</PRICE_VAT>
+<DESCRIPTION>
+
+Vstupte s námi do kouzelného světa princezen a jejich kamarádů.
+
+</DESCRIPTION>
+<URL>
+https://www.sckn.cz/princezna-moje-prvni-knihovni-ka-pn-534-088/
+</URL>
+<IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/33a0a53a5a26f6e25d16e4e33be0a931.jpg
+</IMGURL>
+<PARAM>
+<PARAM_NAME>Počet stran</PARAM_NAME>
+<VAL>40</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Datum vydání</PARAM_NAME>
+<VAL>2018</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Vazba</PARAM_NAME>
+<VAL />
+</PARAM>
+<PARAM>
+<PARAM_NAME>Pořadí vydání</PARAM_NAME>
+<VAL>neurčeno</VAL>
+</PARAM>
+<THEMATIC_GROUP>999 - nezařazeno</THEMATIC_GROUP>
+</SHOPITEM>

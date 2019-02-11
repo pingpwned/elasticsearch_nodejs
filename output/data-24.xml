@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534753</ITEM_ID>
+   <PRODUCTNAME>
+Svéhlavíny S. 2 - Čekání na zázrak - Finn-Ole Heinrich
+</PRODUCTNAME>
+   <EAN>9788072527779</EAN>
+   <ISBN>978-80-7252-777-9</ISBN>
+   <PRICE_VAT>279</PRICE_VAT>
+   <DESCRIPTION>
+
+Dosud u nás neobjevená, avšak vysoce ceněná kniha pro děti plná energie, představivosti i uvěřitelných emocí. Hrdinka, se kterou se všechny holky rebelky ve věku od 10 let mohou ztotožnit.
+
+</DESCRIPTION>
+   <CATEGORYTEXT />
+   <URL>
+https://www.sckn.cz/svehlaviny-s-2-ekani-na-zazrak-finn-ole-heinrich-pn-534-753/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/fdc7caa7669482ad34ae300f3ecaf651.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>208</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>kniha, vázaná vazba</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Finn-Ole</NAME>
+         <SURNAME>Heinrich</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Rán</NAME>
+         <SURNAME>Flygenringová</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Kateřina</NAME>
+         <SURNAME>Klabanová</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

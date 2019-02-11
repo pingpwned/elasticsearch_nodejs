@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534490</ITEM_ID>
+   <PRODUCTNAME>Chladná zrada - Dick Francis</PRODUCTNAME>
+   <EAN>9788024250885</EAN>
+   <ISBN>978-80-242-5088-5</ISBN>
+   <PRICE_VAT>170</PRICE_VAT>
+   <DESCRIPTION>
+
+David Cleveland, šéf vyšetřovacího oddělení britského Jockey Clubu, pátrá v Norsku po anglickém jezdci, který zmizel ze zdejšího závodiště i s pytlem peněz ze vstupného. Proč by slušně vydělávající žokej kradl nikterak výraznou částku? Proč by to udělal tak očividným způsobem?
+
+</DESCRIPTION>
+   <CATEGORYTEXT />
+   <URL>
+https://www.sckn.cz/chladna-zrada-dick-francis-pn-534-490/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/e5f30454eaa84d4ddbbd76f9895cc8cb.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>192</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Dick</NAME>
+         <SURNAME>Francis</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Jaroslava</NAME>
+         <SURNAME>Moserová-Davidová</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

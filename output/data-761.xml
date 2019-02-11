@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>533928</ITEM_ID>
+   <PRODUCTNAME>Modlitby od srdce - Lorna Byrneová</PRODUCTNAME>
+   <EAN>9788075499400</EAN>
+   <ISBN>978-80-7549-940-0</ISBN>
+   <PRICE_VAT>179</PRICE_VAT>
+   <DESCRIPTION>
+
+Lorna Byrneová, která si dávno i v Čechách získala srdce svých čtenářů a přívrženců, přináší ve své nové knížce nejen další postřehy a doporučení, ale především také soubor mnoha modliteb, které se hodí v různých situacích a dokážou nezřídka přinést zvrat i uklidnění.
+
+</DESCRIPTION>
+   <CATEGORYTEXT />
+   <URL>
+https://www.sckn.cz/modlitby-od-srdce-lorna-byrneova-pn-533-928/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/a00940ea87511e6bd40bc4f8875928bf.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>216</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Lorna</NAME>
+         <SURNAME>Byrneová</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Vlasta</NAME>
+         <SURNAME>Hesounová</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

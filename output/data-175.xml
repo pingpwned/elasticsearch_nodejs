@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534593</ITEM_ID>
+   <PRODUCTNAME>Tolkienovo vidění světa - Peter Kreeft</PRODUCTNAME>
+   <EAN>9788074502972</EAN>
+   <ISBN>978-80-7450-297-2</ISBN>
+   <PRICE_VAT>175</PRICE_VAT>
+   <DESCRIPTION>
+
+Dobrodružný a strhující svět Tolkienových děl nelze napodobit. Přitažlivá však může být i „výprava“ do myšlenkového světa tohoto autora, který do svých knih ukryl bohaté křesťanské poselství.
+
+</DESCRIPTION>
+   <CATEGORYTEXT>E-knihy | Filozofie a náboženství | Křesťanství</CATEGORYTEXT>
+   <URL>
+https://www.sckn.cz/tolkienovo-vid-ni-sv-ta-peter-kreeft-pn-534-593/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/f8b7ccb8779a2f62b1363a28dd560863.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>336</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Peter</NAME>
+         <SURNAME>Kreeft</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Štěpán</NAME>
+         <SURNAME>Smolen</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

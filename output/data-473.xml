@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534233</ITEM_ID>
+   <PRODUCTNAME>20 výjimečných kluků, kteří změnili svět</PRODUCTNAME>
+   <EAN>9788025511015</EAN>
+   <ISBN>978-80-255-1101-5</ISBN>
+   <PRICE_VAT>299</PRICE_VAT>
+   <DESCRIPTION>
+
+Nikdo se nenarodil rovnou slavným. Dokonce i osobnosti, které tisíci různými způsoby přispěly k pokroku lidstva, začínaly stejně – jako obyčejné děti.
+
+</DESCRIPTION>
+   <CATEGORYTEXT />
+   <URL>
+https://www.sckn.cz/20-vyjime-nych-kluk-kte-i-zm-nili-sv-t-pn-534-233/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/5a7ebf7277f65411071d58b1936f9aa1.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>96</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>kniha, vázaná vazba</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS />
+</SHOPITEM>

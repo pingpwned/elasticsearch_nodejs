@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534574</ITEM_ID>
+   <PRODUCTNAME>V zajetí zlaté řeky - Louis L´Amour</PRODUCTNAME>
+   <EAN>9788075439246</EAN>
+   <ISBN>978-80-7543-924-6</ISBN>
+   <PRICE_VAT>199</PRICE_VAT>
+   <DESCRIPTION>
+
+Adam Stark narazil na zlato. Spolu se ženou a sestrou se snaží vytěžit co nejvíce, zatímco se jim ve spleti vyprahlých kaňonů daří unikat pozornosti Apačů. Znenadání se objeví psanec Taggart pronásledovaný lovcem odměn...
+
+</DESCRIPTION>
+   <CATEGORYTEXT />
+   <URL>
+https://www.sckn.cz/v-zajeti-zlate-eky-louis-l-acute-amour-pn-534-574/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/f12b442faf6fd1fe31b0cf23560982a7.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>176</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Jan</NAME>
+         <SURNAME>Mrlík</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Louis</NAME>
+         <SURNAME>L´Amour</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

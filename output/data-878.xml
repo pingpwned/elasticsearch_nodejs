@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>533801</ITEM_ID>
+   <PRODUCTNAME>
+Rychlé rodinné recepty – Mňam mňam, mami! - Inga Pfannebecker
+</PRODUCTNAME>
+   <EAN>9788075411648</EAN>
+   <ISBN>978-80-7541-164-8</ISBN>
+   <PRICE_VAT>149</PRICE_VAT>
+   <DESCRIPTION>
+
+Bleskové vaření pro celou rodinu. I když moc rádi vaříte a v kuchyni dokážete při práci zapomenout na čas i na celý svět, po celodenním shonu jste na tom večer asi stejně jako většina ostatních rodičů.
+
+</DESCRIPTION>
+   <CATEGORYTEXT />
+   <URL>
+https://www.sckn.cz/rychle-rodinne-recepty-ndash-m-am-m-am-mami-inga-pfannebecker-pn-533-801/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/7ec0b59178f80a5eeac14e4e52ae56a8.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>64</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>kniha, brožovaná vazba</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Dagmar</NAME>
+         <SURNAME>Burešová</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Inga</NAME>
+         <SURNAME>Pfannebecker</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

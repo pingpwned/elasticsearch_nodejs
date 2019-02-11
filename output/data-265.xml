@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534503</ITEM_ID>
+   <PRODUCTNAME>Ms. Marvel: (Ne)normální</PRODUCTNAME>
+   <EAN>9788074329432</EAN>
+   <ISBN>978-80-7432-943-2</ISBN>
+   <PRICE_VAT>299</PRICE_VAT>
+   <DESCRIPTION>
+
+Spolužačka, ségra, superhrdinka. Ms. Marvel je příběhem teenagerky, která si hledá svou cestu. A jen tak mimochodem získá nadlidské schopnosti, které změní celý její život.
+
+</DESCRIPTION>
+   <CATEGORYTEXT>Tištěné knihy | Pro děti a mládež | Pro děti 8-10</CATEGORYTEXT>
+   <URL>
+https://www.sckn.cz/ms-marvel-ne-normalni-g-willow-wilsonova-pn-534-503/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/a344950c6c9a8335f643bd74affbfd56.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>120</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>kniha, vázaná vazba</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Jazyk</PARAM_NAME>
+         <VAL>český</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>G. Willow</NAME>
+         <SURNAME>Wilsonová</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Překladatel</ROLE>
+         <NAME>Anna</NAME>
+         <SURNAME>Křivánková</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

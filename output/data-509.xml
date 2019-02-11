@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534196</ITEM_ID>
+   <PRODUCTNAME>
+Od jara do zimy: Výpravy do naší přírody po celý rok - Miloš Anděra
+</PRODUCTNAME>
+   <EAN>9788075296641</EAN>
+   <ISBN>978-80-7529-664-1</ISBN>
+   <PRICE_VAT>399</PRICE_VAT>
+   <DESCRIPTION>
+
+Naše příroda je velmi rozmanitá a střídání ročních období jí ještě přidává na zajímavosti. Každý, kdo se o ni alespoň trochu zajímá, prožívá jarní záplavu květů, letní čas mláďat, podzimní hru barev i zimní klid a vše další s tím spojené.
+
+</DESCRIPTION>
+   <CATEGORYTEXT />
+   <URL>
+https://www.sckn.cz/od-jara-do-zimy-vypravy-do-na-scaron-i-p-irody-po-cely-rok-milo-scaron-and-ra-pn-534-196/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/b2cbe958b129547fffc11b3c1438e472.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>200</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>kniha, vázaná vazba</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Miloš</NAME>
+         <SURNAME>Anděra</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

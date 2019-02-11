@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+<ITEM_ID>534177</ITEM_ID>
+<PRODUCTNAME>Vidnotéka</PRODUCTNAME>
+<PRODUCT>Vidnotéka</PRODUCT>
+<EAN>9788073892319</EAN>
+<ISBN>978-80-7389-231-9</ISBN>
+<PRICE_VAT>90</PRICE_VAT>
+<DESCRIPTION>
+
+Vidnotéka je třetí sbírkou autorky, která tíhne k surrealismu, minimalismu, zkratkovitosti ve vyjadřování. Na nevelkém prostoru dochází ke snaze uchopit nepoznané, poznané, toužené i nechtěné. Její verše se často dožadují čtenářova dourčení textu, jeho fantazie.
+
+</DESCRIPTION>
+<CATEGORYTEXT>Tištěné knihy | Krásná literatura</CATEGORYTEXT>
+<URL>https://www.sckn.cz/vidnoteka-pn-534-177/</URL>
+<PARAM>
+<PARAM_NAME>Počet stran</PARAM_NAME>
+<VAL>40</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Vazba</PARAM_NAME>
+<VAL>
+měkké desky, lepená brožura oříznutá po třech stranách
+</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Jazyk</PARAM_NAME>
+<VAL>český</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Rozměr</PARAM_NAME>
+<VAL>A6</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Datum vydání</PARAM_NAME>
+<VAL>25. 10. 2018</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Pořadí vydání</PARAM_NAME>
+<VAL>1.</VAL>
+</PARAM>
+<CONTRIBUTOR>
+<ROLE>Autor</ROLE>
+<NAME>Zdeňka</NAME>
+<SURNAME>Braumová</SURNAME>
+</CONTRIBUTOR>
+<CONTRIBUTOR>
+<ROLE>Ilustrátor</ROLE>
+<NAME>Věra</NAME>
+<SURNAME>Martinková</SURNAME>
+</CONTRIBUTOR>
+<CONTRIBUTOR>
+<ROLE>Editor</ROLE>
+<NAME>Věra</NAME>
+<SURNAME>Martinková, PhDr. CSc.</SURNAME>
+</CONTRIBUTOR>
+<THEMATIC_GROUP>13 - Krásná literatura</THEMATIC_GROUP>
+</SHOPITEM>

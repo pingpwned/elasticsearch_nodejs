@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534009</ITEM_ID>
+   <PRODUCTNAME>Vysoká škola ekonomická v Praze a rok 1968</PRODUCTNAME>
+   <EAN>9788086781372</EAN>
+   <ISBN>978-80-86781-37-2</ISBN>
+   <PRICE_VAT>340</PRICE_VAT>
+   <DESCRIPTION>
+
+Publikace seznamuje s odrazem událostí roku 1968 a s jeho dozvuky na Vysoké škole ekonomické v Praze (VŠE).
+
+</DESCRIPTION>
+   <CATEGORYTEXT>
+Tištěné knihy | Historie | Podle zemí a kontinentů | České a slovenské dějiny
+</CATEGORYTEXT>
+   <URL>
+https://www.sckn.cz/vysoka-scaron-kola-ekonomicka-v-praze-a-rok-1968-andrej-toth-ale-scaron-sk-ivan-pn-534-009/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/e8e8e99c92fc2349447ddd4c8984e450.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>276</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>kniha, vázaná vazba</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Jazyk</PARAM_NAME>
+         <VAL>český</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Andrej</NAME>
+         <SURNAME>Tóth</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Aleš</NAME>
+         <SURNAME>Skřivan</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

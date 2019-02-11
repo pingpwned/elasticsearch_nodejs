@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>533972</ITEM_ID>
+   <PRODUCTNAME>Popelka, Kniha Džunglí</PRODUCTNAME>
+   <EAN>9788075671943</EAN>
+   <ISBN>978-80-7567-194-3</ISBN>
+   <PRICE_VAT>129</PRICE_VAT>
+   <DESCRIPTION>
+
+Vaše oblíbené klasické příběhy Popelka a Kniha džunglí čekají právě na vás. Navíc v krásné knize s lentikulární obálkou a báječnými ilustracemi, které malým i velkým umožní snít. Pojďte si s námi vychutnat toto magické čtení.
+
+</DESCRIPTION>
+   <CATEGORYTEXT />
+   <URL>
+https://www.sckn.cz/popelka-kniha-d-ungli-pn-533-972/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/a00bd9d1d599743386cc04bceada935f.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>44</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>kniha, vázaná vazba</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Dagmar</NAME>
+         <SURNAME>Pilařová</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

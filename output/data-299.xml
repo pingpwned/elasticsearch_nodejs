@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534466</ITEM_ID>
+   <PRODUCTNAME>Suchý pastel – Portréty</PRODUCTNAME>
+   <EAN>9788074133855</EAN>
+   <ISBN>978-80-7413-385-5</ISBN>
+   <PRICE_VAT>449</PRICE_VAT>
+   <DESCRIPTION>
+
+Umělec, pastelista, Michal Janovský vám prozradí, kteří slavní umělci pastel používali, co všechno s ním lze vytvořit, zda se musí pastel rozmazávat a spoustu dalších věcí.
+
+</DESCRIPTION>
+   <CATEGORYTEXT>Tištěné knihy | Umění | Výtvarné umění</CATEGORYTEXT>
+   <URL>
+https://www.sckn.cz/suchy-pastel-ndash-portrety-michal-janovsky-pn-534-466/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/48bfa229e09f56893edd601a9039121c.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>200</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>kniha, vázaná vazba</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Jazyk</PARAM_NAME>
+         <VAL>český</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Michal</NAME>
+         <SURNAME>Janovský</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534627</ITEM_ID>
+   <PRODUCTNAME>Zmizení Nefertity - Elizabeth Peters</PRODUCTNAME>
+   <EAN>9788075438881</EAN>
+   <ISBN>978-80-7543-888-1</ISBN>
+   <PRICE_VAT>229</PRICE_VAT>
+   <DESCRIPTION>
+
+Amélie s manželem se vrátí do Káhiry, aby pokračovali ve vykopávkách. Hned první den naruší jejich pobyt pobodaný muž, který vběhne do jejich hotelové koupelny a padne na zem mrtev. V kapse má ke všemu lístek s jejím jménem.
+
+</DESCRIPTION>
+   <CATEGORYTEXT />
+   <URL>
+https://www.sckn.cz/zmizeni-nefertity-elizabeth-peters-pn-534-627/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/f60a475dcadb0f6fd9219536b6eb1da0.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>336</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Elizabeth</NAME>
+         <SURNAME>Peters</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Hana</NAME>
+         <SURNAME>Černá</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

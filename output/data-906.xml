@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>533774</ITEM_ID>
+   <PRODUCTNAME>Co je nového ve filozofii - Miroslav Petříček</PRODUCTNAME>
+   <EAN>9788090675186</EAN>
+   <ISBN>978-80-906751-8-6</ISBN>
+   <PRICE_VAT>240</PRICE_VAT>
+   <DESCRIPTION>
+
+Pohyby současného myšlení. Myšlení, filozofické nevyjímaje, je aktuální, to jest nějak nové, jen tehdy, pokud se pokouší překračovat své vlastní hranice. Své době odpovídá tím, že se mění.
+
+</DESCRIPTION>
+   <CATEGORYTEXT>
+Tištěné knihy | Filozofie a náboženství | Filozofie
+</CATEGORYTEXT>
+   <URL>
+https://www.sckn.cz/co-je-noveho-ve-filozofii-miroslav-pet-i-ek-pn-533-774/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/278f7e8c3fa1da608978845e266061a5.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>92</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>Flexovazba</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Miroslav</NAME>
+         <SURNAME>Petříček</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

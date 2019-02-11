@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534163</ITEM_ID>
+   <PRODUCTNAME>Turning the Tide on Plastic - Lucy Siegle</PRODUCTNAME>
+   <EAN>9781409182986</EAN>
+   <ISBN>978-1-4091-8298-6</ISBN>
+   <PRICE_VAT>389</PRICE_VAT>
+   <DESCRIPTION>
+
+Without big action, at the current rate, pieces of plastic will outnumber fish in the ocean by 2050.
+
+</DESCRIPTION>
+   <CATEGORYTEXT />
+   <URL>
+https://www.sckn.cz/turning-the-tide-on-plastic-lucy-siegle-pn-534-163/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/6d78130ca1c53d59da47946568cf7272.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>264</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>kniha, vázaná vazba</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Lucy</NAME>
+         <SURNAME>Siegle</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

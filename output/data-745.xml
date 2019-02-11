@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>533946</ITEM_ID>
+   <PRODUCTNAME>Letadla</PRODUCTNAME>
+   <EAN>9788075672377</EAN>
+   <ISBN>978-80-7567-237-7</ISBN>
+   <PRICE_VAT>119</PRICE_VAT>
+   <DESCRIPTION>
+
+Měli jste někdy chuť létat? A věděli jste, že existuje mnoho typů letadel? A lidé je stále vylepšují! Vynalezli dokonce i kluzák, který léta bez motoru, anebo ještě něco lepšího: padák a rogalo!
+
+</DESCRIPTION>
+   <CATEGORYTEXT />
+   <URL>https://www.sckn.cz/letadla-pn-533-946/</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/293175ae89b371b1636fa1f558c67da9.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>46</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>kniha, vázaná vazba</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS />
+</SHOPITEM>

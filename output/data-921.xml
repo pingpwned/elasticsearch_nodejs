@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>533753</ITEM_ID>
+   <PRODUCTNAME>U Božího Mlýna</PRODUCTNAME>
+   <EAN>9788076010468</EAN>
+   <ISBN>978-80-7601-046-8</ISBN>
+   <PRICE_VAT>329</PRICE_VAT>
+   <DESCRIPTION>
+
+Život kněze Ladislava Heryána je plný paradoxů. Připravoval se na dráhu misionáře, ale působí v nejateističtější zemi Evropy. Je doma mezi salesiány i mezi kamarády z undergroundu. Je introvert, ale vystupuje na rockových festivalech s kytarou a biblí v ruce. Věří v Boha, který přesahuje všechny naše představy, a přece touží po setkání s námi bez ohledu na to, kdo jsme. A o tom všem je rozhovor, který s ním vedl publicista Josef Beránek U Božího mlýna.
+
+</DESCRIPTION>
+   <CATEGORYTEXT>
+Tištěné knihy | Filozofie a náboženství | Všeobecné a ostatní
+</CATEGORYTEXT>
+   <URL>https://www.sckn.cz/u-boziho-mlyna-pn-533-753/</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/db265abcf095444c852e422a5e001823.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>296</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Jazyk</PARAM_NAME>
+         <VAL>český</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>05. 11. 2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>1.</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Ladislav</NAME>
+         <SURNAME>Heryán</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

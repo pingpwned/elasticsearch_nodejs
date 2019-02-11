@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>533936</ITEM_ID>
+   <PRODUCTNAME>Zoopark Hustoles: Trable s tygrem</PRODUCTNAME>
+   <EAN>9788025623695</EAN>
+   <ISBN>978-80-256-2369-5</ISBN>
+   <PRICE_VAT>179</PRICE_VAT>
+   <DESCRIPTION>
+
+Ve druhém díle trilogie Zoopark Hustoles zažívá Zuzka Lišková další dobrodružství. Už se důvěrně zná se zvířaty v zooparku a je hrdým členem týmu ošetřovatelů.
+
+</DESCRIPTION>
+   <CATEGORYTEXT>
+Tištěné knihy | Pro děti a mládež | Pro děti 3-7 let | Příběhy
+</CATEGORYTEXT>
+   <URL>
+https://www.sckn.cz/zoopark-hustoles-trable-s-tygrem-tamsyn-murray-pn-533-936/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/51faa39a372fd8e08bdb9fb87bbf16f0.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>176</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>kniha, brožovaná vazba</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Jazyk</PARAM_NAME>
+         <VAL>český</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Tamsyn</NAME>
+         <SURNAME>Murray</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Překladatel</ROLE>
+         <NAME>Milan</NAME>
+         <SURNAME>Kaplan</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

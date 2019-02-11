@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534650</ITEM_ID>
+   <PRODUCTNAME>Doteky hněvu - Roman Cílek</PRODUCTNAME>
+   <EAN>9788088124085</EAN>
+   <ISBN>978-80-88124-08-5</ISBN>
+   <PRICE_VAT>199</PRICE_VAT>
+   <DESCRIPTION>
+
+Jako je tomu u toho autora vždy, i tentokrát nás v osmi strhujících příbězích zavádí na různá místa naší vlasti a také leckde ve světě.
+
+</DESCRIPTION>
+   <CATEGORYTEXT />
+   <URL>
+https://www.sckn.cz/doteky-hn-vu-roman-cilek-pn-534-650/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/ea7a20277d41af7d5cc31e550c41ec36.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>184</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>kniha, vázaná vazba</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Roman</NAME>
+         <SURNAME>Cílek</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

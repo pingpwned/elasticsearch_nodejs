@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>533872</ITEM_ID>
+   <PRODUCTNAME>
+Studium integrity povrchu polymerních materiálů při obrábění laserem
+</PRODUCTNAME>
+   <EAN>9788074547867</EAN>
+   <ISBN>978-80-7454-786-7</ISBN>
+   <PRICE_VAT>0</PRICE_VAT>
+   <DESCRIPTION>
+
+V současné době si výrobci i odběratelé součástí, tvořených z polymerních materiálů, kladou stále vyšší nároky na jakost povrchů zhotovených dílů. Významnou roli zde hraje využívání moderních technologií, jako je například laser. Tato disertační práce spadá svou náplní do oblasti nekonvenčních technologií a je zaměřena především na laserové obrábění polymerních materiálů. Hlavním cílem práce je studium integrity povrchu vybraných polymerních materiálů získaných laserovým obráběním. Hlavní pozornost je věnována stanovení „laserové obrobitelnosti“ polymerních materiálů, drsnosti obráběných ploch při změně technologických parametrů, šířce tepelného ovlivnění a v neposlední řadě vzniku možných strukturálních změn v důsledku koncentrované energie záření.
+
+</DESCRIPTION>
+   <CATEGORYTEXT>Tištěné knihy | Ostatní a nezařazené</CATEGORYTEXT>
+   <URL>
+https://www.sckn.cz/studium-integrity-povrchu-polymernich-materialu-pri-obrabeni-laserem-pn-533-872/
+</URL>
+   <IMGURL />
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>91</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>e-kniha - pdf</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Jazyk</PARAM_NAME>
+         <VAL>český</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>06. 11. 2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>První</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Jana</NAME>
+         <SURNAME>Knedlová</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

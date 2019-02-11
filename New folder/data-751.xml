@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+<ITEM_ID>533939</ITEM_ID>
+<PRODUCTNAME>Pohádky v pohybu - Červená Karkulka</PRODUCTNAME>
+<PRODUCT>Pohádky v pohybu - Červená Karkulka</PRODUCT>
+<EAN>9788025624272</EAN>
+<ISBN>978-80-256-2427-2</ISBN>
+<PRICE_VAT>249</PRICE_VAT>
+<DESCRIPTION>
+
+Klasický pohádkový příběh o Červené karkulce tentokrát jako leporelo s pohyblivými prvky na každé dvoustraně.
+
+</DESCRIPTION>
+<URL>
+https://www.sckn.cz/pohadky-v-pohybu-ervena-karkulka-pn-533-939/
+</URL>
+<IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/02d8a77d8fa2c462fddea15db4b201a2.jpg
+</IMGURL>
+<PARAM>
+<PARAM_NAME>Počet stran</PARAM_NAME>
+<VAL>12</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Datum vydání</PARAM_NAME>
+<VAL>2018</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Vazba</PARAM_NAME>
+<VAL />
+</PARAM>
+<PARAM>
+<PARAM_NAME>Pořadí vydání</PARAM_NAME>
+<VAL>neurčeno</VAL>
+</PARAM>
+<CONTRIBUTOR>
+<ROLE>Autor</ROLE>
+<NAME>Amy</NAME>
+<SURNAME>Blay</SURNAME>
+</CONTRIBUTOR>
+<CONTRIBUTOR>
+<ROLE>Autor</ROLE>
+<NAME>Josef</NAME>
+<SURNAME>Vyskočil</SURNAME>
+</CONTRIBUTOR>
+<THEMATIC_GROUP>999 - nezařazeno</THEMATIC_GROUP>
+</SHOPITEM>

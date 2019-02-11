@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>533660</ITEM_ID>
+   <PRODUCTNAME>Krtek a sněhulák</PRODUCTNAME>
+   <EAN>9788000052359</EAN>
+   <ISBN>978-80-00-05235-9</ISBN>
+   <PRICE_VAT>199</PRICE_VAT>
+   <DESCRIPTION>
+
+Veselé příběhy oblíbeného Krtka, tentokrát o dobrodružstvích, která prožívá s kamarádem sněhulákem. Kromě veselých skopičin se děti dozví i to, jak Krtek pomůže sněhulákovi přežít jaro a léto a podzim.
+
+</DESCRIPTION>
+   <CATEGORYTEXT>Tištěné knihy | Pro děti a mládež</CATEGORYTEXT>
+   <URL>https://www.sckn.cz/krtek-a-snehulak-pn-533-660/</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/13ec911dbeb574cd373a6625a769fc49.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>36</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL />
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Jazyk</PARAM_NAME>
+         <VAL>český</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>05. 11. 2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>5</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Hana</NAME>
+         <SURNAME>Doskočilová</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

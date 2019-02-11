@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534373</ITEM_ID>
+   <PRODUCTNAME>Cesty radosti, lásky a štěstí</PRODUCTNAME>
+   <EAN>9788090653580</EAN>
+   <ISBN>978-80-906535-8-0</ISBN>
+   <PRICE_VAT>229</PRICE_VAT>
+   <DESCRIPTION>
+
+Být doopravdy šťastným je daleko snazší, než si myslíte. A co je na tom nejlepší? Že nemusíte na nic čekat. Ve stavu trvalého štěstí se můžete znovu octnout doslova lusknutím prstů. Věřím, že vám kniha CESTY RADOSTI, LÁSKY A ŠTĚSTÍ vnese inspiraci do vašeho každodenního života. Je poskládaná z příběhů posbíraných na mých cestách, z obyčejných momentů, které ve mě probudily inspiraci prostým odkazem, na který bychom nikdy neměli zapomínat: „Největší bohatství se ukrývá v nejobyčejnějších věcech. A ty máme v každém okamžiku přímo před očima, stačí ty oči doopravdy otevřít.“ Kniha je prodchnutá inspirativními myšlenkami, které vám okamžitě dodají optimismus a energii. Stačí ji třeba hned ráno nebo v kdykoliv v průběhu dne otevřít na libovolné straně, přečíst si zvýrazněnou větu nebo odstavec a dostanete odpověď nebo povzbuzení, které právě teď potřebujete. A které vám pomůže zůstat napojení na cestu srdce, co vás povede krajinou radosti, lásky a štěstí k opravdovému bohatství. Vašemu naplněnému životu s lehkostí v každém dni. Jednotlivé příběhy, stejně jako zvýrazněné odstavce inspirativních myšlenek, můžete číst i na přeskáčku, a v každém najdete odpovědi na to, kudy znovu vejít do světa bez hranic.
+
+</DESCRIPTION>
+   <CATEGORYTEXT>
+Tištěné knihy | Zdraví a životní styl | Osobní rozvoj
+</CATEGORYTEXT>
+   <URL>
+https://www.sckn.cz/cesty-radosti-lasky-a-stesti-pn-534-373/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/86eca11cb7f11f74a3b11e69cf023d53.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>200</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>kniha, brožovaná vazba</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>první</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Jazyk</PARAM_NAME>
+         <VAL>český</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Katy</NAME>
+         <SURNAME>Yaksha</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534559</ITEM_ID>
+   <PRODUCTNAME>Logopedické hry pro větší děti</PRODUCTNAME>
+   <EAN>9788026213949</EAN>
+   <ISBN>978-80-262-1394-9</ISBN>
+   <PRICE_VAT>175</PRICE_VAT>
+   <DESCRIPTION>
+
+Pracovní sešit je určen pro děti především mladšího školního věku, které ještě nevyslovují správně některé hlásky. Obsahuje úkoly vhodné pro upevnění (automatizaci) v řeči již naučených (zafixovaných) hlásek.
+
+</DESCRIPTION>
+   <CATEGORYTEXT>
+Tištěné knihy | Pro děti a mládež | Pro děti 3-7 let | Příprava do školy/ pracovní sešity
+</CATEGORYTEXT>
+   <URL>
+https://www.sckn.cz/logopedicke-hry-pro-v-t-scaron-i-d-ti-ilona-eichlerova-jana-havli-kova-pn-534-559/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/b75887c5d5ea8c5902149e5ca58675d6.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>72</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>kniha, brožovaná vazba</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Jazyk</PARAM_NAME>
+         <VAL>český</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Ilona</NAME>
+         <SURNAME>Eichlerová</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Jana</NAME>
+         <SURNAME>Havlíčková</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Ilustrátor</ROLE>
+         <NAME>Patricie</NAME>
+         <SURNAME>Koubská</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

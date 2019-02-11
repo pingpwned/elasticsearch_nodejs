@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>533645</ITEM_ID>
+   <PRODUCTNAME>Disney - Zvířata</PRODUCTNAME>
+   <EAN>9788025243893</EAN>
+   <ISBN>978-80-252-4389-3</ISBN>
+   <PRICE_VAT>99</PRICE_VAT>
+   <DESCRIPTION>
+
+V knížkách z edice určené pro společné čtení a ukazování s rodiči najdete základní pojmy, které přispějí k rozvoji vašeho dítěte. S pomocí této knížky je můžete učit poznávat zvířata kolem nás.
+
+</DESCRIPTION>
+   <CATEGORYTEXT>Tištěné knihy | Pro děti a mládež</CATEGORYTEXT>
+   <URL>https://www.sckn.cz/disney-zvirata-pn-533-645/</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/3deb8d90da9f0c78e8ae19a38b099fce.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>12</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL />
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Jazyk</PARAM_NAME>
+         <VAL>český</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>05. 11. 2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>1.</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME />
+         <SURNAME>kolektiv</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

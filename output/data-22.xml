@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534754</ITEM_ID>
+   <PRODUCTNAME>Zlá krev - Mark Sennen</PRODUCTNAME>
+   <EAN>9788072527687</EAN>
+   <ISBN>978-80-7252-768-7</ISBN>
+   <PRICE_VAT>379</PRICE_VAT>
+   <DESCRIPTION>
+
+Nastal čas odplaty. Vražedné odplaty. Druhý případ detektiv inspektorky Charlotty Savageové. Od mistra detektivního thrilleru, jehož knihy se v Británii staly senzací.
+
+</DESCRIPTION>
+   <CATEGORYTEXT />
+   <URL>
+https://www.sckn.cz/zla-krev-mark-sennen-pn-534-754/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/c1c493d8ad3c4ede5a4603bf54d5f9e0.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>432</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>kniha, vázaná vazba</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Mark</NAME>
+         <SURNAME>Sennen</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Daniela</NAME>
+         <SURNAME>Reischlová</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

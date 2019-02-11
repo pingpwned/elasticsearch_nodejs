@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534250</ITEM_ID>
+   <PRODUCTNAME>Pětihvězdí španělských sonetistů</PRODUCTNAME>
+   <EAN>9788085845914</EAN>
+   <ISBN>978-80-85845-91-4</ISBN>
+   <PRICE_VAT>210</PRICE_VAT>
+   <DESCRIPTION>
+
+Autoři sonetů přeložených pro tuto antologii žili a tvořili v první polovině 16. století. Patří k těm, kteří přenesli do Španělska italský sonet, jehož propracovaná forma se záhy v jejich vlasti ujala, nehledě na odpor některých starších básníků lpících na tradičních domácích vzorech. Boscán, Garcilaso, Hurtado de Mendoza a další sonetisté ovšem psali i verše v domácím osmislabičném úzu (písně, burleskní verše) a skladby na způsob italských tercín a klasických ód, elegií, eklog a epištol. Všichni pocházeli ze šlechtických rodin – první tři jmenovaní dokonce z velmi významných. Jeden z těchto propagátorů nového italského úzu byl smrtelně zraněn okolo pětatřicítky při vojenském tažení, další ve čtyřiceti v zámoří při souboji, třetí onemocněl a zemřel jako padesátiletý. Acuna zesnul v šedesáti; pouze voják a diplomat Hurtado de Mendoza se dožil sedmdesátky. Dnešní čtenáři jejich poezie si leckdy neuvědomují, jak krátký život byl těmto autorům dopřán a jak často stáli ve své době tváří v tvář smrti. Přesto každý z nich zanechal budoucím generacím básnické dílo, které je svěží a zajímavé i po téměř pěti stech letech.
+
+</DESCRIPTION>
+   <CATEGORYTEXT>
+Tištěné knihy | Krásná literatura | Poezie | Světová poezie
+</CATEGORYTEXT>
+   <URL>
+https://www.sckn.cz/p-tihv-zdi-scaron-pan-lskych-sonetist-juan-boscan-garcilaso-de-la-vega-hurtado-de-mendoza-gutierre-de-cetina-hernando-de-acuna-pn-534-250/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/d43c9d6c317995e545d29857415dfdbb.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>174</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>kniha, brožovaná vazba</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Jazyk</PARAM_NAME>
+         <VAL>český</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Překladatel</ROLE>
+         <NAME>Miloslav</NAME>
+         <SURNAME>Uličný</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Juan</NAME>
+         <SURNAME>Boscán</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Garcilaso de la</NAME>
+         <SURNAME>Vega</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Hurtado de</NAME>
+         <SURNAME>Mendoza</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Gutierre de</NAME>
+         <SURNAME>Cetina</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Hernando de</NAME>
+         <SURNAME>Acuna</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

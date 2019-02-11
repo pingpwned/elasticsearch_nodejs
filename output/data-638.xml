@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534056</ITEM_ID>
+   <PRODUCTNAME>Perfektní diktatura</PRODUCTNAME>
+   <EAN>9788020029157</EAN>
+   <ISBN>978-80-200-2915-7</ISBN>
+   <PRICE_VAT>325</PRICE_VAT>
+   <DESCRIPTION>
+
+Současný čínský systém je ve své podobě ojedinělý – doposud se v lidských dějinách žádný takový nevyskytoval. Tato kniha vysvětluje, jak systém funguje a kam směřuje.
+
+</DESCRIPTION>
+   <CATEGORYTEXT>
+Tištěné knihy | Naučná | Společenské vědy | Politologie a politika
+</CATEGORYTEXT>
+   <URL>
+https://www.sckn.cz/perfektni-diktatura-stein-ringen-pn-534-056/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/332fbbb0608200d95f461a0893142f92.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>268</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>kniha, brožovaná vazba</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Jazyk</PARAM_NAME>
+         <VAL>český</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Stein</NAME>
+         <SURNAME>Ringen</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Překladatel</ROLE>
+         <NAME>Jan</NAME>
+         <SURNAME>Krist</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

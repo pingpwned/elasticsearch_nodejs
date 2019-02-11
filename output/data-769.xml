@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>533921</ITEM_ID>
+   <PRODUCTNAME>O zlobivém králíčkovi</PRODUCTNAME>
+   <EAN>9788075672155</EAN>
+   <ISBN>978-80-7567-215-5</ISBN>
+   <PRICE_VAT>99</PRICE_VAT>
+   <DESCRIPTION>
+
+Přečtěte si oblíbený klasický příběh O zlobivém králíčkovi v tomto fantastickém prostorovém leporelu. Králíček Robík a jeho kamarádi se před vámi i vašimi nejmenšími objeví jako živí pokaždé, když otevřete některou ze stránek.
+
+</DESCRIPTION>
+   <CATEGORYTEXT />
+   <URL>
+https://www.sckn.cz/o-zlobivem-krali-kovi-pn-533-921/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/fa8189a167bcea846415ef5d40d7de63.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>16</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>dětské skládanky a leporela</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS />
+</SHOPITEM>

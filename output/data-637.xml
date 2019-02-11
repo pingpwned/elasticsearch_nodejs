@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534057</ITEM_ID>
+   <PRODUCTNAME>
+Třicetiletá válka 1618–1648 - Pod taktovkou kardinála Richelieu
+</PRODUCTNAME>
+   <EAN>9788088030300</EAN>
+   <ISBN>978-80-88030-30-0</ISBN>
+   <PRICE_VAT>399</PRICE_VAT>
+   <DESCRIPTION>
+
+Druhý díl sleduje švédský nástup, začínající pohromy císaře v říšské politice a v neposlední řadě francouzské pojímání válečného dění, jež mu vtisklo širší mezinárodně-politický charakter.
+
+</DESCRIPTION>
+   <CATEGORYTEXT>
+Tištěné knihy | Historie | Militari, vojenství | Války a konflikty do r. 1900
+</CATEGORYTEXT>
+   <URL>
+https://www.sckn.cz/t-icetileta-valka-1618-ndash-1648-pod-taktovkou-kardinala-richelieu-radek-fukala-pn-534-057/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/ad56e998b5b04b8edfa510547771a383.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>240</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>kniha, vázaná vazba</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Jazyk</PARAM_NAME>
+         <VAL>český</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Radek</NAME>
+         <SURNAME>Fukala</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

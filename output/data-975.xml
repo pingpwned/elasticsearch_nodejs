@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>532898</ITEM_ID>
+   <PRODUCTNAME>Fíla, Žofie a Smaragdová deska</PRODUCTNAME>
+   <EAN>9788020449849</EAN>
+   <ISBN>978-80-204-4984-9</ISBN>
+   <PRICE_VAT>299</PRICE_VAT>
+   <DESCRIPTION>
+
+Sourozenci Fíla a Žofie mají problém: jejich maminka je smutná, protože ztratila zlatý prstýnek...
+
+</DESCRIPTION>
+   <CATEGORYTEXT>
+Tištěné knihy | Pro děti a mládež | Pro děti 3-7 let | Příběhy
+</CATEGORYTEXT>
+   <URL>
+https://www.sckn.cz/fila-zofie-a-smaragdova-deska-pn-532-898/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/16543810c04861ec0d7ddfaae60bc915.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>112</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>kniha, vázaná vazba</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>1.</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Jazyk</PARAM_NAME>
+         <VAL>český</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Rozměr</PARAM_NAME>
+         <VAL>215x245</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Petr</NAME>
+         <SURNAME>Stančík</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Ilustrátor</ROLE>
+         <NAME>Lucie</NAME>
+         <SURNAME>Dvořáková</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

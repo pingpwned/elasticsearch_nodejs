@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+<ITEM_ID>534199</ITEM_ID>
+<PRODUCTNAME>Nové pověsti - Robert Wudy</PRODUCTNAME>
+<PRODUCT>Nové pověsti - Robert Wudy</PRODUCT>
+<EAN>9788074653353</EAN>
+<ISBN>978-80-7465-335-3</ISBN>
+<PRICE_VAT>139</PRICE_VAT>
+<DESCRIPTION>
+
+Básnická prvotina Roberta Wudyho sestává z pěti oddílů: Ikaros Fénix, Praha, Melandor a Malfiora, Žrout mateřských znamínek a Věčný prenatál.
+
+</DESCRIPTION>
+<URL>
+https://www.sckn.cz/nove-pov-sti-robert-wudy-pn-534-199/
+</URL>
+<IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/275d9becb874a54c1b8684d0f2e14352.jpg
+</IMGURL>
+<PARAM>
+<PARAM_NAME>Počet stran</PARAM_NAME>
+<VAL>132</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Datum vydání</PARAM_NAME>
+<VAL>2018</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Vazba</PARAM_NAME>
+<VAL>kniha, brožovaná vazba</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Pořadí vydání</PARAM_NAME>
+<VAL>neurčeno</VAL>
+</PARAM>
+<CONTRIBUTOR>
+<ROLE>Autor</ROLE>
+<NAME>Robert</NAME>
+<SURNAME>Wudy</SURNAME>
+</CONTRIBUTOR>
+<THEMATIC_GROUP>999 - nezařazeno</THEMATIC_GROUP>
+</SHOPITEM>

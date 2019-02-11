@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534313</ITEM_ID>
+   <PRODUCTNAME>20 výjimečných dívek, které změnily svět</PRODUCTNAME>
+   <EAN>9788025511008</EAN>
+   <ISBN>978-80-255-1100-8</ISBN>
+   <PRICE_VAT>299</PRICE_VAT>
+   <DESCRIPTION>
+
+Dvacet příběhů o dívkách s velkými sny, obrovským talentem a neochvějnou vůlí, které se staly mimořádnými ženami
+
+</DESCRIPTION>
+   <CATEGORYTEXT />
+   <URL>
+https://www.sckn.cz/20-vyjime-nych-divek-ktere-zm-nily-sv-t-pn-534-313/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/f3a7e518a8d03ac7b784f4f6869f33e7.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>96</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>kniha, vázaná vazba</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS />
+</SHOPITEM>

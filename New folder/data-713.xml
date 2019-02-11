@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+<ITEM_ID>533977</ITEM_ID>
+<PRODUCTNAME>České pohádky</PRODUCTNAME>
+<PRODUCT>České pohádky</PRODUCT>
+<EAN>9788075673183</EAN>
+<ISBN>978-80-7567-318-3</ISBN>
+<PRICE_VAT>199</PRICE_VAT>
+<DESCRIPTION>
+
+Ve zlaté pokladnici českých pohádek patří pohádky Karla J. Erbena k dosud nepřekonaným vrcholům. V této knize se setkáte s tím nejlepším z jeho pohádkářské tvorby.
+
+</DESCRIPTION>
+<CATEGORYTEXT>
+Tištěné knihy | Pro děti a mládež | Pro děti 3-7 let | Pohádky a legendy
+</CATEGORYTEXT>
+<URL>
+https://www.sckn.cz/-eske-pohadky-karel-jaromir-erben-pn-533-977/
+</URL>
+<IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/e50092994b1366624886d53754a1445b.jpg
+</IMGURL>
+<PARAM>
+<PARAM_NAME>Počet stran</PARAM_NAME>
+<VAL>158</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Datum vydání</PARAM_NAME>
+<VAL>2018</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Vazba</PARAM_NAME>
+<VAL>kniha, vázaná vazba</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Pořadí vydání</PARAM_NAME>
+<VAL>neurčeno</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Jazyk</PARAM_NAME>
+<VAL>český</VAL>
+</PARAM>
+<CONTRIBUTOR>
+<ROLE>Autor</ROLE>
+<NAME>Karel Jaromír</NAME>
+<SURNAME>Erben</SURNAME>
+</CONTRIBUTOR>
+<CONTRIBUTOR>
+<ROLE>Překladatel</ROLE>
+<NAME>Artuš</NAME>
+<SURNAME>Scheiner</SURNAME>
+</CONTRIBUTOR>
+<THEMATIC_GROUP>14 - Literatura pro děti a mládež</THEMATIC_GROUP>
+</SHOPITEM>

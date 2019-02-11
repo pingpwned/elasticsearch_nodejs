@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534170</ITEM_ID>
+   <PRODUCTNAME>Mezi dvěma - Kateřina Maruchničová</PRODUCTNAME>
+   <EAN>9788090677678</EAN>
+   <ISBN>978-80-906776-7-8</ISBN>
+   <PRICE_VAT>259</PRICE_VAT>
+   <DESCRIPTION>
+
+Nikola, zasněná, ale i ambiciózní dívka, žije v naprosto odlišném světě, než většina ostatních. Mnoho lidí ji považuje za zvláštní. Ve srubu na okraji lesa prožila s rodiči láskyplné dětství.
+
+</DESCRIPTION>
+   <CATEGORYTEXT />
+   <URL>
+https://www.sckn.cz/mezi-dv-ma-kate-ina-maruchni-ova-pn-534-170/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/7bab5ee3b05b1b4bbf70e0e6ecdf21b6.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>96</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>kniha, vázaná vazba</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Kateřina</NAME>
+         <SURNAME>Maruchničová</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

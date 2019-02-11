@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>533897</ITEM_ID>
+   <PRODUCTNAME>Italská kuchařka - Riccardo Lucque a jeho příběh</PRODUCTNAME>
+   <EAN>9788090689350</EAN>
+   <ISBN>978-80-906893-5-0</ISBN>
+   <PRICE_VAT>499</PRICE_VAT>
+   <DESCRIPTION>
+
+Italská kuchyně je známá po celém světě a získala srdce mnoha z nás.
+
+</DESCRIPTION>
+   <CATEGORYTEXT>
+Tištěné knihy | Zdraví a životní styl | Kuchařky a nápoje | Národní, regionální kuchařky
+</CATEGORYTEXT>
+   <URL>
+https://www.sckn.cz/italska-kucha-ka-riccardo-lucque-a-jeho-p-ib-h-riccardo-lucque-pn-533-897/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/7c5ee21b815610a94216339680c67a5f.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>304</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>kniha, vázaná vazba</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Jazyk</PARAM_NAME>
+         <VAL>český</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Riccardo</NAME>
+         <SURNAME>Lucque</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

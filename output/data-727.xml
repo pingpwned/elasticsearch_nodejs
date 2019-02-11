@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>533964</ITEM_ID>
+   <PRODUCTNAME>Lidské tělo - Ilustrovaný atlas</PRODUCTNAME>
+   <EAN>9788075673305</EAN>
+   <ISBN>978-80-7567-330-5</ISBN>
+   <PRICE_VAT>299</PRICE_VAT>
+   <DESCRIPTION>
+
+Vydejte se s námi na cestu poznání. Tato kniha vám pomůže nahlédnout do tajemného světa lidského těla a nabídne vám spoustu informací o funkci a stavbě nejrůznějších orgánů. Poznejte lépe svou kostru a svaly, nervy a žlázy s vnitřním vyměšováním.
+
+</DESCRIPTION>
+   <CATEGORYTEXT />
+   <URL>
+https://www.sckn.cz/lidske-t-lo-ilustrovany-atlas-pn-533-964/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/122ea15d62af5cdc3212ce8cf6a32074.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>240</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>kniha, vázaná vazba</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Zuzana</NAME>
+         <SURNAME>Kaslová</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Kateřina</NAME>
+         <SURNAME>Petrošová</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

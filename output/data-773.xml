@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>533916</ITEM_ID>
+   <PRODUCTNAME>Nulorožec</PRODUCTNAME>
+   <EAN>9788072274116</EAN>
+   <ISBN>978-80-7227-411-6</ISBN>
+   <PRICE_VAT>279</PRICE_VAT>
+   <DESCRIPTION>
+
+Detektivní román Nulorožecse sice odehrává v současnosti, složité a dobrodružné pátrání však zavede jeho hlavního protagonistu, komisaře Libora Lavaba, až do roku 1808, když objeví tajný deník Johanna Wolfganga von Goetha.
+
+</DESCRIPTION>
+   <CATEGORYTEXT>
+Tištěné knihy | Krásná literatura | Próza | Detektivky, napětí
+</CATEGORYTEXT>
+   <URL>
+https://www.sckn.cz/nuloro-ec-petr-stan-ik-pn-533-916/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/e32c6de1380bc2565ca70e293fa02428.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>220</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>kniha, vázaná vazba</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Jazyk</PARAM_NAME>
+         <VAL>český</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Petr</NAME>
+         <SURNAME>Stančík</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

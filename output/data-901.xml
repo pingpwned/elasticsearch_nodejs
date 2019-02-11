@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>533779</ITEM_ID>
+   <PRODUCTNAME>Komturova smrt - Haruki Murakami</PRODUCTNAME>
+   <EAN>9788020718723</EAN>
+   <ISBN>978-80-207-1872-3</ISBN>
+   <PRICE_VAT>349</PRICE_VAT>
+   <DESCRIPTION>
+
+Možná, že jednou budu s to zachytit podobu nicoty… Bezejmenným vypravěčem románu je výjimečný portrétista, který dokáže vystihnout tvář člověka tak, aby se líbil sám sobě. Všechno funguje téměř dokonale, dokud ho nenavštíví muž bez tváře s žádostí o portrét. A dokud ho neopustí jeho žena.
+
+</DESCRIPTION>
+   <CATEGORYTEXT />
+   <URL>
+https://www.sckn.cz/komturova-smrt-haruki-murakami-pn-533-779/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/61482f0257d34fe37dd7155f3bc90172.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>752</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Haruki</NAME>
+         <SURNAME>Murakami</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Tomáš</NAME>
+         <SURNAME>Jurkovič</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534271</ITEM_ID>
+   <PRODUCTNAME>Hora mezi námi (audiokniha)</PRODUCTNAME>
+   <EAN>8594050425613</EAN>
+   <ISBN>8594050425613</ISBN>
+   <PRICE_VAT>299</PRICE_VAT>
+   <DESCRIPTION>
+
+Přichází bouře a provoz na letišti je ochromen. Ashley se bojí, že nestihne vlastní svatbu, na chirurga Bena čekají pacienti. Ačkoli se nikdy neviděli, objednají si spolu charterový let, aby se dostali domů dřív. Jejich letadlo se ale zřítí a oni se ocitají uprostřed zasněžených hor bez naděje na záchranu. Hledají k sobě vztah, přehodnocují minulost a v extrémních podmínkách bojují o život. Podlehnou zraněním těla a duše, nebo znovu uvěří v lásku?
+
+</DESCRIPTION>
+   <CATEGORYTEXT>Audioknihy | Audioknihy - mluvené slovo na CD</CATEGORYTEXT>
+   <URL>
+https://www.sckn.cz/audio-kniha-hora-mezi-nami-audiokniha-pn-534-271/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/802d003ac4a3818c1d6f01893e94ecf2.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Jazyk</PARAM_NAME>
+         <VAL>český</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>15. 11. 2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>1.</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Charles</NAME>
+         <SURNAME>Martin</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

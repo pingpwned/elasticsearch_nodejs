@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534587</ITEM_ID>
+   <PRODUCTNAME>
+Ájurvédská kuchařka - Urmila Desaiová, Amadea Morningstarová
+</PRODUCTNAME>
+   <EAN>9788075004079</EAN>
+   <ISBN>978-80-7500-407-9</ISBN>
+   <PRICE_VAT>465</PRICE_VAT>
+   <DESCRIPTION>
+
+Ájurvédská kuchařka představuje nový pohled na toto starobylé umění samoléčby. Více než dvě stě padesát vyzkoušených chutných receptů je určeno pro vyrovnávání jednotlivých konstitucí s důrazem na jednoduchost, snadnou přípravu a správnou výživu.
+
+</DESCRIPTION>
+   <CATEGORYTEXT>
+E-knihy | Zdraví a životní styl | Kuchařky a nápoje | Ostatní kuchařky
+</CATEGORYTEXT>
+   <URL>
+https://www.sckn.cz/ajurvedska-kucha-ka-urmila-desaiova-amadea-morningstarova-pn-534-587/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/8d743856e23f8e83b29135173f2fec98.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>481</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Urmila</NAME>
+         <SURNAME>Desaiová</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Amadea</NAME>
+         <SURNAME>Morningstarová</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Lenka</NAME>
+         <SURNAME>Adamcová</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>533825</ITEM_ID>
+   <PRODUCTNAME>
+Letecké katastrofy a jejich vyšetřování - Lukáš Musil
+</PRODUCTNAME>
+   <EAN>9788087866399</EAN>
+   <ISBN>978-80-87866-39-9</ISBN>
+   <PRICE_VAT>399</PRICE_VAT>
+   <DESCRIPTION>
+
+Létání dopravními letadly je dnes běžnou záležitostí. Pro někoho je to rutina, pro jiného událost. Ale ruku na srdce - každého z nás během bezpečnostní instruktáže před startem někdy napadlo, co by se stalo, kdyby se letadlo zřítilo.
+
+</DESCRIPTION>
+   <CATEGORYTEXT />
+   <URL>
+https://www.sckn.cz/letecke-katastrofy-a-jejich-vy-scaron-et-ovani-luka-scaron-musil-pn-533-825/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/5c3078abab2c54281c4e4f1675389077.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>288</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>kniha, vázaná vazba</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Lukáš</NAME>
+         <SURNAME>Musil</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

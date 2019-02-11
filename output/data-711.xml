@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>533980</ITEM_ID>
+   <PRODUCTNAME>Dinosauři - hraju si a bavím se</PRODUCTNAME>
+   <EAN>9788075672001</EAN>
+   <ISBN>978-80-7567-200-1</ISBN>
+   <PRICE_VAT>249</PRICE_VAT>
+   <DESCRIPTION>
+
+Bavte se spolu s oblíbenými dinosaury. Přichystali pro vás mnoho aktivit. Najdete malému dinosaurovi rodinu? Pomůžete paleotologům? Nakreslíte zbytek dinosaura? Kniha obsahuje velké množství různých zábavných aktivit.
+
+</DESCRIPTION>
+   <CATEGORYTEXT />
+   <URL>
+https://www.sckn.cz/dinosau-i-hraju-si-a-bavim-se-pn-533-980/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/00f3355d0c2ed9cb5e2cf4cd699397bb.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>72</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>kniha, brožovaná vazba</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Dita</NAME>
+         <SURNAME>Křišťanová</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

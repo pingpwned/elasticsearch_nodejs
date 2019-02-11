@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534701</ITEM_ID>
+   <PRODUCTNAME>Fear - Bob Woodward</PRODUCTNAME>
+   <EAN>9781471181290</EAN>
+   <ISBN>978-1-4711-8129-0</ISBN>
+   <PRICE_VAT>599</PRICE_VAT>
+   <DESCRIPTION>
+
+Fear is the most intimate portrait of a sitting president ever published during the president’s first years in office.
+
+</DESCRIPTION>
+   <CATEGORYTEXT />
+   <URL>https://www.sckn.cz/fear-bob-woodward-pn-534-701/</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/28242f2c9f9700914b8c7dc200586ab8.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Bob</NAME>
+         <SURNAME>Woodward</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

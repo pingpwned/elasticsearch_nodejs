@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534609</ITEM_ID>
+   <PRODUCTNAME>Autenticita - Stephen Joseph</PRODUCTNAME>
+   <EAN>9788026214106</EAN>
+   <ISBN>978-80-262-1410-6</ISBN>
+   <PRICE_VAT>269</PRICE_VAT>
+   <DESCRIPTION>
+
+Snahou žít autenticky se v životě nezbavujeme bolesti, strachu, truchlení či smutku, ale získáváme možnost nacházet smysl v tom, co děláme, co cítíme a jak se chováme. Žijeme-li autenticky, jsme schopni lépe snášet těžkosti a překážky.
+
+</DESCRIPTION>
+   <CATEGORYTEXT>
+E-knihy | Zdraví a životní styl | Osobní rozvoj | Rádci pro šťastný a úspěšný život
+</CATEGORYTEXT>
+   <URL>
+https://www.sckn.cz/autenticita-stephen-joseph-pn-534-609/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/9cbd52e08d84fbd21df87f6cd92b77e0.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>192</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Stephen</NAME>
+         <SURNAME>Joseph</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Magdalena</NAME>
+         <SURNAME>Herelová</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

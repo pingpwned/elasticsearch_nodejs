@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>533744</ITEM_ID>
+   <PRODUCTNAME>Plecháč, Trubkáč a pan Máslo</PRODUCTNAME>
+   <EAN>9788000052403</EAN>
+   <ISBN>978-80-00-05240-3</ISBN>
+   <PRICE_VAT>229</PRICE_VAT>
+   <DESCRIPTION>
+
+Plecháč má hlavu ze stínítka lampy, Trubkáč z hrnce a tělo z pečicí trouby. Ze starého železa, plechu, drátů a rour je smontoval pan Antonín a postavil k plotu své zahrádky. Jedné noci však přišla povodeň, pana Antonína odvezli hasiči na loďce, ale zachraňovat nějaké haraburdí? Kdepak, to patří do šrotu! A tak oba panáci skončili ve sběrně kovů, hlídané nevrlým a protivným panem Máslem s ještě nevrlejším vlčákem Drobečkem. Podaří se Plecháči a Trubkáči odtud uniknout?
+
+</DESCRIPTION>
+   <CATEGORYTEXT>Tištěné knihy | Pro děti a mládež</CATEGORYTEXT>
+   <URL>
+https://www.sckn.cz/plechac-trubkac-a-pan-maslo-pn-533-744/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/1f5943adfcad998d809c5b96bc8f1a00.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>48</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL />
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Jazyk</PARAM_NAME>
+         <VAL>český</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>05. 11. 2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>1.</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Kateřina</NAME>
+         <SURNAME>Závadová</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

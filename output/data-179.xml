@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534590</ITEM_ID>
+   <PRODUCTNAME>Strážkyně domácího krbu - Dola de Jongová</PRODUCTNAME>
+   <EAN>9788075790354</EAN>
+   <ISBN>978-80-7579-035-4</ISBN>
+   <PRICE_VAT>139</PRICE_VAT>
+   <DESCRIPTION>
+
+Román nizozemské spisovatelky Doly de Jongové, která se zachránila před holokaustem emigrací do USA, v roce 1954 její americký nakladatel odmítl jako nemravný a také nizozemská redaktorka ho v první reakci označila za „nestoudný, nepublikovatelný“.
+
+</DESCRIPTION>
+   <CATEGORYTEXT>
+E-knihy | Krásná literatura | Próza | Společenské romány
+</CATEGORYTEXT>
+   <URL>
+https://www.sckn.cz/stra-kyn-domaciho-krbu-dola-de-jongova-pn-534-590/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/671b3ff4cd6fd9e55d5d0df3d1360193.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>136</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Dola de</NAME>
+         <SURNAME>Jongová</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Magda de Bruin</NAME>
+         <SURNAME>Hüblová</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

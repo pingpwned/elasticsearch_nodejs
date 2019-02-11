@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>533966</ITEM_ID>
+   <PRODUCTNAME>Encyklopedie lidského těla</PRODUCTNAME>
+   <EAN>9788075673138</EAN>
+   <ISBN>978-80-7567-313-8</ISBN>
+   <PRICE_VAT>199</PRICE_VAT>
+   <DESCRIPTION>
+
+Všechny děti jistě zajímá, jak funguje jejich tělo a různé orgány, ústrojí a soustavy, které ho tvoří. Tato knížka jim poskytne jasnou odpověď na většinu otázek.
+
+</DESCRIPTION>
+   <CATEGORYTEXT>
+Tištěné knihy | Pro děti a mládež | Pro mládež (od 8 let) | Naučné
+</CATEGORYTEXT>
+   <URL>
+https://www.sckn.cz/encyklopedie-lidskeho-t-la-gisela-socolovsky-rudi-pn-533-966/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/10fbe899b545b2901bb445cc4c253ce3.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>134</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>kniha, vázaná vazba</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Jazyk</PARAM_NAME>
+         <VAL>český</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Gisela Socolovsky</NAME>
+         <SURNAME>Rudi</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Ilustrátor</ROLE>
+         <NAME>Sandra</NAME>
+         <SURNAME>Silva</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Překladatel</ROLE>
+         <NAME>Zuzana</NAME>
+         <SURNAME>Kaslová</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

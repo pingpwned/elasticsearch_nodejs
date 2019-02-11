@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>533745</ITEM_ID>
+   <PRODUCTNAME>Neuvěřitelně uvěřitelné příhody z hor</PRODUCTNAME>
+   <EAN>9788026422204</EAN>
+   <ISBN>978-80-264-2220-4</ISBN>
+   <PRICE_VAT>269</PRICE_VAT>
+   <DESCRIPTION>
+
+Parta přátel a jejich horská dobrodružství pod vedením gumového kuřete jsou zpět! Naši hrdinové vám tentokrát dají nahlédnout do radostí i strastí treků na Islandu, v Peru nebo Nepálu. Na svých neuvěřitelných cestách budou čelit zuřivým a krvelačným pijavicím, agresivním prasátkům, horku v džungli i islandskému větru a dešti. Všechny příběhy jsou pravdivé a skvěle vystihují heslo: Jednou jsi nahoře, většinou dole.
+
+</DESCRIPTION>
+   <CATEGORYTEXT>Tištěné knihy | Krásná literatura</CATEGORYTEXT>
+   <URL>
+https://www.sckn.cz/neuveritelne-uveritelne-prihody-z-hor-pn-533-745/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/1fcefa44fc47d944f3733f2745c6f2c2.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>112</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL />
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Jazyk</PARAM_NAME>
+         <VAL>český</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>05. 11. 2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>1.</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Martin</NAME>
+         <SURNAME>Úbl</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

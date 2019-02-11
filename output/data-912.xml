@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>533769</ITEM_ID>
+   <PRODUCTNAME>
+Pejsek Tom a jeho trampoty - Obrázkové čtení - Petr Šulc
+</PRODUCTNAME>
+   <EAN>9788073536503</EAN>
+   <ISBN>978-80-7353-650-3</ISBN>
+   <PRICE_VAT>139</PRICE_VAT>
+   <DESCRIPTION>
+
+Pro zvídavé předškoláky a žáky 1. třídy nabízíme obrázkové čtení. Knížka Pejsek Tom a jeho trampoty je volným pokračováním velmi úspěšné a dětmi oblíbené knihy Pejsek Tom a jak to začalo.
+
+</DESCRIPTION>
+   <CATEGORYTEXT />
+   <URL>
+https://www.sckn.cz/pejsek-tom-a-jeho-trampoty-obrazkove-teni-petr-scaron-ulc-pn-533-769/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/5cf397b3e0b8a24d1c2d61b8f3cf68cf.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>40</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>kniha, vázaná vazba</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Petr</NAME>
+         <SURNAME>Šulc</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Vendula</NAME>
+         <SURNAME>Hegerová</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

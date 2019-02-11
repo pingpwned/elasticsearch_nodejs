@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>533646</ITEM_ID>
+   <PRODUCTNAME>Disney - Od jara do zimy</PRODUCTNAME>
+   <EAN>9788025243879</EAN>
+   <ISBN>978-80-252-4387-9</ISBN>
+   <PRICE_VAT>99</PRICE_VAT>
+   <DESCRIPTION>
+
+V knížkách z edice určené pro společné čtení a ukazování s rodiči najdete základní pojmy, které přispějí k rozvoji vašeho dítěte. S pomocí této knížky je můžete učit poznávat, co se děje kolem nás v různých ročních obdobích.
+
+</DESCRIPTION>
+   <CATEGORYTEXT>Tištěné knihy | Pro děti a mládež</CATEGORYTEXT>
+   <URL>
+https://www.sckn.cz/disney-od-jara-do-zimy-pn-533-646/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/383f9488e108007ee1a5811e45678883.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>12</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL />
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Jazyk</PARAM_NAME>
+         <VAL>český</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>05. 11. 2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>1</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME />
+         <SURNAME>kolektiv</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

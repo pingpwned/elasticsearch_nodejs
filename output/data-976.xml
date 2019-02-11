@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>532863</ITEM_ID>
+   <PRODUCTNAME>Záklaní membránové procesy</PRODUCTNAME>
+   <EAN>9788075920232</EAN>
+   <ISBN>978-80-7592-023-2</ISBN>
+   <PRICE_VAT>0</PRICE_VAT>
+   <DESCRIPTION>
+
+Membránové procesy v současné době nacházejí uplatnění v průmyslu chemickém, petrochemickém, potravinářském, vodárenském, elektrotechnickém, automobilovém, ve zdravotnictví, v energetice, v ochraně životního prostředí a mnohých oblastech našeho běžného života. O významu základních membránových procesů, které patří k technolo-giím 21. století, se lze dočíst právě v této brožuře.Brožura je určena především učitelům technických předmětů a jejich studentům na střed-ních školách, neboť informuje o nejdůležitějších membránových procesech, jejich prin-cipech a využití. V kapitole o tlakových membránových procesech je popsána mikrofiltrace, ultrafiltrace, nanofiltrace, reverzní osmóza a oblasti jejich použití. V kapitolách o membránovém dělení plynů a par a pervaporaci jsou vedle mechanismů těchto procesů ukázány mož-nosti membrán při dělení různých plynných i kapalných směsí. Kapitola o elektromem-bránových procesech se věnuje aplikačním možnostem těchto procesů při separaci nebo syntéze látek a také při konverzi energie.V brožuře jsou také odkazy na českou odbornou literaturu věnovanou problematice membránových procesů, kde se čtenář může dozvědět více a podrobněji o řadě dalších membránových procesů.
+
+</DESCRIPTION>
+   <CATEGORYTEXT>Tištěné knihy | Odborná a technická literatura</CATEGORYTEXT>
+   <URL>
+https://www.sckn.cz/zaklani-membranove-procesy-pn-532-863/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/0f463d9f3d842c37852cd52a5bf5f9c5.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>64</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>měkké desky, brožura sešitá drátěnou sponkou</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Jazyk</PARAM_NAME>
+         <VAL>český</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Rozměr</PARAM_NAME>
+         <VAL>170x240</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>1.</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Milan</NAME>
+         <SURNAME>Šípek</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

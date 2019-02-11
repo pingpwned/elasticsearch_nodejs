@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+<ITEM_ID>533976</ITEM_ID>
+<PRODUCTNAME>Panovníci českých zemí</PRODUCTNAME>
+<PRODUCT>Panovníci českých zemí</PRODUCT>
+<EAN>9788073711627</EAN>
+<ISBN>978-80-7371-162-7</ISBN>
+<PRICE_VAT>199</PRICE_VAT>
+<DESCRIPTION>
+
+V této knížce se seznámíte zábavnou formou s českými panovníky od Sáma až po císaře Karla I. Dozvíte se, jak žili a co pro nás udělali dobrého (a někdy i nedobrého). A navíc i něco zajímavého.
+
+</DESCRIPTION>
+<URL>
+https://www.sckn.cz/panovnici-eskych-zemi-pn-533-976/
+</URL>
+<IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/8cb4498aac79369e66ddc8b8e41a6f7f.jpg
+</IMGURL>
+<PARAM>
+<PARAM_NAME>Počet stran</PARAM_NAME>
+<VAL>158</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Datum vydání</PARAM_NAME>
+<VAL>2018</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Vazba</PARAM_NAME>
+<VAL>kniha, vázaná vazba</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Pořadí vydání</PARAM_NAME>
+<VAL>neurčeno</VAL>
+</PARAM>
+<CONTRIBUTOR>
+<ROLE>Autor</ROLE>
+<NAME>Petr</NAME>
+<SURNAME>Bauer</SURNAME>
+</CONTRIBUTOR>
+<THEMATIC_GROUP>999 - nezařazeno</THEMATIC_GROUP>
+</SHOPITEM>

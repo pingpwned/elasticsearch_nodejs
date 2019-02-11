@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>533713</ITEM_ID>
+   <PRODUCTNAME>Dominika</PRODUCTNAME>
+   <EAN>9788090691254</EAN>
+   <ISBN>978-80-906912-5-4</ISBN>
+   <PRICE_VAT>260</PRICE_VAT>
+   <DESCRIPTION>
+
+Debutová kniha Jaroslava Konáše vypráví o tom, co všechno mohou skrývat místa a věci, které v našich každodenních životech lhostejně míjíme. Prozaický život hudebního novináře se po setkání s tajemnou dívkou promění ve fantaskní dobrodružství. V temných uličkách, zapomenutých malostranských dvorcích či v zakouřených barech a kavárnách doslova ožívá duch staré Prahy, legenda proniká do současnosti a sen se mísí s realitou. Objevování nového světa však není jenom příjemným rozptýlením, ale také cestou k lásce a sobě samému, která není bez nebezpečí.
+
+</DESCRIPTION>
+   <CATEGORYTEXT>Tištěné knihy | Krásná literatura | Próza</CATEGORYTEXT>
+   <URL>https://www.sckn.cz/dominika-pn-533-713/</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/8f3d1860db3a676b3aa91b576bb208b7.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>192</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>kniha, šitá vazba</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Jazyk</PARAM_NAME>
+         <VAL>český</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Rozměr</PARAM_NAME>
+         <VAL>120 x 185</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>12. 11. 2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>1.</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Jaroslav</NAME>
+         <SURNAME>Konáš</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Editor</ROLE>
+         <NAME>Matěj</NAME>
+         <SURNAME>Klíma</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Ilustrátor</ROLE>
+         <NAME>Štěpán</NAME>
+         <SURNAME>Brož</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

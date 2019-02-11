@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534227</ITEM_ID>
+   <PRODUCTNAME>Virgin - hledání sebe sama</PRODUCTNAME>
+   <EAN>9788073909833</EAN>
+   <ISBN>978-80-7390-983-3</ISBN>
+   <PRICE_VAT>599</PRICE_VAT>
+   <DESCRIPTION>
+
+Toto je skutečný příběh, jak zakladatel společnosti Virgin stvořil sám sebe a světovou značku 21. století.
+
+</DESCRIPTION>
+   <CATEGORYTEXT>
+Tištěné knihy | Krásná literatura | Osobnosti a osudy
+</CATEGORYTEXT>
+   <URL>
+https://www.sckn.cz/virgin-hledani-sebe-sama-richard-branson-pn-534-227/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/e893532481fc9028c8502ee29a4283aa.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL />
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Jazyk</PARAM_NAME>
+         <VAL>český</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Richard</NAME>
+         <SURNAME>Branson</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534392</ITEM_ID>
+   <PRODUCTNAME>Uchem jehly</PRODUCTNAME>
+   <EAN>9788025725863</EAN>
+   <ISBN>978-80-257-2586-3</ISBN>
+   <PRICE_VAT>298</PRICE_VAT>
+   <DESCRIPTION>
+
+Kniha rozhovorů kněze Zbigniewa Czendlika vychází z oblíbeného pořadu České televize Uchem jehly. „Netradiční“ moderátor si zve již několik let na lanškrounskou faru hosty, kteří ve svém životě a ve své kariéře dosáhli významných úspěchů.
+
+</DESCRIPTION>
+   <CATEGORYTEXT>
+Tištěné knihy | Krásná literatura | Reflexe a moudrosti | Fejetony, publicistika
+</CATEGORYTEXT>
+   <URL>
+https://www.sckn.cz/uchem-jehly-zbigniew-czendlik-pn-534-392/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/cea7362380665a338c9762342556fa58.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>260</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>kniha, vázaná vazba</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Jazyk</PARAM_NAME>
+         <VAL>český</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Zbigniew</NAME>
+         <SURNAME>Czendlik</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

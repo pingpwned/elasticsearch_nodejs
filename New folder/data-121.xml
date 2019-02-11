@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+<ITEM_ID>534648</ITEM_ID>
+<PRODUCTNAME>Pašeráci knih - David E. Fishman</PRODUCTNAME>
+<PRODUCT>Pašeráci knih - David E. Fishman</PRODUCT>
+<EAN>9788075790491</EAN>
+<ISBN>978-80-7579-049-1</ISBN>
+<PRICE_VAT>300</PRICE_VAT>
+<DESCRIPTION>
+
+Kniha Pašeráci knih se opírá o rozsáhlý průzkum archivních materiálů a vzpomínky pamětníků. Popisuje téměř neuvěřitelnou historii čtyřicítky vězňů z vilenského ghetta, kteří zachránili tisíce vzácných židovských knih a rukopisů ...
+
+</DESCRIPTION>
+<URL>
+https://www.sckn.cz/pa-scaron-eraci-knih-david-e-fishman-pn-534-648/
+</URL>
+<IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/6db928b83e46363ddf606f76a7f305a5.jpg
+</IMGURL>
+<PARAM>
+<PARAM_NAME>Počet stran</PARAM_NAME>
+<VAL>392</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Datum vydání</PARAM_NAME>
+<VAL>2018</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Pořadí vydání</PARAM_NAME>
+<VAL>neurčeno</VAL>
+</PARAM>
+<CONTRIBUTOR>
+<ROLE>Autor</ROLE>
+<NAME>David E.</NAME>
+<SURNAME>Fishman</SURNAME>
+</CONTRIBUTOR>
+<CONTRIBUTOR>
+<ROLE>Autor</ROLE>
+<NAME>Martina</NAME>
+<SURNAME>Neradová</SURNAME>
+</CONTRIBUTOR>
+<THEMATIC_GROUP>999 - nezařazeno</THEMATIC_GROUP>
+</SHOPITEM>

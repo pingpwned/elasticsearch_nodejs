@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>533952</ITEM_ID>
+   <PRODUCTNAME>Heidi, děvčátko z hor</PRODUCTNAME>
+   <EAN>9788075672339</EAN>
+   <ISBN>978-80-7567-233-9</ISBN>
+   <PRICE_VAT>139</PRICE_VAT>
+   <DESCRIPTION>
+
+Heidi je osiřelé děvčátko, které tráví dětství společně s kamarádem Peterem při hlídání stád koz, užívá si svobody švýcarských Alp, kde bydlí v prostém srubu u svého dědečka.
+
+</DESCRIPTION>
+   <CATEGORYTEXT>
+Tištěné knihy | Pro děti a mládež | Pro děti 3-7 let | Pohádky a legendy
+</CATEGORYTEXT>
+   <URL>
+https://www.sckn.cz/heidi-d-v-atko-z-hor-johanna-spyriova-pn-533-952/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/14b247b31ad643d9f77dabcecf68b685.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>70</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>kniha, vázaná vazba</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Jazyk</PARAM_NAME>
+         <VAL>český</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Johanna</NAME>
+         <SURNAME>Spyriová</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

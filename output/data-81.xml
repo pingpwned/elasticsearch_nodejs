@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534693</ITEM_ID>
+   <PRODUCTNAME>Nikomu by neublížil - Cathrine Burns</PRODUCTNAME>
+   <EAN>9788075438850</EAN>
+   <ISBN>978-80-7543-885-0</ISBN>
+   <PRICE_VAT>229</PRICE_VAT>
+   <DESCRIPTION>
+
+Marion žije s dominantním bratrem Johnem v rozpadajícím se domě po rodičích. Stará panna, která ještě spí s plyšovým medvídkem, je na něm zcela závislá.
+
+</DESCRIPTION>
+   <CATEGORYTEXT />
+   <URL>
+https://www.sckn.cz/nikomu-by-neubli-il-cathrine-burns-pn-534-693/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/09fe14c441f3bc5ad95fb9bd534e32f4.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>248</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Cathrine</NAME>
+         <SURNAME>Burns</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Lenka</NAME>
+         <SURNAME>Faltejsková</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

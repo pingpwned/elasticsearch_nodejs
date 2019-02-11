@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534312</ITEM_ID>
+   <PRODUCTNAME>Tomáš Rosický Hráč, kterého milujete</PRODUCTNAME>
+   <EAN>9788087685679</EAN>
+   <ISBN>978-80-87685-67-9</ISBN>
+   <PRICE_VAT>299</PRICE_VAT>
+   <DESCRIPTION>
+
+…Když milujete fotbal, musíte milovat i Rosického. Navíc má fantastický charakter,&amp;quot; jsou slova Arséna Wengera, který Tomáše v Arsenalu trénoval celé jedno desetiletí.
+
+</DESCRIPTION>
+   <CATEGORYTEXT>
+Tištěné knihy | Krásná literatura | Osobnosti a osudy | Sport
+</CATEGORYTEXT>
+   <URL>
+https://www.sckn.cz/toma-scaron-rosicky-hra-ktereho-milujete-petr-ermak-pn-534-312/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/bfba425bf8d9d275d1aaaaac86a67b0d.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>224</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>kniha, vázaná vazba</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Jazyk</PARAM_NAME>
+         <VAL>český</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Petr</NAME>
+         <SURNAME>Čermák</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

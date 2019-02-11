@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>533965</ITEM_ID>
+   <PRODUCTNAME>Druhá světová válka</PRODUCTNAME>
+   <EAN>9788075673268</EAN>
+   <ISBN>978-80-7567-326-8</ISBN>
+   <PRICE_VAT>299</PRICE_VAT>
+   <DESCRIPTION>
+
+Obsáhlá publikace o dosud nejtragičtějším a nejmasovějším válečném konfliktu v historii lidstva, do něhož byly zapojeny země ze všech koutů světa.
+
+</DESCRIPTION>
+   <CATEGORYTEXT />
+   <URL>
+https://www.sckn.cz/druha-sv-tova-valka-pn-533-965/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/9da71ba06833754dba37ba84987c759e.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>240</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>kniha, vázaná vazba</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS />
+</SHOPITEM>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534458</ITEM_ID>
+   <PRODUCTNAME>Atlas pro malé cestovatele</PRODUCTNAME>
+   <EAN>9788075851536</EAN>
+   <ISBN>978-80-7585-153-6</ISBN>
+   <PRICE_VAT>379</PRICE_VAT>
+   <DESCRIPTION>
+
+Vydejte se objevovat! Prozkoumejte svět s tímto úžasným atlasem plným aktivit. Barevně ilustrované mapy plné informací si můžete doplnit pomocí více než 250 samolepek vlajek, zvířat, známých krajinných prvků a zázraků přírody
+
+</DESCRIPTION>
+   <CATEGORYTEXT />
+   <URL>
+https://www.sckn.cz/atlas-pro-male-cestovatele-pn-534-458/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/cbae3c2a20dfb29ec2b2da6fcbc80f2d.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>kniha, vázaná vazba</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS />
+</SHOPITEM>

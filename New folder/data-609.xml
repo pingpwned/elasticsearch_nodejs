@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+<ITEM_ID>534086</ITEM_ID>
+<PRODUCTNAME>2 x 2 = 13</PRODUCTNAME>
+<PRODUCT>2 x 2 = 13</PRODUCT>
+<EAN>9788075114228</EAN>
+<ISBN>978-80-7511-422-8</ISBN>
+<PRICE_VAT>499</PRICE_VAT>
+<DESCRIPTION>
+
+Kniha 2x 2 = 13 přináší sebrané básně klavirísty Alfreda Brendela, jednoho z nejvýznamnějších světových umělců současnosti.
+
+</DESCRIPTION>
+<CATEGORYTEXT>
+Tištěné knihy | Krásná literatura | Poezie | Světová poezie
+</CATEGORYTEXT>
+<URL>
+https://www.sckn.cz/2-x-2-13-alfred-brendl-pn-534-086/
+</URL>
+<IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/e12e537a832067cde55e462581966404.jpg
+</IMGURL>
+<PARAM>
+<PARAM_NAME>Počet stran</PARAM_NAME>
+<VAL>306</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Datum vydání</PARAM_NAME>
+<VAL>2018</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Vazba</PARAM_NAME>
+<VAL>kniha, vázaná vazba</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Pořadí vydání</PARAM_NAME>
+<VAL>neurčeno</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Jazyk</PARAM_NAME>
+<VAL>český</VAL>
+</PARAM>
+<CONTRIBUTOR>
+<ROLE>Autor</ROLE>
+<NAME>Alfred</NAME>
+<SURNAME>Brendl</SURNAME>
+</CONTRIBUTOR>
+<CONTRIBUTOR>
+<ROLE>Překladatel</ROLE>
+<NAME>Vít</NAME>
+<SURNAME>Janota</SURNAME>
+</CONTRIBUTOR>
+<THEMATIC_GROUP>13 - Krásná literatura</THEMATIC_GROUP>
+</SHOPITEM>

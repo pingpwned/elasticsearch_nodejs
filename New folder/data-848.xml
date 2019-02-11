@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+<ITEM_ID>533834</ITEM_ID>
+<PRODUCTNAME>
+Nové Město na Moravě včera a dnes - Milan Šustr, Kateřina Skalníková
+</PRODUCTNAME>
+<PRODUCT>
+Nové Město na Moravě včera a dnes - Milan Šustr, Kateřina Skalníková
+</PRODUCT>
+<EAN>9788090729445</EAN>
+<ISBN>978-80-907294-4-5</ISBN>
+<PRICE_VAT>319</PRICE_VAT>
+<DESCRIPTION>
+
+První doložená písemná zpráva o Novém Městě na Moravě pochází z listiny krále Václava II. z roku 1293 a souvisí s kolonizací zdejšího kraje po založení kláštera ve Žďáře.
+
+</DESCRIPTION>
+<URL>
+https://www.sckn.cz/nove-m-sto-na-morav-v-era-a-dnes-milan-scaron-ustr-kate-ina-skalnikova-pn-533-834/
+</URL>
+<IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/310397163362f91d8dc51d55cced8385.jpg
+</IMGURL>
+<PARAM>
+<PARAM_NAME>Počet stran</PARAM_NAME>
+<VAL>128</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Datum vydání</PARAM_NAME>
+<VAL>2018</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Vazba</PARAM_NAME>
+<VAL>kniha, vázaná vazba</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Pořadí vydání</PARAM_NAME>
+<VAL>neurčeno</VAL>
+</PARAM>
+<CONTRIBUTOR>
+<ROLE>Autor</ROLE>
+<NAME>Milan</NAME>
+<SURNAME>Šustr</SURNAME>
+</CONTRIBUTOR>
+<CONTRIBUTOR>
+<ROLE>Autor</ROLE>
+<NAME>Kateřina</NAME>
+<SURNAME>Skalníková</SURNAME>
+</CONTRIBUTOR>
+<THEMATIC_GROUP>999 - nezařazeno</THEMATIC_GROUP>
+</SHOPITEM>

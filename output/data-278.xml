@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534488</ITEM_ID>
+   <PRODUCTNAME>Úlovek - Taylor Stevensová</PRODUCTNAME>
+   <EAN>9788024249513</EAN>
+   <ISBN>978-80-242-4951-3</ISBN>
+   <PRICE_VAT>209</PRICE_VAT>
+   <DESCRIPTION>
+
+Další napínavý thriller z pera autorky bestselleru Lovkyně informací s jedinečnou hrdinkou, která neumí žít bez nebezpečí – a přitahuje problémy. S krví na rukou a duší zatíženou vinou prchá Vanessa Michael Munroeová do Džibuti, aby se tam na čas ukryla před ne zrovna legální minulostí.
+
+</DESCRIPTION>
+   <CATEGORYTEXT />
+   <URL>
+https://www.sckn.cz/ulovek-taylor-stevensova-pn-534-488/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/1a55a6210d87bb2e58c58bd7cb2f47da.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>368</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Taylor</NAME>
+         <SURNAME>Stevensová</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Irena</NAME>
+         <SURNAME>Steinerová</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

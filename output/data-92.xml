@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534681</ITEM_ID>
+   <PRODUCTNAME>Muž, který chtěl být šťastný - Laurent Gounelle</PRODUCTNAME>
+   <EAN>9788087950562</EAN>
+   <ISBN>978-80-87950-56-2</ISBN>
+   <PRICE_VAT>249</PRICE_VAT>
+   <DESCRIPTION>
+
+Tato knížka nám ukazuje, jak se osvobodit od věcí, které nám brání v tom, abychom byli skutečně šťastní.
+
+</DESCRIPTION>
+   <CATEGORYTEXT>
+Audioknihy | Zdraví a životní styl | Osobní rozvoj | Rádci pro šťastný a úspěšný život
+</CATEGORYTEXT>
+   <URL>
+https://www.sckn.cz/mu-ktery-cht-l-byt-scaron-astny-laurent-gounelle-pn-534-681/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/202acd64819d9ceb8efcb06ce3718aad.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Jan</NAME>
+         <SURNAME>Meduna</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Jaromír</NAME>
+         <SURNAME>Meduna</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Laurent</NAME>
+         <SURNAME>Gounelle</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Aleš</NAME>
+         <SURNAME>Burget</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

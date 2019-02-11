@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534757</ITEM_ID>
+   <PRODUCTNAME>Moorman – Cesta na vrchol - Chris Moorman</PRODUCTNAME>
+   <EAN>9788090733404</EAN>
+   <ISBN>978-80-907334-0-4</ISBN>
+   <PRICE_VAT>490</PRICE_VAT>
+   <DESCRIPTION>
+
+Chris Moorman je nejúspěšnější hráč online pokeru všech dob a jeden z nejlepších hráčů v historii pokeru jako takového. Jeho pověstné odhodlání a touha po vítězství ho dovedly k dosažení řady rekordních úspěchů ve světě pokeru...
+
+</DESCRIPTION>
+   <CATEGORYTEXT />
+   <URL>
+https://www.sckn.cz/moorman-ndash-cesta-na-vrchol-chris-moorman-pn-534-757/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/bcc76dc65a3197661a6f21004ea39111.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>416</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>kniha, vázaná vazba</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Chris</NAME>
+         <SURNAME>Moorman</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

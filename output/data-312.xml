@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534444</ITEM_ID>
+   <PRODUCTNAME>
+Mezinárodní vědecká konference k 10. výročí založení Fakulty zdravotnických studií Západočeské univerzity v Plzni
+</PRODUCTNAME>
+   <EAN>9788026108276</EAN>
+   <ISBN>978-80-261-0827-6</ISBN>
+   <PRICE_VAT>0</PRICE_VAT>
+   <DESCRIPTION>
+ Sborník z konference. 
+</DESCRIPTION>
+   <CATEGORYTEXT>
+Tištěné knihy | Odborná a technická literatura | Medicína
+</CATEGORYTEXT>
+   <URL>
+https://www.sckn.cz/mezinarodni-vedecka-konference-k-10-vyroci-zalozeni-fakulty-zdravotnickych-studii-zapadoceske-univerzity-v-plzni-pn-534-444/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/ead0b6fe1b92cb66a86bfca52507c4ce.png
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>54</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>kniha, šitá vazba</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Jazyk</PARAM_NAME>
+         <VAL>český</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>14. 11. 2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>1.</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Editor</ROLE>
+         <NAME>Štěpánka</NAME>
+         <SURNAME>Rybová</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

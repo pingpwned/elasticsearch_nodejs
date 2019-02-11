@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>533748</ITEM_ID>
+   <PRODUCTNAME>LEGO® Harry Potter™ Lepíme samolepky</PRODUCTNAME>
+   <EAN>9788026422167</EAN>
+   <ISBN>978-80-264-2216-7</ISBN>
+   <PRICE_VAT>169</PRICE_VAT>
+   <DESCRIPTION>
+
+Přidej se prostřednictvím této hravé knihy k Harrymu, Ronovi a Hermioně. Pomocí více než 250 znovupoužitelných samolepek můžeš tvořit vlastní výjevy a dle libosti je měnit. Držte si své kouzelnické klobouky, čarodějové a čarodějky, čeká vás pořádně šílená jízda (na koštěti)!
+
+</DESCRIPTION>
+   <CATEGORYTEXT>Tištěné knihy | Pro děti a mládež</CATEGORYTEXT>
+   <URL>
+https://www.sckn.cz/lego-r-harry-pottertm-lepime-samolepky-pn-533-748/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/b9babd1d4ed390e26e5802dd7337ac1c.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>20</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL />
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Jazyk</PARAM_NAME>
+         <VAL>český</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>05. 11. 2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>1.</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME />
+         <SURNAME>kolektiv</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

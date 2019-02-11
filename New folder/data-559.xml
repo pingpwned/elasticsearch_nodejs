@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+<ITEM_ID>534140</ITEM_ID>
+<PRODUCTNAME>Kniha hlavolamů Sherlocka Holmese - Dan Moore</PRODUCTNAME>
+<PRODUCT>Kniha hlavolamů Sherlocka Holmese - Dan Moore</PRODUCT>
+<EAN>9788075851659</EAN>
+<ISBN>978-80-7585-165-9</ISBN>
+<PRICE_VAT>399</PRICE_VAT>
+<DESCRIPTION>
+
+„Kniha hlavolamů“ je souborem nejrůznějších hádanek, hlavolamů a logických problémů, inspirovaných devatenáctým stoletím, zejména Sherlockem Holmesem a viktoriánskou érou. Celkem 227 stran této knihy přenese čtenáře do kouzelného světa logiky.
+
+</DESCRIPTION>
+<URL>
+https://www.sckn.cz/kniha-hlavolam-sherlocka-holmese-dan-moore-pn-534-140/
+</URL>
+<IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/3f05879365678d1c78e43be0258205a2.jpg
+</IMGURL>
+<PARAM>
+<PARAM_NAME>Počet stran</PARAM_NAME>
+<VAL>208</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Datum vydání</PARAM_NAME>
+<VAL>2018</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Vazba</PARAM_NAME>
+<VAL>kniha, vázaná vazba</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Pořadí vydání</PARAM_NAME>
+<VAL>neurčeno</VAL>
+</PARAM>
+<CONTRIBUTOR>
+<ROLE>Autor</ROLE>
+<NAME>Dan</NAME>
+<SURNAME>Moore</SURNAME>
+</CONTRIBUTOR>
+<THEMATIC_GROUP>999 - nezařazeno</THEMATIC_GROUP>
+</SHOPITEM>

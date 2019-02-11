@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534311</ITEM_ID>
+   <PRODUCTNAME>Vojenské vzpomínky velitele husarských eskadron</PRODUCTNAME>
+   <EAN>9788090663145</EAN>
+   <ISBN>978-80-906631-4-5</ISBN>
+   <PRICE_VAT>270</PRICE_VAT>
+   <DESCRIPTION>
+
+Victor Dupuy byl členem francouzského lehkého jezdectva a stejně lehce se čtou jeho poutavé paměti. Začínal v 11. mysliveckém pluku, s kterým se účastnil ještě &amp;quot;revolučních&amp;quot; válek i prvotních Napoleonových tažení v letech 1805 až 1807.
+
+</DESCRIPTION>
+   <CATEGORYTEXT>
+Tištěné knihy | Historie | Militari, vojenství | Války a konflikty do r. 1900
+</CATEGORYTEXT>
+   <URL>
+https://www.sckn.cz/vojenske-vzpominky-velitele-husarskych-eskadron-victor-dupuy-pn-534-311/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/7ead066088c2bbfc761795cb131dc64e.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>204</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>kniha, brožovaná vazba</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Jazyk</PARAM_NAME>
+         <VAL>český</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Michal</NAME>
+         <SURNAME>Šurgot</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Victor</NAME>
+         <SURNAME>Dupuy</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534024</ITEM_ID>
+   <PRODUCTNAME>Čepel entropie - Vilém Koubek</PRODUCTNAME>
+   <EAN>9788075776686</EAN>
+   <ISBN>978-80-7577-668-6</ISBN>
+   <PRICE_VAT>199</PRICE_VAT>
+   <DESCRIPTION>
+
+Řež plná černého humoru a cynismu. Autor komiksu Korektor přichází se svým cynickým prozaickým debutem.
+
+</DESCRIPTION>
+   <CATEGORYTEXT>
+E-knihy | Krásná literatura | Sci-fi, fantasy, komiks | Sci-fi
+</CATEGORYTEXT>
+   <URL>
+https://www.sckn.cz/-epel-entropie-vilem-koubek-pn-534-024/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/df86a5dc4fbbe4bc3eadb7baabfff34c.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>240</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Vilém</NAME>
+         <SURNAME>Koubek</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

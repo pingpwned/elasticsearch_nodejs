@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>533653</ITEM_ID>
+   <PRODUCTNAME>Nerozluční kamarádi</PRODUCTNAME>
+   <EAN>9788000052397</EAN>
+   <ISBN>978-80-00-05239-7</ISBN>
+   <PRICE_VAT>229</PRICE_VAT>
+   <DESCRIPTION>
+
+Nerozlučná trojice pejsek, husa a slepice jsou věrní přátelé. Rádi si spolu povídají, slaví narozeniny, cvičí, účastní se běžeckého závodu či zahánějí zlodějíčky. Jen se na ně podívejte, už na vás čekají!
+
+</DESCRIPTION>
+   <CATEGORYTEXT>Tištěné knihy | Pro děti a mládež</CATEGORYTEXT>
+   <URL>
+https://www.sckn.cz/nerozlucni-kamaradi-pn-533-653/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/1d01081ff10175fbab9248936375b7eb.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>40</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL />
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Jazyk</PARAM_NAME>
+         <VAL>český</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>05. 11. 2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>1.</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Hana</NAME>
+         <SURNAME>Štěpánová</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

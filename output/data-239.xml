@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534528</ITEM_ID>
+   <PRODUCTNAME>Víkend s panem Darcym - Victoria Connellyová</PRODUCTNAME>
+   <EAN>9788088250081</EAN>
+   <ISBN>978-80-88250-08-1</ISBN>
+   <PRICE_VAT>179</PRICE_VAT>
+   <DESCRIPTION>
+
+Katherine, uznávaná profesorka literatury na Oxfordské univerzitě, se netají svou láskou ke knihám Jane Austenové. Během konference věnované Jane Austenové, na ni však čeká obrovské překvapení, jež si v ničem nezadá se zápletkou románu.
+
+</DESCRIPTION>
+   <CATEGORYTEXT>
+E-knihy | Krásná literatura | Próza | Světová próza
+</CATEGORYTEXT>
+   <URL>
+https://www.sckn.cz/vikend-s-panem-darcym-victoria-connellyova-pn-534-528/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/1c5c21ea231577ac83867a1f4943ca5d.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>330</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Denisa</NAME>
+         <SURNAME>Štrbová</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Victoria</NAME>
+         <SURNAME>Connellyová</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

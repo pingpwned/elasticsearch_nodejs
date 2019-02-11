@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>533889</ITEM_ID>
+   <PRODUCTNAME>Český jazyk 3. třída - procvičujeme</PRODUCTNAME>
+   <EAN>9788075672957</EAN>
+   <ISBN>978-80-7567-295-7</ISBN>
+   <PRICE_VAT>99</PRICE_VAT>
+   <DESCRIPTION>
+
+V tomto sešitu si mohou žáci 3. tříd zopakovat veškeré učivo z českého jazyka. Zábavnou formou si procvičí gramatiku, ale i psaní!
+
+</DESCRIPTION>
+   <CATEGORYTEXT>
+Tištěné knihy | Učebnice | Učebnice pro základní školy | Čeština
+</CATEGORYTEXT>
+   <URL>
+https://www.sckn.cz/-esky-jazyk-3-t-ida-procvi-ujeme-lucie-vichova-pn-533-889/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/6b77d05adb918a7e9f36686e4797fb71.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>72</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>kniha, brožovaná vazba</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Jazyk</PARAM_NAME>
+         <VAL>český</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Lucie</NAME>
+         <SURNAME>Víchová</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534166</ITEM_ID>
+   <PRODUCTNAME>Panorama vlajek světa</PRODUCTNAME>
+   <EAN>9788075850300</EAN>
+   <ISBN>978-80-7585-030-0</ISBN>
+   <PRICE_VAT>349</PRICE_VAT>
+   <DESCRIPTION>
+
+Přemýšlel jsi někdy nad tím, jak vlastně vznikly vlajky a zda je jejich podoba volena náhodně? Proč jsou některé vlajky jednoduché a jiné tvoří mnoho drobných detailů? Jakou roli na nich hrají barvy a co symbolizují pruhy, hvězdy či kříže?
+
+</DESCRIPTION>
+   <CATEGORYTEXT />
+   <URL>
+https://www.sckn.cz/panorama-vlajek-sv-ta-pn-534-166/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/86a2a5b785dc2202e9a610c0e7f1c39e.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>80</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>kniha, vázaná vazba</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS />
+</SHOPITEM>

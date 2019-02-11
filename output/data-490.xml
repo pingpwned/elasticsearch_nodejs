@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534217</ITEM_ID>
+   <PRODUCTNAME>Návrat Krále Šumavy 1. díl</PRODUCTNAME>
+   <EAN>9788076170889</EAN>
+   <ISBN>978-80-7617-088-9</ISBN>
+   <PRICE_VAT>299</PRICE_VAT>
+   <DESCRIPTION>
+
+První díl komiksové trilogie na motivy románového bestselleru Davida Jana Žáka „Návrat Krále Šumavy“.
+
+</DESCRIPTION>
+   <CATEGORYTEXT>
+Tištěné knihy | Krásná literatura | Sci-fi, fantasy, komiks | Komiks pro dospělé a mládež
+</CATEGORYTEXT>
+   <URL>
+https://www.sckn.cz/navrat-krale-scaron-umavy-1-dil-ond-ej-kavalir-vojt-ch-ma-scaron-ek-pn-534-217/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/d36a0b75a3685220313ad32c52d2802e.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>160</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>kniha, brožovaná vazba</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Jazyk</PARAM_NAME>
+         <VAL>český</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Ondřej</NAME>
+         <SURNAME>Kavalír</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Vojtěch</NAME>
+         <SURNAME>Mašek</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

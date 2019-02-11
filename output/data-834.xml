@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>533849</ITEM_ID>
+   <PRODUCTNAME>Kouzelník Žito</PRODUCTNAME>
+   <EAN>9788074480812</EAN>
+   <ISBN>978-80-7448-081-2</ISBN>
+   <PRICE_VAT>299</PRICE_VAT>
+   <DESCRIPTION>
+
+Výpravná a jímavá pohádka o spravedlivém Žitovi, který se musí rozhodnout, zda obětovat svůj život, a zachránit tak svou milovanou, anebo žít věčně ale v pekle, premiérovaná pro malé i velké diváky na Štědrý večer 2018, nyní vychází i v knižní podobě. Televizní pohádku natočil renomovaný režisér Zdeněk Zelenka, který ji též převyprávěl pro knižní stránky. Znovu ožívá statečný Žito ve filmovém podání ztvárněný Denisem Šafaříkem, zamilovaná čertice Tatiany Vilhelmové či bylinkářka Apolena Jiřiny Bohdalové.
+
+</DESCRIPTION>
+   <CATEGORYTEXT>Tištěné knihy | Pro děti a mládež</CATEGORYTEXT>
+   <URL>https://www.sckn.cz/kouzelnik-zito-pn-533-849/</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/7836ee8009becaf88a091ebd5ce0e04e.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>144</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL />
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Jazyk</PARAM_NAME>
+         <VAL>český</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>08. 11. 2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>1.</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Zdeněk</NAME>
+         <SURNAME>Zelenka</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

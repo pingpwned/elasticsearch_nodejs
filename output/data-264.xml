@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534506</ITEM_ID>
+   <PRODUCTNAME>Řeka Bohů I. - Wilbur Smith</PRODUCTNAME>
+   <EAN>9788075437488</EAN>
+   <ISBN>978-80-7543-748-8</ISBN>
+   <PRICE_VAT>229</PRICE_VAT>
+   <DESCRIPTION>
+
+Pravěký Egypt byl zemí faraonů, královstvím vybudovaným na zlatě a legendou zničenou chamtivostí po bohatství a moci.
+
+</DESCRIPTION>
+   <CATEGORYTEXT>
+E-knihy | Krásná literatura | Próza | Historické romány
+</CATEGORYTEXT>
+   <URL>
+https://www.sckn.cz/-eka-boh-i-wilbur-smith-pn-534-506/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/94170ff9f47abb8e4ef7862ca4939385.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>568</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Václav</NAME>
+         <SURNAME>Vanduch</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Wilbur</NAME>
+         <SURNAME>Smith</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

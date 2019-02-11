@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534682</ITEM_ID>
+   <PRODUCTNAME>Smrtelné stroje - Philip Reeve</PRODUCTNAME>
+   <EAN>9788020451408</EAN>
+   <ISBN>978-80-204-5140-8</ISBN>
+   <PRICE_VAT>245</PRICE_VAT>
+   <DESCRIPTION>
+
+Představte si, že žijete v Londýně daleké budoucnosti, který se pohybuje prostorem pomocí motorů a kol a požírá jiná města. A co když vypadnete ze svého rodného mobilního města do zlověstného neznáma?
+
+</DESCRIPTION>
+   <CATEGORYTEXT />
+   <URL>
+https://www.sckn.cz/smrtelne-stroje-philip-reeve-pn-534-682/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/83046819b2570ce849350889e709bf95.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>314</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Dominika</NAME>
+         <SURNAME>Křesťanová</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Philip</NAME>
+         <SURNAME>Reeve</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

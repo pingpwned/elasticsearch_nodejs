@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534345</ITEM_ID>
+   <PRODUCTNAME>Maxim Habanec: Život je skejt</PRODUCTNAME>
+   <EAN>9788075972361</EAN>
+   <ISBN>978-80-7597-236-1</ISBN>
+   <PRICE_VAT>349</PRICE_VAT>
+   <DESCRIPTION>
+
+Vítej ve světě skateboardingu a seznam se s českým profesionálním riderem! Nejpopulárnější a nejuznávanější skejťák v Česku vzpomíná na historky z dětství, své začátky i nesnadnou cestu za splněním svého snu. Max Habanec se s tebou podělí nejen o vtipné historky, ale také tě provede světem skateboardingu a vznikem svých projektů. Zároveň prozradí tipy a rady, jak správně začít s ježděním a jak zvládnout i ty největší výzvy.
+
+</DESCRIPTION>
+   <CATEGORYTEXT>
+Tištěné knihy | Zdraví a životní styl | Koníčky a záliby
+</CATEGORYTEXT>
+   <URL>
+https://www.sckn.cz/maxim-habanec-zivot-je-skejt-pn-534-345/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/0f28676813fe0cd03d809a435e8ba20a.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>192</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL />
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Jazyk</PARAM_NAME>
+         <VAL>český</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>15. 11. 2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>1.</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Maxim</NAME>
+         <SURNAME>Habanec</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

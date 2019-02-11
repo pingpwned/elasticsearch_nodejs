@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534496</ITEM_ID>
+   <PRODUCTNAME>Dívky ve vodě</PRODUCTNAME>
+   <EAN>9788073908805</EAN>
+   <ISBN>978-80-7390-880-5</ISBN>
+   <PRICE_VAT>399</PRICE_VAT>
+   <DESCRIPTION>
+
+Jednoho chladného rána najde policie v místním parku tělo Loly Evansové. K vyšetřování přizve Alex Kingovou a Chloe Laneovou, aby dopadly vraha. O několik dní později se začne pohřešovat další dívka.
+
+</DESCRIPTION>
+   <CATEGORYTEXT>
+Tištěné knihy | Krásná literatura | Próza | Detektivky, napětí
+</CATEGORYTEXT>
+   <URL>
+https://www.sckn.cz/divky-ve-vod-victoria-jenkins-pn-534-496/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/59dd4613fc59349f0a2e20228ac2a5f8.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>392</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>kniha, vázaná vazba</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Jazyk</PARAM_NAME>
+         <VAL>český</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Victoria</NAME>
+         <SURNAME>Jenkins</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Překladatel</ROLE>
+         <NAME>Andrea</NAME>
+         <SURNAME>Felcmanová</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

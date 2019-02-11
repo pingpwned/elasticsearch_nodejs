@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534148</ITEM_ID>
+   <PRODUCTNAME>Kafka 3 - Roky poznání - Reiner Stach</PRODUCTNAME>
+   <EAN>9788025725757</EAN>
+   <ISBN>978-80-257-2575-7</ISBN>
+   <PRICE_VAT>398</PRICE_VAT>
+   <DESCRIPTION>
+
+Třetí, závěrečný svazek monumentální Kafkovy biografie „Roky poznání“ zachycuje poslední necelé desetiletí Kafkova života, od roku 1916 do smrti v roce 1924.
+
+</DESCRIPTION>
+   <CATEGORYTEXT />
+   <URL>
+https://www.sckn.cz/kafka-3-roky-poznani-reiner-stach-pn-534-148/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/5c1cd71e934badb64542024fa4507172.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>726</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>kniha, vázaná vazba</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Petr</NAME>
+         <SURNAME>Dvořáček</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Reiner</NAME>
+         <SURNAME>Stach</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

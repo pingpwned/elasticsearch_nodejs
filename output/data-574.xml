@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534124</ITEM_ID>
+   <PRODUCTNAME>Ranč Stříbrný poník: Bublina</PRODUCTNAME>
+   <EAN>9788026422266</EAN>
+   <ISBN>978-80-264-2226-6</ISBN>
+   <PRICE_VAT>169</PRICE_VAT>
+   <DESCRIPTION>
+
+Terezka a Míša rády jezdí na ponících. A teď se připravují na svůj první jezdecký závod v životě. Těší se, ale také se tak trochu bojí. Potom se na ranči babičky Stříbrné objeví dívka jménem Alžběta, která si přivede vlastního poníka. Tvrdí, že ona na závodech zvítězí, zatímco sestry utřou nos! Podaří se Terce a Míše uspět a neskončí jejich účast na jezdeckém dni ostudou?
+
+</DESCRIPTION>
+   <CATEGORYTEXT>Tištěné knihy | Pro děti a mládež</CATEGORYTEXT>
+   <URL>
+https://www.sckn.cz/ranc-stribrny-ponik-bublina-pn-534-124/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/bb6e5c0a445044cdeaf4bd6586a40057.png
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL />
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Jazyk</PARAM_NAME>
+         <VAL>český</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>12. 11. 2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>1.</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>D.L.</NAME>
+         <SURNAME>Greenová</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

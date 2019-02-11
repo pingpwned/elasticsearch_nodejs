@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>533962</ITEM_ID>
+   <PRODUCTNAME>Zvířátka z lesa</PRODUCTNAME>
+   <EAN>9788075672735</EAN>
+   <ISBN>978-80-7567-273-5</ISBN>
+   <PRICE_VAT>59</PRICE_VAT>
+   <DESCRIPTION>
+
+Pojďte s námi do lesa seznamte se s jeho obyvateli. V tomto báječném leporelu s nádhernými ilustracemi poznáte mnohá zvířátka z lesní říše. Výprava začíná!
+
+</DESCRIPTION>
+   <CATEGORYTEXT />
+   <URL>https://www.sckn.cz/zvi-atka-z-lesa-pn-533-962/</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/12ce3a9ab605d6c7f8c91a417f1ac000.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>14</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>dětské skládanky a leporela</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Dita</NAME>
+         <SURNAME>Křišťanová</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Martin</NAME>
+         <SURNAME>Izák</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

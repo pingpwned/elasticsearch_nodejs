@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534237</ITEM_ID>
+   <PRODUCTNAME>Foucault a Deleuze: O těle, experimentu a etice</PRODUCTNAME>
+   <EAN>9788074761447</EAN>
+   <ISBN>978-80-7476-144-7</ISBN>
+   <PRICE_VAT>240</PRICE_VAT>
+   <DESCRIPTION>
+
+Cílem předložené monografie je uvedení do díla Michela Foucaulta a Gillesa Deleuze, zejména co se týče jejich uvažování o povaze vztahu jedince a společnosti.
+
+</DESCRIPTION>
+   <CATEGORYTEXT>Tištěné knihy | Filozofie a náboženství</CATEGORYTEXT>
+   <URL>
+https://www.sckn.cz/foucault-a-deleuze-o-t-le-experimentu-a-etice-martin-charvat-pn-534-237/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/7abb6c0edb37c7a2b27beb285af71cff.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>216</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>kniha, brožovaná vazba</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Jazyk</PARAM_NAME>
+         <VAL>český</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Martin</NAME>
+         <SURNAME>Charvát</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

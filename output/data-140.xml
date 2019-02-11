@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534628</ITEM_ID>
+   <PRODUCTNAME>Učedník - Zjevení démona - Taran Matharu</PRODUCTNAME>
+   <EAN>9788075438829</EAN>
+   <ISBN>978-80-7543-882-9</ISBN>
+   <PRICE_VAT>199</PRICE_VAT>
+   <DESCRIPTION>
+
+Život sirotka Arktura se změní v okamžiku, kdy najde prapodivný svitek, po jehož přečtení zjistí, že má schopnost vyvolávat démony, která přísluší pouze šlechticům.
+
+</DESCRIPTION>
+   <CATEGORYTEXT />
+   <URL>
+https://www.sckn.cz/u-ednik-zjeveni-demona-taran-matharu-pn-534-628/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/15dfda20d02c9b067ea8273e149c3f91.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>328</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Jan</NAME>
+         <SURNAME>Mrlík</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Taran</NAME>
+         <SURNAME>Matharu</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>533994</ITEM_ID>
+   <PRODUCTNAME>Druhá světová válka v dokumentární fotografii</PRODUCTNAME>
+   <EAN>9788025510995</EAN>
+   <ISBN>978-80-255-1099-5</ISBN>
+   <PRICE_VAT>799</PRICE_VAT>
+   <DESCRIPTION>
+
+Publikace Druhá světová válka v dokumentární fotografii přináší přes 900 unikátních dobových fotografií zachycujících všechna hlavní bojiště napříč kontinenty.
+
+</DESCRIPTION>
+   <CATEGORYTEXT>Tištěné knihy | Umění | Fotografie</CATEGORYTEXT>
+   <URL>
+https://www.sckn.cz/druha-sv-tova-valka-v-dokumentarni-fotografii-david-boyle-pn-533-994/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/50b37cff0e4fbf7cf4468edaf8b1a7ee.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>600</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>kniha, vázaná vazba</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Jazyk</PARAM_NAME>
+         <VAL>český</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>David</NAME>
+         <SURNAME>Boyle</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Překladatel</ROLE>
+         <NAME>Dana</NAME>
+         <SURNAME>Vaněčková</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

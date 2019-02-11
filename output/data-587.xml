@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534111</ITEM_ID>
+   <PRODUCTNAME>Jitřenka</PRODUCTNAME>
+   <EAN>9788025339305</EAN>
+   <ISBN>978-80-253-3930-5</ISBN>
+   <PRICE_VAT>299</PRICE_VAT>
+   <DESCRIPTION>
+
+Jitřenčina zahrádka je pro ni a pro její kamarády kočičku Lízu a pejska Titiho to nejkrásnější místo na světě. Celé dny si zde hrají, objevují všechna zákoutí a poznávají její obyvatele: krtečka, ježka, pilné mravenečky nebo malé pavoučky. Pokud se chcete do Jitřenčina království podívat a dozvědět se, jak to bylo s maličkými housátky, protivnou vosou nebo zahrádkou v pokojíčku, otevřete tuto knížku plnou překrásných ilustrací a přeneste se tam…
+
+</DESCRIPTION>
+   <CATEGORYTEXT>Tištěné knihy | Pro děti a mládež</CATEGORYTEXT>
+   <URL>https://www.sckn.cz/jitrenka-pn-534-111/</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/f9fe4ed519d9545e1039ac788f0b00c2.png
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL />
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Jazyk</PARAM_NAME>
+         <VAL>český</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>12. 11. 2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>1.</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Zuzana</NAME>
+         <SURNAME>Štelbaská</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>532473</ITEM_ID>
+   <PRODUCTNAME>Z akademie do přírody</PRODUCTNAME>
+   <EAN>9788074851667</EAN>
+   <ISBN>978-80-7485-166-7</ISBN>
+   <PRICE_VAT>599</PRICE_VAT>
+   <DESCRIPTION>
+
+Publikace je první souhrnnou prací zpracovávající mimořádně atraktivní téma středoevropské plenérové krajinomalby, jež se rozvíjela v kulturním prostoru rakouského soustátí v letech 1860–1890. U vybraných autorů z mnohonárodnostní monarchie sleduje osobní kontakty, inspirace a přijímání nových přístupů ke ztvárnění přírodních motivů. Někteří z těchto umělců studovali nejen na domácích akademiích ve Vídni a Praze, ale také v dalších uměleckých metropolích, např. Mnichově, Düsseldorfu či Paříži. pro schopnost zachytit zvolený námět či výsek krajiny s její jedinečnou atmosférou. Kniha obsahuje rovněž studii Markéty Theinhardt z pařížské Sorbonny, která sleduje působení některých středoevropských umělců-krajinářů v Paříži a také v Barbizonu, včetně kritického ohlasu jejich díla v dobovém francouzském tisku. Publikace vychází při příležitosti stejnojmenné výstavy pořádané Západočeskou galerií v Plzni a Slovenskou národní galerií v Bratislavě.
+
+</DESCRIPTION>
+   <CATEGORYTEXT>Tištěné knihy | Umění | Dějiny umění</CATEGORYTEXT>
+   <URL>
+https://www.sckn.cz/z-akademie-do-prirody-pn-532-473/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/cf20af7842420b034b9c20ead2d840e2.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>240</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>kniha, brožovaná vazba</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>1</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Jazyk</PARAM_NAME>
+         <VAL>český</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Katarína</NAME>
+         <SURNAME>Beňová</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

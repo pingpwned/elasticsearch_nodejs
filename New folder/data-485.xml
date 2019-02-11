@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+<ITEM_ID>534221</ITEM_ID>
+<PRODUCTNAME>Zombie apokalypsa</PRODUCTNAME>
+<PRODUCT>Zombie apokalypsa</PRODUCT>
+<EAN>9788075342102</EAN>
+<ISBN>978-80-7534-210-2</ISBN>
+<PRICE_VAT>280</PRICE_VAT>
+<DESCRIPTION>
+
+Válka sama o sobě je nepříjemný stav, do kterého se člověk může v životě dostat, ale válka se zombie... A jak se ukáže, není to ani zdaleka to nejhorší!
+
+</DESCRIPTION>
+<CATEGORYTEXT>
+Tištěné knihy | Krásná literatura | Sci-fi, fantasy, komiks
+</CATEGORYTEXT>
+<URL>
+https://www.sckn.cz/zombie-apokalypsa-john-crunch-pn-534-221/
+</URL>
+<IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/4ab3d4bb74129def913074b38b17efe9.jpg
+</IMGURL>
+<PARAM>
+<PARAM_NAME>Počet stran</PARAM_NAME>
+<VAL>142</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Datum vydání</PARAM_NAME>
+<VAL>2018</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Vazba</PARAM_NAME>
+<VAL>kniha, vázaná vazba</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Pořadí vydání</PARAM_NAME>
+<VAL>neurčeno</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Jazyk</PARAM_NAME>
+<VAL>český</VAL>
+</PARAM>
+<CONTRIBUTOR>
+<ROLE>Autor</ROLE>
+<NAME>John</NAME>
+<SURNAME>Crunch</SURNAME>
+</CONTRIBUTOR>
+<THEMATIC_GROUP>13 - Krásná literatura</THEMATIC_GROUP>
+</SHOPITEM>

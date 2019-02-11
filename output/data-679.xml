@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534014</ITEM_ID>
+   <PRODUCTNAME>Je vědění moc?</PRODUCTNAME>
+   <EAN>9788074192647</EAN>
+   <ISBN>978-80-7419-264-7</ISBN>
+   <PRICE_VAT>280</PRICE_VAT>
+   <DESCRIPTION>
+
+Téměř vše, co děláme, se zakládá na vědění o světě kolem nás: jak se ráno oblékáme, jak si vedeme v práci, jak jednáme s jinými lidmi – to vše má základ v našem porozumění tomu, co víme o životě. Vědění může být nahlíženo jako nejpodstatnější a současně nejméně prozkoumaný rys sociálního života: o vědění uvažujeme většinou jako o technickém (vědeckém) vědění nebo jako o formálním vědění (jehož se dosahuje akademickým vzděláním). To, co víme, je v našem každodenním rutinním jednání sotva znatelné, neodhaluje to svůj status jako něčeho „poznaného“ – dokud si to nevyžádá nějaká naléhavá událost. Tato kniha se soustřeďuje zejména na sociální porozumění fenoménu vědění. Její autoři vědění znovu ustavují jako součást diskuse o tom, jak my jako individua, skupiny i moderní společnost produkujeme a reprodukujeme vědění jako základ našich životů. K vědění přistupují jako k sociálnímu jevu, a to tím, že postupně odhalují součásti a sociální uspořádání, v nichž je vědění produkováno a předáváno k použití.
+
+</DESCRIPTION>
+   <CATEGORYTEXT>
+Tištěné knihy | Naučná | Společenské vědy | Sociologie
+</CATEGORYTEXT>
+   <URL>https://www.sckn.cz/je-vedeni-moc-pn-534-014/</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/6f63465e6627c5add5f014939f35ad3c.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>260</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>
+měkké desky, lepená brožura oříznutá po třech stranách
+</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Jazyk</PARAM_NAME>
+         <VAL>český</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Rozměr</PARAM_NAME>
+         <VAL>150x230</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>07. 11. 2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>1</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Nico</NAME>
+         <SURNAME>Stehr</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Marian</NAME>
+         <SURNAME>Adolf</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Překladatel</ROLE>
+         <NAME>Petra</NAME>
+         <SURNAME>Jeřábková</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Karel</NAME>
+         <SURNAME>Müller (doslov)</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534209</ITEM_ID>
+   <PRODUCTNAME>Pardubice dříve a dnes - Pavel Panoch</PRODUCTNAME>
+   <EAN>9788075601551</EAN>
+   <ISBN>978-80-7560-155-1</ISBN>
+   <PRICE_VAT>340</PRICE_VAT>
+   <DESCRIPTION>
+
+Publikace ukazuje proměny města v posledních 120 letech. Je založena na srovnávání často unikátních historických fotografií a pohlednic z archivu sběratele Tomáše Macáka s fotografiemi.
+
+</DESCRIPTION>
+   <CATEGORYTEXT />
+   <URL>
+https://www.sckn.cz/pardubice-d-ive-a-dnes-pavel-panoch-pn-534-209/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/d37dc7a18afa15b6c99ad90d4aa56463.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>170</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>kniha, vázaná vazba</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Pavel</NAME>
+         <SURNAME>Panoch</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Jana</NAME>
+         <SURNAME>Macáková</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

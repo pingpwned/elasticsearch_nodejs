@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534585</ITEM_ID>
+   <PRODUCTNAME>Ukradený syn - Markéta Šichtařová</PRODUCTNAME>
+   <EAN>9788088200093</EAN>
+   <ISBN>978-80-88200-09-3</ISBN>
+   <PRICE_VAT>171</PRICE_VAT>
+   <DESCRIPTION>
+
+Toto je biografický a investigativní příběh ženy, kterou „rozvinutý stát“ díky své aroganci téměř zničil.
+
+</DESCRIPTION>
+   <CATEGORYTEXT>
+E-knihy | Krásná literatura | Próza | Česká a slovenská próza
+</CATEGORYTEXT>
+   <URL>
+https://www.sckn.cz/ukradeny-syn-marketa-scaron-ichta-ova-pn-534-585/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/09ea0283a5363134a5b876a55f499996.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>285</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Markéta</NAME>
+         <SURNAME>Šichtařová</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

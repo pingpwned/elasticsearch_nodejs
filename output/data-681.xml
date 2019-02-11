@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534010</ITEM_ID>
+   <PRODUCTNAME>Dar naděje - Stanislav Struhar</PRODUCTNAME>
+   <EAN>9788075114204</EAN>
+   <ISBN>978-80-7511-420-4</ISBN>
+   <PRICE_VAT>139</PRICE_VAT>
+   <DESCRIPTION>
+
+Román Dar naděje, stylisticky i jazykově mistrně zvládnutý v prostředí měst Vídně a Zlína, vypráví s mimořádnou empatií a intelektuální hloubkou subtilní příběh o vztahu Rakušana a mladší ženy českého původu, toužících po štěstí ve složité realitě.
+
+</DESCRIPTION>
+   <CATEGORYTEXT />
+   <URL>
+https://www.sckn.cz/dar-nad-je-stanislav-struhar-pn-534-010/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/88b5f6effac1f9c023f42c9a53811290.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>116</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Markéta</NAME>
+         <SURNAME>Kliková</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Stanislav</NAME>
+         <SURNAME>Struhar</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

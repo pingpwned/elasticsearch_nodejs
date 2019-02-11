@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534242</ITEM_ID>
+   <PRODUCTNAME>Do lví tlamy</PRODUCTNAME>
+   <EAN>9788088268000</EAN>
+   <ISBN>978-80-88268-00-0</ISBN>
+   <PRICE_VAT>398</PRICE_VAT>
+   <DESCRIPTION>
+
+Do lví tlamy vypráví skutečný příběh dvojitého agenta Duško Popova, který byl předobrazem postavy Jamese Bonda v románech Iana Fleminga.
+
+</DESCRIPTION>
+   <CATEGORYTEXT>Tištěné knihy | Naučná | Literatura faktu</CATEGORYTEXT>
+   <URL>
+https://www.sckn.cz/do-lvi-tlamy-larry-loftis-pn-534-242/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/86e48c25645e43959099560950e16d1d.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>384</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>kniha, vázaná vazba</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Jazyk</PARAM_NAME>
+         <VAL>český</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Larry</NAME>
+         <SURNAME>Loftis</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Překladatel</ROLE>
+         <NAME>Sylva</NAME>
+         <SURNAME>Ficová</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

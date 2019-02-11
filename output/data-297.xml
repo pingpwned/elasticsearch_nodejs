@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534469</ITEM_ID>
+   <PRODUCTNAME>Už teď jsi mrtvá - Sharon J. Bolton</PRODUCTNAME>
+   <EAN>9788074982811</EAN>
+   <ISBN>978-80-7498-281-1</ISBN>
+   <PRICE_VAT>229</PRICE_VAT>
+   <DESCRIPTION>
+
+Krátce před rozbřeskem se pasažéři vyhlídkového letu balónem stanou svědky brutální vraždy. Necelou hodinu poté se balón zřítí. Katastrofu přežije jediná členka osádky. Spatřila vrahovu tvář – ale také on spatřil ji.
+
+</DESCRIPTION>
+   <CATEGORYTEXT>
+E-knihy | Krásná literatura | Próza | Detektivky, napětí
+</CATEGORYTEXT>
+   <URL>
+https://www.sckn.cz/u-te-jsi-mrtva-sharon-j-bolton-pn-534-469/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/c2e239b0d1b131d5df4791d63c9cd6c5.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>422</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Sharon J.</NAME>
+         <SURNAME>Bolton</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Květa</NAME>
+         <SURNAME>Palowská</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

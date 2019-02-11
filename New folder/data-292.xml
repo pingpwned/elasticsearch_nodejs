@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+<ITEM_ID>534473</ITEM_ID>
+<PRODUCTNAME>Krvavý ostrov - Dalibor Vácha</PRODUCTNAME>
+<PRODUCT>Krvavý ostrov - Dalibor Vácha</PRODUCT>
+<EAN>9788075576231</EAN>
+<ISBN>978-80-7557-623-1</ISBN>
+<PRICE_VAT>99</PRICE_VAT>
+<DESCRIPTION>
+
+Novou optikou nahlížená jedna z nejslavnějších bitev v Tichomoří za druhé světové války.
+
+</DESCRIPTION>
+<URL>
+https://www.sckn.cz/krvavy-ostrov-dalibor-vacha-pn-534-473/
+</URL>
+<IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/a6222ee5d9fabe0ee93a2e3fccb09031.jpg
+</IMGURL>
+<PARAM>
+<PARAM_NAME>Počet stran</PARAM_NAME>
+<VAL>120</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Datum vydání</PARAM_NAME>
+<VAL>2018</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Pořadí vydání</PARAM_NAME>
+<VAL>neurčeno</VAL>
+</PARAM>
+<CONTRIBUTOR>
+<ROLE>Autor</ROLE>
+<NAME>Dalibor</NAME>
+<SURNAME>Vácha</SURNAME>
+</CONTRIBUTOR>
+<THEMATIC_GROUP>999 - nezařazeno</THEMATIC_GROUP>
+</SHOPITEM>

@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>533667</ITEM_ID>
+   <PRODUCTNAME>Emily Vichrná a tajemství mořské sirény</PRODUCTNAME>
+   <EAN>9788000052328</EAN>
+   <ISBN>978-80-00-05232-8</ISBN>
+   <PRICE_VAT>229</PRICE_VAT>
+   <DESCRIPTION>
+
+Emily Vichrná se i s celou svou rodinou vrací do Brightportu, kde vyrůstala. Její pokusy smířit mořské a suchozemské obyvatele se však zdají být naprosto marné. Život jí navíc neustále ztěžuje její bývalá kamarádka Mandy Rushtonová. Dokonce Emily vyhodí ze školy pro mořské panny, kterou měla tak ráda! Vydá se proto za tajemnými mořskými sirénami, které Neptun odsoudil k životu v podmořské jeskyni. Odhalí Emily jejich tajemství?
+
+</DESCRIPTION>
+   <CATEGORYTEXT>Tištěné knihy | Pro děti a mládež</CATEGORYTEXT>
+   <URL>
+https://www.sckn.cz/emily-vichrna-a-tajemstvi-morske-sireny-pn-533-667/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/0665120f5ee22f0efb692e8f9b994912.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>264</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL />
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Jazyk</PARAM_NAME>
+         <VAL>český</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>05. 11. 2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>1</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Liz</NAME>
+         <SURNAME>Kesslerová</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

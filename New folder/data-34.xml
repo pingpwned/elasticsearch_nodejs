@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+<ITEM_ID>534743</ITEM_ID>
+<PRODUCTNAME>Planeta Země - Andor Šándor</PRODUCTNAME>
+<PRODUCT>Planeta Země - Andor Šándor</PRODUCT>
+<EAN>9788087423868</EAN>
+<ISBN>978-80-87423-86-8</ISBN>
+<PRICE_VAT>299</PRICE_VAT>
+<DESCRIPTION>
+
+Jak vidí svět generál v záloze Andor Šándor, bezpečnostní znalec, kterého většina české veřejnosti respektuje, zatímco menšina mu stále něco vytýká?
+
+</DESCRIPTION>
+<URL>
+https://www.sckn.cz/planeta-zem-andor-scaron-andor-pn-534-743/
+</URL>
+<IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/70b6375a1666e04f10f5412f0779fe62.jpg
+</IMGURL>
+<PARAM>
+<PARAM_NAME>Počet stran</PARAM_NAME>
+<VAL>216</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Datum vydání</PARAM_NAME>
+<VAL>2018</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Vazba</PARAM_NAME>
+<VAL>kniha, vázaná vazba</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Pořadí vydání</PARAM_NAME>
+<VAL>neurčeno</VAL>
+</PARAM>
+<CONTRIBUTOR>
+<ROLE>Autor</ROLE>
+<NAME>Andor</NAME>
+<SURNAME>Šándor</SURNAME>
+</CONTRIBUTOR>
+<THEMATIC_GROUP>999 - nezařazeno</THEMATIC_GROUP>
+</SHOPITEM>

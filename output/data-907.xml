@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>533772</ITEM_ID>
+   <PRODUCTNAME>Křik mlčení - Ildar Dadin, Birgit Virnichová</PRODUCTNAME>
+   <EAN>9788024937120</EAN>
+   <ISBN>978-80-249-3712-0</ISBN>
+   <PRICE_VAT>179</PRICE_VAT>
+   <DESCRIPTION>
+
+OTŘESNÝ VĚZEŇSKÝ DENÍK KRITIKA KREMLU ILDARA DADINA Tiše, ale vytrvale protestuje roku 2014 Ildar Dadin před branami Kremlu proti agresivní ruské zahraniční politice a proti válce na Ukrajině. Na plakátech, které si sám namaloval, si kolemjdoucí mohou přečíst nápisy jako Putin – hanba Ruska.
+
+</DESCRIPTION>
+   <CATEGORYTEXT />
+   <URL>
+https://www.sckn.cz/k-ik-ml-eni-ildar-dadin-birgit-virnichova-pn-533-772/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/0ace86819890b4a7800299f5a2db11a2.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>200</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Ildar</NAME>
+         <SURNAME>Dadin</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Birgit</NAME>
+         <SURNAME>Virnichová</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Vladimír</NAME>
+         <SURNAME>Čadský</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

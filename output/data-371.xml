@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534381</ITEM_ID>
+   <PRODUCTNAME>Vzpomínky mořem vonící</PRODUCTNAME>
+   <EAN>9788088215240</EAN>
+   <ISBN>978-80-88215-24-0</ISBN>
+   <PRICE_VAT>222</PRICE_VAT>
+   <DESCRIPTION>
+
+Některé lidské touhy se naplní, jiné ne, některá přání se splní a jiná zůstanou nevyslyšena. Každý někdy pomyslel na to, po čem všem touží, ale nevěděl, jestli to někdy dostane. Tak v našich duších vznikají sny, ukládají se přání a vytvářejí tužby.
+
+</DESCRIPTION>
+   <CATEGORYTEXT>
+Tištěné knihy | Krásná literatura | Osobnosti a osudy
+</CATEGORYTEXT>
+   <URL>
+https://www.sckn.cz/vzpominky-mo-em-vonici-igor-gabler-pn-534-381/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/bd0c1764351c83aece847476142287d1.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>98</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>kniha, brožovaná vazba</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Jazyk</PARAM_NAME>
+         <VAL>český</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Igor</NAME>
+         <SURNAME>Gabler</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

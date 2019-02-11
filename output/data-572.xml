@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534126</ITEM_ID>
+   <PRODUCTNAME>Equinus, neživý hřebec - Beast Quest (20)</PRODUCTNAME>
+   <EAN>9788000052434</EAN>
+   <ISBN>978-80-000-5243-4</ISBN>
+   <PRICE_VAT>169</PRICE_VAT>
+   <DESCRIPTION>
+
+V druhé výpravě do Zapovězené země musí Tom a Elena najít další kus kouzelného amuletu, který stráží Equinus, neživý hřebec. Equinus nezabíjí, je mnohem zákeřnější. Dokáže se proměňovat jednou v nehmotný přízrak, jindy v netvora z masa a kostí. Nabíjí se dušemi živých tvorů, které vysaje, a odsoudí je tak navždy k trudnému polomrtvému stavu. Tom bude potřebovat i tvou pomoc. Budeš mít dost odvahy a vydáš se s Tomem na další výpravu?
+
+</DESCRIPTION>
+   <CATEGORYTEXT>Tištěné knihy | Pro děti a mládež</CATEGORYTEXT>
+   <URL>
+https://www.sckn.cz/equinus-nezivy-hrebec-beast-quest-20-pn-534-126/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/911c6ce8a57c836fb564ea20ec2f1817.png
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL />
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Jazyk</PARAM_NAME>
+         <VAL>český</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>12. 11. 2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>1.</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Adam</NAME>
+         <SURNAME>Blade</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

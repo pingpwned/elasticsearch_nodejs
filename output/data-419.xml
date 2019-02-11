@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534318</ITEM_ID>
+   <PRODUCTNAME>Tradiční český rok</PRODUCTNAME>
+   <EAN>9788024751733</EAN>
+   <ISBN>978-80-247-5173-3</ISBN>
+   <PRICE_VAT>499</PRICE_VAT>
+   <DESCRIPTION>
+
+V této knize vám přiblížíme nejen ty nejznámější svátky, zvyky a obyčeje, ale také zde najdete známá lidová říkadla, pořekadla, písničky, pranostiky i vánoční a velikonoční koledy.
+
+</DESCRIPTION>
+   <CATEGORYTEXT>
+Tištěné knihy | Pro děti a mládež | Pro děti 3-7 let
+</CATEGORYTEXT>
+   <URL>
+https://www.sckn.cz/tradi-ni-esky-rok-kol--pn-534-318/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/7b6c1a05b27066d36844771de574e3ad.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>224</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>kniha, vázaná vazba</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Jazyk</PARAM_NAME>
+         <VAL>český</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME />
+         <SURNAME>kol.</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Josef</NAME>
+         <SURNAME>Lada</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

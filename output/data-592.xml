@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534103</ITEM_ID>
+   <PRODUCTNAME>Luštění pro děti – zajímavosti o České republice</PRODUCTNAME>
+   <EAN>8594050425637</EAN>
+   <ISBN>8594050425637</ISBN>
+   <PRICE_VAT>89</PRICE_VAT>
+   <DESCRIPTION>
+
+Křížovky, osmisměrky, sudoku či spojovačky a k tomu navíc spousta zajímavostí o České republice. Víš, na kterém místě nejvíc fouká a který hrad postavili templáři? Pokud ne, je čas se to dozvědět. Roztoč mozkové závity a pusť se do toho! Hesla v křížovkách vycházejí z unikátního dětského křížovkářského slovníku, který byl vytvořen ve spolupráci s pedagogy českých základních škol a zohledňuje slovní zásobu žáků 1. stupně ZŠ.
+
+</DESCRIPTION>
+   <CATEGORYTEXT>Tištěné knihy | Pro děti a mládež</CATEGORYTEXT>
+   <URL>
+https://www.sckn.cz/lusteni-pro-deti-zajimavosti-o-ceske-republice-pn-534-103/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/2a8f6d4918f113fc029f6dabd89ca371.png
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL />
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Jazyk</PARAM_NAME>
+         <VAL>český</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>08. 11. 2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>1.</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS />
+</SHOPITEM>

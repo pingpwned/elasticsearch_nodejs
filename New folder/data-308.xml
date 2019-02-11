@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+<ITEM_ID>534456</ITEM_ID>
+<PRODUCTNAME>Toulky ruskou literaturou</PRODUCTNAME>
+<PRODUCT>Toulky ruskou literaturou</PRODUCT>
+<EAN>9788070507025</EAN>
+<ISBN>978-80-7050-702-5</ISBN>
+<PRICE_VAT>140</PRICE_VAT>
+<DESCRIPTION>
+
+Kniha Toulky ruskou literaturou přináší výběr textů věnovaných ruské literatuře z pera významného českého rusisty, literárního vědce, překladatele a básníka doc. Jiřího Honzíka (1924–2018). Jde o průřez autorovou odbornou tvorbou zaměřený jednak na texty málo známé či obtížně dostupné, ale též na texty dosud nepublikované. Většina dříve publikovaných textů byla jejich autorem přepracována a nově zredigována. Větší část svazku je tematicky spojena s problematikou stříbrného věku ruské literatury, Honzíkova životního tématu, autor však při výběru vhodných textů pohlížel též do období staršího (dílo A. S. Puškina) i blíže k současnosti (tvorba A. I. Solženicyna).
+
+</DESCRIPTION>
+<URL>
+https://www.sckn.cz/toulky-ruskou-literaturou-pn-534-456/
+</URL>
+<PARAM>
+<PARAM_NAME>Počet stran</PARAM_NAME>
+<VAL>139</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Vazba</PARAM_NAME>
+<VAL />
+</PARAM>
+<PARAM>
+<PARAM_NAME>Jazyk</PARAM_NAME>
+<VAL>český</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Pořadí vydání</PARAM_NAME>
+<VAL>1.</VAL>
+</PARAM>
+<CONTRIBUTOR>
+<ROLE>Autor</ROLE>
+<NAME>Jiří</NAME>
+<SURNAME>Honzík</SURNAME>
+</CONTRIBUTOR>
+<THEMATIC_GROUP>999 - nezařazeno</THEMATIC_GROUP>
+</SHOPITEM>

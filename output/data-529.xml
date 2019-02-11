@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534171</ITEM_ID>
+   <PRODUCTNAME>
+Zvířátka kolem nás - Vladimír Motyčka, Hana Motyčková
+</PRODUCTNAME>
+   <EAN>9788073462475</EAN>
+   <ISBN>978-80-7346-247-5</ISBN>
+   <PRICE_VAT>159</PRICE_VAT>
+   <DESCRIPTION>
+
+Rádi se díváte na zvířátka v přírodě nebo vás někdy polekají nezvaní hosté u vás doma?
+
+</DESCRIPTION>
+   <CATEGORYTEXT />
+   <URL>
+https://www.sckn.cz/zvi-atka-kolem-nas-vladimir-moty-ka-hana-moty-kova-pn-534-171/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/021075869cc6862ca0639ae0774240b8.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>139</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>kniha, brožovaná vazba</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Vladimír</NAME>
+         <SURNAME>Motyčka</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Hana</NAME>
+         <SURNAME>Motyčková</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+<ITEM_ID>534766</ITEM_ID>
+<PRODUCTNAME>Ostrov - Aldous Huxley</PRODUCTNAME>
+<PRODUCT>Ostrov - Aldous Huxley</PRODUCT>
+<EAN>9788072872343</EAN>
+<ISBN>978-80-7287-234-3</ISBN>
+<PRICE_VAT>298</PRICE_VAT>
+<DESCRIPTION>
+
+Autorova optimistická vize spravedlivého uspořádání společnosti, která svým občanům dává ideální podmínky pro rozvoj osobnosti.
+
+</DESCRIPTION>
+<CATEGORYTEXT>
+Tištěné knihy | Krásná literatura | Próza | Světová próza
+</CATEGORYTEXT>
+<URL>
+https://www.sckn.cz/ostrov-aldous-huxley-pn-534-766/
+</URL>
+<IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/d09d377525fc0a246addcc609118aab7.jpg
+</IMGURL>
+<PARAM>
+<PARAM_NAME>Počet stran</PARAM_NAME>
+<VAL>328</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Datum vydání</PARAM_NAME>
+<VAL>2018</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Vazba</PARAM_NAME>
+<VAL>kniha, vázaná vazba</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Pořadí vydání</PARAM_NAME>
+<VAL>neurčeno</VAL>
+</PARAM>
+<CONTRIBUTOR>
+<ROLE>Autor</ROLE>
+<NAME>Vanda</NAME>
+<SURNAME>Senko</SURNAME>
+</CONTRIBUTOR>
+<CONTRIBUTOR>
+<ROLE>Autor</ROLE>
+<NAME>Aldous</NAME>
+<SURNAME>Huxley</SURNAME>
+</CONTRIBUTOR>
+<CONTRIBUTOR>
+<ROLE>Autor</ROLE>
+<NAME>Milan</NAME>
+<SURNAME>Ohnisko</SURNAME>
+</CONTRIBUTOR>
+<THEMATIC_GROUP>13 - Krásná literatura</THEMATIC_GROUP>
+</SHOPITEM>

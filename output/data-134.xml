@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534635</ITEM_ID>
+   <PRODUCTNAME>Nestrašidla - Irena Lachoutová Ričlová</PRODUCTNAME>
+   <EAN>9788088104469</EAN>
+   <ISBN>978-80-88104-46-9</ISBN>
+   <PRICE_VAT>176</PRICE_VAT>
+   <DESCRIPTION>
+
+V této knize díky veršům ožívají strašidla a pohádkové bytosti. Bát se jich nikdo nemusí, jsou tu pro radost a pobavení. Začtěte se a zjistěte, co zrovna dělá hejkal, vodník, příšera či bludička. Možná vás to překvapí …
+
+</DESCRIPTION>
+   <CATEGORYTEXT />
+   <URL>
+https://www.sckn.cz/nestra-scaron-idla-irena-lachoutova-ri-lova-pn-534-635/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/3f134a9f64bd0c4a22e244b765a44512.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>56</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>kniha, vázaná vazba</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Irena Lachoutová</NAME>
+         <SURNAME>Ričlová</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

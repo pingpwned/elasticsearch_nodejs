@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534773</ITEM_ID>
+   <PRODUCTNAME>
+Dobrých 100 – Zábavné vědomostní hry s kartami - Nina Rutová
+</PRODUCTNAME>
+   <EAN>9788076170445</EAN>
+   <ISBN>978-80-7617-044-5</ISBN>
+   <PRICE_VAT>599</PRICE_VAT>
+   <DESCRIPTION>
+
+Jedinečný soubor karetních her podle stejnojmenné knihy! Připomeňte si, co dobrého se stalo v naší zemi za posledních 100 let počínaje rokem 1918.
+
+</DESCRIPTION>
+   <CATEGORYTEXT />
+   <URL>
+https://www.sckn.cz/dobrych-100-ndash-zabavne-v-domostni-hry-s-kartami-nina-rutova-pn-534-773/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/cb2968a2064e515ed7289c7abffd32ad.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>32</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>kniha, brožovaná vazba</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Nina</NAME>
+         <SURNAME>Rutová</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

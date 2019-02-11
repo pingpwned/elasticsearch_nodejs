@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534023</ITEM_ID>
+   <PRODUCTNAME>Poloviční král - Jan Hamouz</PRODUCTNAME>
+   <EAN>9788075776747</EAN>
+   <ISBN>978-80-7577-674-7</ISBN>
+   <PRICE_VAT>229</PRICE_VAT>
+   <DESCRIPTION>
+
+A když voda Bělavé zešedne, věz, že se v království stalo něco zatraceně špinavého…
+
+</DESCRIPTION>
+   <CATEGORYTEXT>
+E-knihy | Krásná literatura | Sci-fi, fantasy, komiks | Fantasy
+</CATEGORYTEXT>
+   <URL>
+https://www.sckn.cz/polovi-ni-kral-jan-hamouz-pn-534-023/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/935fb60914ead7458c9047d33181cb7f.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>519</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Jan</NAME>
+         <SURNAME>Hamouz</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

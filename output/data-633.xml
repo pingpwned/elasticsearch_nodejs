@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534061</ITEM_ID>
+   <PRODUCTNAME>Dvojitá vražda</PRODUCTNAME>
+   <EAN>9788024383040</EAN>
+   <ISBN>978-80-243-8304-0</ISBN>
+   <PRICE_VAT>269</PRICE_VAT>
+   <DESCRIPTION>
+
+Čtvrtý příběh ze série románů inspirovaných skutečnými příběhy, které řešili brněnští kriminalisté. Na ten den plukovník Motl hned tak nezapomene. Kriminalisté z mordparty museli vyjet hned ke dvěma případům, ze kterých se vyklubaly vraždy.
+
+</DESCRIPTION>
+   <CATEGORYTEXT>
+Tištěné knihy | Krásná literatura | Próza | Detektivky, napětí
+</CATEGORYTEXT>
+   <URL>
+https://www.sckn.cz/dvojita-vra-da-stanislav-e-scaron-ka-pn-534-061/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/7d5349ccc912c92226fd8debb3db6cee.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>288</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>kniha, vázaná vazba</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Jazyk</PARAM_NAME>
+         <VAL>český</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Stanislav</NAME>
+         <SURNAME>Češka</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

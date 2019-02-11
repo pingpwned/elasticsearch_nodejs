@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534737</ITEM_ID>
+   <PRODUCTNAME>Moudrost starých psů - Elli H. Radingerová</PRODUCTNAME>
+   <EAN>9788020451057</EAN>
+   <ISBN>978-80-204-5105-7</ISBN>
+   <PRICE_VAT>399</PRICE_VAT>
+   <DESCRIPTION>
+
+Psi jsou úžasní – v každém věku! Život se starým psem nám otevírá oči a srdce víc, než si umíme představit. Staří psi nás mohou mnohému naučit.
+
+</DESCRIPTION>
+   <CATEGORYTEXT />
+   <URL>
+https://www.sckn.cz/moudrost-starych-ps-elli-h-radingerova-pn-534-737/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/8797297536856b5232bde44821da0d79.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>272</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>kniha, vázaná vazba</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Elli H.</NAME>
+         <SURNAME>Radingerová</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

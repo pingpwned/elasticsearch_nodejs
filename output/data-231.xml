@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534536</ITEM_ID>
+   <PRODUCTNAME>Liščí žena</PRODUCTNAME>
+   <EAN>9788072728237</EAN>
+   <ISBN>978-80-7272-823-7</ISBN>
+   <PRICE_VAT>313</PRICE_VAT>
+   <DESCRIPTION>
+
+Sbírka více než sedmdesáti mýtů, legend a pohádek třiceti tří etnických skupin nabízí průřez ústní tradicí původních obyvatel Sibiře a ruského Dálného východu.
+
+</DESCRIPTION>
+   <CATEGORYTEXT />
+   <URL>https://www.sckn.cz/li-scaron-i-ena-pn-534-536/</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/ca1d8229639be5791b16a3a3bc0ed1e7.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>462</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Veronika</NAME>
+         <SURNAME>Křivánková</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Ondřej</NAME>
+         <SURNAME>Pivoda</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

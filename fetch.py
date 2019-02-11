@@ -7,9 +7,9 @@ import requests
 # Disable urllib3 console warnings
 urllib3.disable_warnings()
 
- http = urllib3.PoolManager()
- url = ""
- req = http.request('GET', url)
+http = urllib3.PoolManager()
+url = ""
+req = http.request('GET', url)
 
 if(req.status == 200):
     # XML to python dict

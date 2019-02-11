@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534253</ITEM_ID>
+   <PRODUCTNAME>Cizí země</PRODUCTNAME>
+   <EAN>9788086370705</EAN>
+   <ISBN>978-80-86370-70-5</ISBN>
+   <PRICE_VAT>250</PRICE_VAT>
+   <DESCRIPTION>
+
+Josef Straka doposud proslul především svými básněmi a kratšími básnivými prózami, z nichž prosakuje jemná melancholie, syrové existenciální klima, osamělé ohledávání světa v pohybu, za chůze, během cest a pobytů v cizích městech a cizích zemích. Próza Cizí země je nenápadná česká tragédie z časů, jež nenašly důvod přát citlivým a noblesně umírněným, ale naopak se rády kořily otravně průrazným, bezohledným a ke všemu odhodlaným. Z doby, jež veškerý idealismus smetla ze stolu. Autor dobře ví, že nemá šanci tohoto nepřítele porazit, ale ani mu nehodlá jít na ruku. Vzdoruje v podzemním baru či na řídce navštíveném čtení poezie, a pak o něm vydává křehké, ale vnitřně odolné a osvobodivé svědectví.
+
+</DESCRIPTION>
+   <CATEGORYTEXT>Tištěné knihy | Krásná literatura</CATEGORYTEXT>
+   <URL>https://www.sckn.cz/cizi-zeme-pn-534-253/</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/a1c50c86403b0876e5f00b3f32256348.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>216</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>
+měkké desky, lepená brožura oříznutá po třech stranách
+</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Jazyk</PARAM_NAME>
+         <VAL>český</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Rozměr</PARAM_NAME>
+         <VAL>115 × 180</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>12. 11. 2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>1.</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Josef</NAME>
+         <SURNAME>Straka</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Ilustrátor</ROLE>
+         <NAME>Jana</NAME>
+         <SURNAME>Majcherová</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Editor</ROLE>
+         <NAME>Jan</NAME>
+         <SURNAME>Štolba</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

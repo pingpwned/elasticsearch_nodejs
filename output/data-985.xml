@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>522099</ITEM_ID>
+   <PRODUCTNAME>
+Sbírka německé kresby 19. století na Sychrově ze svozu z hájovny v Javorníku u Rudníku
+</PRODUCTNAME>
+   <EAN>9788086516905</EAN>
+   <ISBN>978-80-86516-90-5</ISBN>
+   <PRICE_VAT>590</PRICE_VAT>
+   <DESCRIPTION>
+
+Odborná kniha zpracovává sbírku kreseb ze svozového mobiliáře Státního zámku Sychrov. První kapitoly publikace představují základní charakteristiku a analyzují původ sbírky. Jedná se o zajímavý fond převážně německé kresby 19. stol., který se po 2. světové válce nacházel v hájovně v Javorníku u Rudníku, jež patřila spolu s tamním velkostatkem členům významné podnikatelské rodiny Kluge. Celý tento soubor se tam dostal pravděpodobně až někdy po roce 1942 a možná jde o majetek z Německa, ukrytý zde snad před bombardováním. Poslední kapitola úvodní části knihy se snaží v přehledu nastínit vývoj německé kresby od konce 18. do začátku 20. století, do něhož jsou zasazeny příklady ze sbírky na Sychrově. Druhá část knihy formou katalogu představuje bližší rozbor reprezentativního výběru 65 kreseb doplněný stručnými životopisnými medailony jejich autorů. Sbírka obsahuje jak prvotřídní kresby významných představitelů německého obrazového umění, mezi nimiž nechybí ani taková jména jako např. Caspar David Friedrich, Adrian Ludwig Richter či Adolph von Menzel. Jsou zde i vysoce kvalitní práce umělců regionálního významu jako je Johann Friedrich Wilhelm Wegener a Karl Hermann Theodor Langer, tak i nemalé množství anonymních kreseb, z nichž některé se vyznačují vysokou kvalitou, jiné jsou dílem naivních diletantů, jejichž práce nepostrádají určitý půvab a solidní kreslířskou kvalitu. Odborná kniha byla vytvořena v rámci institucionální podpory dlouhodobého koncepčního rozvoje výzkumné organizace (IPDKRVO) Ministerstva kultury – výzkumného cíle Výzkum, dokumentace a prezentace movitého kulturního dědictví.
+
+</DESCRIPTION>
+   <CATEGORYTEXT>Tištěné knihy | Umění | Dějiny umění</CATEGORYTEXT>
+   <URL>
+https://www.sckn.cz/sbirka-nemecke-kresby-19-stoleti-na-sychrove-ze-svozu-z-hajovny-v-javorniku-u-rudniku-pn-522-099/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/faa7d1fa805b10d8a45acad99f6fe21f.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>240</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>
+pevné desky, papírový potah (eventuálně s laminem), bez přebalu
+</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Jazyk</PARAM_NAME>
+         <VAL>český</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>1.</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Petr</NAME>
+         <SURNAME>Janák</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

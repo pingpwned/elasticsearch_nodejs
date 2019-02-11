@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>520481</ITEM_ID>
+   <PRODUCTNAME>Cesta k plnohodnotnému životu</PRODUCTNAME>
+   <EAN>9788075494726</EAN>
+   <ISBN>978-80-7549-472-6</ISBN>
+   <PRICE_VAT>199</PRICE_VAT>
+   <DESCRIPTION>
+
+V této knize čerpá Jeho Svatost dalajlama z dlouhé tradice duchovní praxe v Tibetu i ze svých vlastních zkušeností s tím, jak se cvičit v duchovní cestě vedoucí k mentální jasnosti a citové proměně. Ukazuje tím, jak lze najít životní smysl. Sám autor je ztělesněním těchto myšlenek – nesmírně vnímavou a soucitnou osobností.
+
+</DESCRIPTION>
+   <CATEGORYTEXT>
+Tištěné knihy | Zdraví a životní styl | Osobní rozvoj | Rádci pro šťastný a úspěšný život
+</CATEGORYTEXT>
+   <URL>
+https://www.sckn.cz/cesta-k-plnohodnotnemu-ivotu-jeffrey-hopkins-jeho-svatost-dalajlama-xiv--pn-520-481/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/df09e190243fb9a7eb00f5e16787f825.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>144</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>kniha, vázaná vazba</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Jazyk</PARAM_NAME>
+         <VAL>český</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Jeffrey</NAME>
+         <SURNAME>Hopkins</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Jeho svatost Dalajlama</NAME>
+         <SURNAME>XIV.</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

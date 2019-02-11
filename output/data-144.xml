@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534622</ITEM_ID>
+   <PRODUCTNAME>
+My Wild Hockey Life - Miroslav Fryčer, Luboš Brabec
+</PRODUCTNAME>
+   <EAN>9788027038565</EAN>
+   <ISBN>978-80-270-3856-5</ISBN>
+   <PRICE_VAT>249</PRICE_VAT>
+   <DESCRIPTION>
+
+Hockey original Miro Frycer finally tells his story. As always, he is outspoken, straightforward and entertaining.
+
+</DESCRIPTION>
+   <CATEGORYTEXT>
+E-knihy | Zdraví a životní styl | Sport a fitness | Hokej
+</CATEGORYTEXT>
+   <URL>
+https://www.sckn.cz/my-wild-hockey-life-miroslav-fry-er-lubo-scaron-brabec-pn-534-622/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/80bcd0f3cc6450ed6c89c97ef5a99d31.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>270</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Miroslav</NAME>
+         <SURNAME>Fryčer</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Luboš</NAME>
+         <SURNAME>Brabec</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Andrew</NAME>
+         <SURNAME>Oakland</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

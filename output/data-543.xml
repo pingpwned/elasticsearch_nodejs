@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534157</ITEM_ID>
+   <PRODUCTNAME>
+Kompletní průvodce půstem - Jason Fung, Jimmy Moore
+</PRODUCTNAME>
+   <EAN>9788075550637</EAN>
+   <ISBN>978-80-7555-063-7</ISBN>
+   <PRICE_VAT>299</PRICE_VAT>
+   <DESCRIPTION>
+
+Po celé dlouhé dějiny se lidé postili. Ať z kulturních a náboženských důvodů, nebo jen kvůli neúspěšnému lovu, občasné hladovění bylo tisíce let přirozenou součástí života – až do nedávna...
+
+</DESCRIPTION>
+   <CATEGORYTEXT />
+   <URL>
+https://www.sckn.cz/kompletni-pr-vodce-p-stem-jason-fung-jimmy-moore-pn-534-157/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/16ae6af7fb29b374c51ce34bd23a4b13.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>324</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Jason</NAME>
+         <SURNAME>Fung</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Lenka Marie</NAME>
+         <SURNAME>Čapková</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Jimmy</NAME>
+         <SURNAME>Moore</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534615</ITEM_ID>
+   <PRODUCTNAME>
+Spiritualismus a odvrácená strana přírody - Ivo T. Budil
+</PRODUCTNAME>
+   <EAN>9788075535931</EAN>
+   <ISBN>978-80-7553-593-1</ISBN>
+   <PRICE_VAT>249</PRICE_VAT>
+   <DESCRIPTION>
+
+Kniha v širším historickém kontextu přibližuje zrod, rozmach a úpadek spiritualistického hnutí, které přibližně od padesátých let devatenáctého století do dvacátých let dvacátého století významně ovlivnilo intelektuální a duchovní život Západu...
+
+</DESCRIPTION>
+   <CATEGORYTEXT>
+E-knihy | Domov a zahrada | Zahrada | Všeobecné a ostatní
+</CATEGORYTEXT>
+   <URL>
+https://www.sckn.cz/spiritualismus-a-odvracena-strana-p-irody-ivo-t-budil-pn-534-615/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/2594b09433fcf4ff9516fb6e27b2626f.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>408</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Ivo T.</NAME>
+         <SURNAME>Budil</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

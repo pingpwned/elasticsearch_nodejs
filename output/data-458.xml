@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534249</ITEM_ID>
+   <PRODUCTNAME>Já platím, já rozhoduji!</PRODUCTNAME>
+   <EAN>9788074851735</EAN>
+   <ISBN>978-80-7485-173-5</ISBN>
+   <PRICE_VAT>285</PRICE_VAT>
+   <DESCRIPTION>
+
+Silvio Berlusconi, Geert Wilders, Frank Stronach, Viktor Uspaskich, Vít Bárta, Tomio Okamura, Andrej Babiš. To jsou jen některá jména politických podnikatelů, kteří vytvořili vlastní stranu a vstoupili s ní do politiky. Přestože tento fenomén silně ovlivňuje řadu let politický a společenský život v České republice, příliš se o něm neví a nebyl dosud podrobně zmapován. Tato průlomová práce nabízí zasvěcenou a důkladnou analýzu podnikatelských stran, přičemž důraz je kladen na strany působící dnes či v nedávné minulosti v České republice. Mapuje jejich zrod, vývoj, témata, s nimiž dokázaly oslovit voliče, i to, čím se tito voliči vyznačují. Zvláštní místo v analýze jednotlivých stran má stranická organizace a role lídra-zakladatele v ní. Podle velikosti finančních, mediálních a dalších zdrojů lídra i podle jeho rozhodnutí, zda vytvořit územní struktury a členskou základnu, či ne, nabízí inovativní typologii těchto stran. Kniha také zasazuje tyto strany do širších souvislostí proměny současné politiky v západních demokraciích.
+
+</DESCRIPTION>
+   <CATEGORYTEXT>
+Tištěné knihy | Naučná | Společenské vědy | Česká společnost a politika
+</CATEGORYTEXT>
+   <URL>
+https://www.sckn.cz/ja-platim-ja-rozhoduji-pn-534-249/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/af2f00fae02c4fbcc481418aa6d129f6.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>296</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>kniha, brožovaná vazba</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>1</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Jazyk</PARAM_NAME>
+         <VAL>český</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Lubomír</NAME>
+         <SURNAME>Kopeček</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Vít</NAME>
+         <SURNAME>Hloušek</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Roman</NAME>
+         <SURNAME>Chytilek</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Petra</NAME>
+         <SURNAME>Svačinová</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

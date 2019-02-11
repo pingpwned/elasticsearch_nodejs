@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+<ITEM_ID>534369</ITEM_ID>
+<PRODUCTNAME>Velká kniha fuckupů - Tomáš Studeník, Ivan Brezina</PRODUCTNAME>
+<PRODUCT>Velká kniha fuckupů - Tomáš Studeník, Ivan Brezina</PRODUCT>
+<EAN>9788075550613</EAN>
+<ISBN>978-80-7555-061-3</ISBN>
+<PRICE_VAT>227</PRICE_VAT>
+<DESCRIPTION>
+
+Jak přišel o peníze miliardář Karel Janeček? Co přinesl zpackaný vědecký experiment české vědkyni s doktorátem z Oxfordu Kateřině Falk? Proč zkrachovala restaurace pražskému kavárníkovi Ondrovi Kobzovi?
+
+</DESCRIPTION>
+<URL>
+https://www.sckn.cz/velka-kniha-fuckup-toma-scaron-studenik-ivan-brezina-pn-534-369/
+</URL>
+<IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/13bfcf275712c72d51f775549a5fae4e.jpg
+</IMGURL>
+<PARAM>
+<PARAM_NAME>Počet stran</PARAM_NAME>
+<VAL>248</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Datum vydání</PARAM_NAME>
+<VAL>2018</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Pořadí vydání</PARAM_NAME>
+<VAL>neurčeno</VAL>
+</PARAM>
+<CONTRIBUTOR>
+<ROLE>Autor</ROLE>
+<NAME>Tomáš</NAME>
+<SURNAME>Studeník</SURNAME>
+</CONTRIBUTOR>
+<CONTRIBUTOR>
+<ROLE>Autor</ROLE>
+<NAME>Ivan</NAME>
+<SURNAME>Brezina</SURNAME>
+</CONTRIBUTOR>
+<THEMATIC_GROUP>999 - nezařazeno</THEMATIC_GROUP>
+</SHOPITEM>

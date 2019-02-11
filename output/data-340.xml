@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534417</ITEM_ID>
+   <PRODUCTNAME>Toulavá kamera 27</PRODUCTNAME>
+   <EAN>9788074453854</EAN>
+   <ISBN>978-80-7445-385-4</ISBN>
+   <PRICE_VAT>299</PRICE_VAT>
+   <DESCRIPTION>
+
+Jak je již zvykem, v předvánočním čase vychází další díl knižní verze populárního televizního pořadu jubilejní Toulavá kamera č.27.
+
+</DESCRIPTION>
+   <CATEGORYTEXT>Tištěné knihy | Cestování, mapy</CATEGORYTEXT>
+   <URL>
+https://www.sckn.cz/toulava-kamera-27-josef-mar-scaron-al-iveta-tou-scaron-lova-kol--pn-534-417/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/10a18c2435ed3425fe1e022dca53995c.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>240</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>kniha, vázaná vazba</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Jazyk</PARAM_NAME>
+         <VAL>český</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Josef</NAME>
+         <SURNAME>Maršál</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Iveta</NAME>
+         <SURNAME>Toušlová</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME />
+         <SURNAME>kol.</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

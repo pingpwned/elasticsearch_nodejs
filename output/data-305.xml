@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534459</ITEM_ID>
+   <PRODUCTNAME>Velká kniha her v pohádkovém světě</PRODUCTNAME>
+   <EAN>9788075851871</EAN>
+   <ISBN>978-80-7585-187-1</ISBN>
+   <PRICE_VAT>399</PRICE_VAT>
+   <DESCRIPTION>
+
+Kniha nabízí sedm deskových her, u nichž se budou jistě bavit nejen děti ale i dospělí. Najdete zde hry jako je Mlýn, „Člověče, nezlob se!“ a piškvorky, nebo méně známou, tradiční čínskou hru Pong Hau K’i.
+
+</DESCRIPTION>
+   <CATEGORYTEXT />
+   <URL>
+https://www.sckn.cz/velka-kniha-her-v-pohadkovem-sv-t--pn-534-459/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/4c5f5185d9b291a55453d3d0adb9a9b2.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>10</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>kniha, vázaná vazba</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS />
+</SHOPITEM>

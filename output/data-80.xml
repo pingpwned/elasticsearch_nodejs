@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534697</ITEM_ID>
+   <PRODUCTNAME>Infographic Bible</PRODUCTNAME>
+   <EAN>9780007554614</EAN>
+   <ISBN>978-0-00-755461-4</ISBN>
+   <PRICE_VAT>790</PRICE_VAT>
+   <DESCRIPTION>
+
+Ancient scriptures from the most popular book of all time, revolutionised to reveal its themes and narratives for a modern generation.
+
+</DESCRIPTION>
+   <CATEGORYTEXT />
+   <URL>https://www.sckn.cz/infographic-bible-pn-534-697/</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/a7290a309658700f5292246b4bc768d7.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>224</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>kniha, vázaná vazba</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS />
+</SHOPITEM>

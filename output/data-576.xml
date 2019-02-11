@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534122</ITEM_ID>
+   <PRODUCTNAME>Kdo bydlí v norách a doupatech</PRODUCTNAME>
+   <EAN>9788000050546</EAN>
+   <ISBN>978-80-00-05054-6</ISBN>
+   <PRICE_VAT>269</PRICE_VAT>
+   <DESCRIPTION>
+
+Víte, že rezatá liška je velká nepořádnice a že jezevec je jedno z nejčistotnějších zvířátek, které má dokonce svůj vlastní záchodek? Přesto jsou to sousedi, kteří se často dělí o jednu noru. Nevěříte? Tak s námi pojďte nahlédnout do jejich tajemných domečků skrytých pod pařezy a vývraty v hloubce i několika metrů pod povrchem… Budeme se prodírat podzemními labyrinty a navštívíme veselou králičí rodinku, ale třeba i ospalé medvědy v jeskynním pelíšku a nezbedné malé hranostaje v noře zděděné po myškách
+
+</DESCRIPTION>
+   <CATEGORYTEXT>Tištěné knihy | Pro děti a mládež</CATEGORYTEXT>
+   <URL>
+https://www.sckn.cz/kdo-bydli-v-norach-a-doupatech-pn-534-122/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/c9461ef158556a6297795e32b7c36015.png
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL />
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Jazyk</PARAM_NAME>
+         <VAL>český</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>12. 11. 2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>1.</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Markéta</NAME>
+         <SURNAME>Špačková</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

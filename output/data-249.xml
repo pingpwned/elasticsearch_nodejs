@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534518</ITEM_ID>
+   <PRODUCTNAME>Zvířata čtyř oken - Eligio Stephen Gallegos</PRODUCTNAME>
+   <EAN>9788075003980</EAN>
+   <ISBN>978-80-7500-398-0</ISBN>
+   <PRICE_VAT>155</PRICE_VAT>
+   <DESCRIPTION>
+
+Tato kniha popisuje, jak byly zkresleny způsoby poznávání a to, jak jsme se vychýlili z rovnováhy se silným důrazem na myšlení a smyslové vnímání a nedostatečným chápáním hodnoty imaginace a cítění.
+
+</DESCRIPTION>
+   <CATEGORYTEXT>E-knihy | Astrologie, ezoterika | Ostatní</CATEGORYTEXT>
+   <URL>
+https://www.sckn.cz/zvi-ata-ty-oken-eligio-stephen-gallegos-pn-534-518/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/1c0651245c8b865c812e759cc50a4691.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>131</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Eligio Stephen</NAME>
+         <SURNAME>Gallegos</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Lenka</NAME>
+         <SURNAME>Adamcová</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>533941</ITEM_ID>
+   <PRODUCTNAME>Pohádky v pohybu - Mášenka a tři medvědi</PRODUCTNAME>
+   <EAN>9788025624302</EAN>
+   <ISBN>978-80-256-2430-2</ISBN>
+   <PRICE_VAT>249</PRICE_VAT>
+   <DESCRIPTION>
+
+Klasický pohádkový příběh Mášenka a tři medvědi tentokrát jako leporelo s pohyblivými prvky na každé dvoustraně.
+
+</DESCRIPTION>
+   <CATEGORYTEXT />
+   <URL>
+https://www.sckn.cz/pohadky-v-pohybu-ma-scaron-enka-a-t-i-medv-di-pn-533-941/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/3ff91b8a4e17f6e9fb80aaf7f1589e0c.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>12</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL />
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Marion</NAME>
+         <SURNAME>Cocklico</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Josef</NAME>
+         <SURNAME>Vyskočil</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

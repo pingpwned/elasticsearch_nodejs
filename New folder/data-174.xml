@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+<ITEM_ID>534592</ITEM_ID>
+<PRODUCTNAME>Odstřelovačem Rudé armády</PRODUCTNAME>
+<PRODUCT>Odstřelovačem Rudé armády</PRODUCT>
+<EAN>9788020448903</EAN>
+<ISBN>978-80-204-4890-3</ISBN>
+<PRICE_VAT>349</PRICE_VAT>
+<DESCRIPTION>
+
+Jevgenij Nikolajev byl příslušníkem sovětského Lidového komisariátu vnitřních záležitostí (NKVD).
+
+</DESCRIPTION>
+<CATEGORYTEXT>Tištěné knihy | Historie</CATEGORYTEXT>
+<URL>
+https://www.sckn.cz/odst-elova-em-rude-armady-jevgenij-nikolajev-pn-534-592/
+</URL>
+<IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/bd26562a8d0beba07229c4b1eb798dae.jpg
+</IMGURL>
+<PARAM>
+<PARAM_NAME>Počet stran</PARAM_NAME>
+<VAL>260</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Datum vydání</PARAM_NAME>
+<VAL>2018</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Vazba</PARAM_NAME>
+<VAL>kniha, vázaná vazba</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Pořadí vydání</PARAM_NAME>
+<VAL>neurčeno</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Jazyk</PARAM_NAME>
+<VAL>český</VAL>
+</PARAM>
+<CONTRIBUTOR>
+<ROLE>Autor</ROLE>
+<NAME>Jevgenij</NAME>
+<SURNAME>Nikolajev</SURNAME>
+</CONTRIBUTOR>
+<THEMATIC_GROUP>2 - Společenské vědy; osvěta</THEMATIC_GROUP>
+</SHOPITEM>

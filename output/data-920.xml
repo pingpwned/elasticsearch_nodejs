@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>533754</ITEM_ID>
+   <PRODUCTNAME>Agent orbulátoru</PRODUCTNAME>
+   <EAN>9788074737121</EAN>
+   <ISBN>978-80-7473-712-1</ISBN>
+   <PRICE_VAT>299</PRICE_VAT>
+   <DESCRIPTION>
+
+Když se hodiny na londýnském Big Benu náhle zastaví, William tuší, že se děje něco mimořádného. A opravdu, objeví se záhadná postava, která si říká agent orbulátoru, a strhne Williama a jeho nejlepší kamarádku Iscii do víru nových dobrodružství. Co agent orbulátoru od Williama chce? A vůbec, co je to vlastně ten orbulátor?
+
+</DESCRIPTION>
+   <CATEGORYTEXT>Tištěné knihy | Pro děti a mládež</CATEGORYTEXT>
+   <URL>https://www.sckn.cz/agent-orbulatoru-pn-533-754/</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/30dc2751117666c594ede779eb608e02.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>176</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL />
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Jazyk</PARAM_NAME>
+         <VAL>český</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>05. 11. 2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>1.</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Bobbie</NAME>
+         <SURNAME>Peers</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

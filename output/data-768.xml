@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>533924</ITEM_ID>
+   <PRODUCTNAME>Jak dělají zvířátka? Starý farmář farmu měl</PRODUCTNAME>
+   <EAN>9788075672766</EAN>
+   <ISBN>978-80-7567-276-6</ISBN>
+   <PRICE_VAT>359</PRICE_VAT>
+   <DESCRIPTION>
+
+Zaskoč za zábavou na statek a potkej tam všechna přátelská a veselá zvířátka. Chceš se dozvědět, jak dělá kravička, pejsek, kočička, myška nebo prasátko? Zmáčkni tlačítko a poslouchej! A k tomu si můžeš také zazpívat.
+
+</DESCRIPTION>
+   <CATEGORYTEXT />
+   <URL>
+https://www.sckn.cz/jak-d-laji-zvi-atka-stary-farma-farmu-m-l-pn-533-924/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/7229b395bdb4914675b179b3cc35981e.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>22</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>kniha, vázaná vazba</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Dita</NAME>
+         <SURNAME>Křišťanová</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534673</ITEM_ID>
+   <PRODUCTNAME>
+Čertí brko – Příběh na motivy filmové pohádky - Tomáš Hodan, Robert Geisler
+</PRODUCTNAME>
+   <EAN>9788088276388</EAN>
+   <ISBN>978-80-88276-38-8</ISBN>
+   <PRICE_VAT>399</PRICE_VAT>
+   <DESCRIPTION>
+
+Věděli jste, že peklo je úřad starý jako lidstvo samo a vůbec tu není proto, aby nám něco zlého našeptával? Zlo si totiž každý nosí v sobě... Nejmocnější pekelnou zbraní je Čertí brko, které zapisuje všechny hříchy.
+
+</DESCRIPTION>
+   <CATEGORYTEXT />
+   <URL>
+https://www.sckn.cz/-erti-brko-ndash-p-ib-h-na-motivy-filmove-pohadky-toma-scaron-hodan-robert-geisler-pn-534-673/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/6438f3b10a0e4865185451dba804412a.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>kniha, vázaná vazba</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Tomáš</NAME>
+         <SURNAME>Hodan</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Robert</NAME>
+         <SURNAME>Smolík</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Robert</NAME>
+         <SURNAME>Geisler</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

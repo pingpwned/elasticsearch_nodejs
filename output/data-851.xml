@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>533830</ITEM_ID>
+   <PRODUCTNAME>Dobrý večer, dobrou noc</PRODUCTNAME>
+   <EAN>9788000052335</EAN>
+   <ISBN>978-80-00-05233-5</ISBN>
+   <PRICE_VAT>399</PRICE_VAT>
+   <DESCRIPTION>
+
+Jeden z nejoblíbenějších televizních pořadů už více než 50 let přináší dětem pohádky na dobrou noc. Večerní animovaný seriál se stal nedílnou součástí českých domácností a jeho příběhy mají u dětí úspěch i v knižní podobě. Obsáhlý výbor toho nejlepšího, co se za dlouhých padesát let dětem nejvíce líbilo, nabízí příběhy těch nejoblíbenějších postaviček, jako jsou Křemílek a Vochomůrka, Bob a Bobek, Víla Amálka a spousta dalších.
+
+</DESCRIPTION>
+   <CATEGORYTEXT>Tištěné knihy | Pro děti a mládež</CATEGORYTEXT>
+   <URL>
+https://www.sckn.cz/dobry-vecer-dobrou-noc-pn-533-830/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/78a49e02b29fa3b29b58b44dffb04950.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>200</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>05. 11. 2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>kniha, vázaná vazba</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Jazyk</PARAM_NAME>
+         <VAL>český</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>kolektiv</NAME>
+         <SURNAME>kolektiv</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

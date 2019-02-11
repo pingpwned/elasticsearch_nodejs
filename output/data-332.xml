@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534424</ITEM_ID>
+   <PRODUCTNAME>Mrtvý muž přichází</PRODUCTNAME>
+   <EAN>9788074982927</EAN>
+   <ISBN>978-80-7498-292-7</ISBN>
+   <PRICE_VAT>359</PRICE_VAT>
+   <DESCRIPTION>
+
+Jezerní oblast na severu Anglie zahalila neprostupná mlha. Zároveň s ní udeřil i sériový vrah. A v detektivu Marku Heckenburgovi hlodá děsivé podezření, že se vrátil obávaný pachatel s přezdívkou Cizák.
+
+</DESCRIPTION>
+   <CATEGORYTEXT>
+Tištěné knihy | Krásná literatura | Próza | Detektivky, napětí
+</CATEGORYTEXT>
+   <URL>
+https://www.sckn.cz/mrtvy-mu-p-ichazi-paul-finch-pn-534-424/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/897750afa479fa5e1957c53236666f70.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>450</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>kniha, vázaná vazba</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Jazyk</PARAM_NAME>
+         <VAL>český</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Paul</NAME>
+         <SURNAME>Finch</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Překladatel</ROLE>
+         <NAME>Zuzana</NAME>
+         <SURNAME>Pernicová</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

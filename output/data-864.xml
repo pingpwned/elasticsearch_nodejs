@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>533817</ITEM_ID>
+   <PRODUCTNAME>Svědek - Skvosty poezie - Jiří Kolář</PRODUCTNAME>
+   <EAN>9788020718488</EAN>
+   <ISBN>978-80-207-1848-8</ISBN>
+   <PRICE_VAT>199</PRICE_VAT>
+   <DESCRIPTION>
+
+Literatura hodnotí své tvůrce na podkladě uměleckého výkonu, společenského postavení, mimořádnosti charakteru. Takovou osobností byl Jiří Kolář.
+
+</DESCRIPTION>
+   <CATEGORYTEXT />
+   <URL>
+https://www.sckn.cz/sv-dek-skvosty-poezie-ji-i-kola--pn-533-817/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/56f64615fb239a7ff46adf7ac0e670c6.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>128</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>kniha, vázaná vazba</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Jiří</NAME>
+         <SURNAME>Kolář</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

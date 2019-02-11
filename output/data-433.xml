@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534306</ITEM_ID>
+   <PRODUCTNAME>Zkrátka se zamilujte</PRODUCTNAME>
+   <EAN>9788075461681</EAN>
+   <ISBN>978-80-7546-168-1</ISBN>
+   <PRICE_VAT>349</PRICE_VAT>
+   <DESCRIPTION>
+
+Frankie Roseová zoufale touží po lásce. Chtěla by konečně potkat alespoň trochu normálního muže. Má ale smůlu. Proto se rozhodne vzít osud do vlastních rukou! A jelikož pracuje v knihkupectví a je nadšená čtenářka, vezme si na pomoc to, co je jí nejbližší. Knihy. Do vlaků, tramvají a autobusů rozmístí oblíbené knížky se svým kontaktem, aby přilákala inteligentního, krásného a sečtělého mladého muže. Muže svých snů. Ozve se jí Sunny a přeskočí jiskra. Ale je tu jeden háček. Frankie má ráda klasiku a Sunny čte jen žánr young adults, a navíc se objeví i další neodolatelní muži …
+
+</DESCRIPTION>
+   <CATEGORYTEXT>
+Tištěné knihy | Krásná literatura | Próza | Ženské příběhy
+</CATEGORYTEXT>
+   <URL>
+https://www.sckn.cz/zkratka-se-zamilujte-ali-bergova-michelle-kalusova-pn-534-306/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/74e327c1059857172d77e7433dc556ac.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>384</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>kniha, vázaná vazba</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Jazyk</PARAM_NAME>
+         <VAL>český</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Ali</NAME>
+         <SURNAME>Bergová</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Michelle</NAME>
+         <SURNAME>Kalusová</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>533934</ITEM_ID>
+   <PRODUCTNAME>Ikigai - Ken Mogi</PRODUCTNAME>
+   <EAN>9788075499387</EAN>
+   <ISBN>978-80-7549-938-7</ISBN>
+   <PRICE_VAT>159</PRICE_VAT>
+   <DESCRIPTION>
+
+Japonci zaujímají na světě čtvrtou příčku v délce života, Japonky dokonce druhou! Hlavní zásluha přitom připadá jejich životnímu stylu, jehož výrazem je právě ikigai. Tento přístup, který sami Japonci vysvětlují jako „důvod, proč vstát ráno z postele a pečlivě se věnovat své práci.&amp;quot;
+
+</DESCRIPTION>
+   <CATEGORYTEXT />
+   <URL>https://www.sckn.cz/ikigai-ken-mogi-pn-533-934/</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/1929333ce596fa2b65147f763791f3d7.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>176</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Ken</NAME>
+         <SURNAME>Mogi</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Kateřina</NAME>
+         <SURNAME>Drewsová</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534364</ITEM_ID>
+   <PRODUCTNAME>Nemoc léčí</PRODUCTNAME>
+   <EAN>9788081005596</EAN>
+   <ISBN>978-80-8100-559-6</ISBN>
+   <PRICE_VAT>328</PRICE_VAT>
+   <DESCRIPTION>
+
+Autor systematicky a empaticky zároveň tvoří koncept nového přístupu, který je načase zaujmout k medicíně, léčbě a prevenci nemocí.
+
+</DESCRIPTION>
+   <CATEGORYTEXT>Tištěné knihy | Zdraví a životní styl | Zdraví</CATEGORYTEXT>
+   <URL>
+https://www.sckn.cz/nemoc-le-i-peter-wilberg-pn-534-364/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/c0b7144ce544bd5584f7757d5033ffdd.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>240</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>kniha, brožovaná vazba</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Jazyk</PARAM_NAME>
+         <VAL>český</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Peter</NAME>
+         <SURNAME>Wilberg</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

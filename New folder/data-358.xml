@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+<ITEM_ID>534395</ITEM_ID>
+<PRODUCTNAME>Eskymo Welzl. Svoboda pod bodem mrazu</PRODUCTNAME>
+<PRODUCT>Eskymo Welzl. Svoboda pod bodem mrazu</PRODUCT>
+<EAN>9788090536753</EAN>
+<ISBN>978-80-905367-5-3</ISBN>
+<PRICE_VAT>449</PRICE_VAT>
+<DESCRIPTION>
+
+Kniha Martina Strouhala je dle Rudy Krejčího, profesora Aljašské university ve Fairbansku, nejlepším a nejucelenějším dílem, které se zabývá osudy Jana Welzla.
+
+</DESCRIPTION>
+<CATEGORYTEXT>
+Tištěné knihy | Krásná literatura | Osobnosti a osudy
+</CATEGORYTEXT>
+<URL>
+https://www.sckn.cz/eskymo-welzl-svoboda-pod-bodem-mrazu-martin-strouhal-pn-534-395/
+</URL>
+<IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/b34fc7f43f7ccca4fd6fcc5f501b5de4.jpg
+</IMGURL>
+<PARAM>
+<PARAM_NAME>Počet stran</PARAM_NAME>
+<VAL>264</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Datum vydání</PARAM_NAME>
+<VAL>2018</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Vazba</PARAM_NAME>
+<VAL>kniha, vázaná vazba</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Pořadí vydání</PARAM_NAME>
+<VAL>neurčeno</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Jazyk</PARAM_NAME>
+<VAL>český</VAL>
+</PARAM>
+<CONTRIBUTOR>
+<ROLE>Autor</ROLE>
+<NAME>Martin</NAME>
+<SURNAME>Strouhal</SURNAME>
+</CONTRIBUTOR>
+<THEMATIC_GROUP>13 - Krásná literatura</THEMATIC_GROUP>
+</SHOPITEM>

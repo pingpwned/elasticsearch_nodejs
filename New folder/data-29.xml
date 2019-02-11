@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+<ITEM_ID>534746</ITEM_ID>
+<PRODUCTNAME>
+Průvodce léčbou diabetu 2. typu pro internisty - Martin Haluzík
+</PRODUCTNAME>
+<PRODUCT>
+Průvodce léčbou diabetu 2. typu pro internisty - Martin Haluzík
+</PRODUCT>
+<EAN>9788020449580</EAN>
+<ISBN>978-80-204-4958-0</ISBN>
+<PRICE_VAT>300</PRICE_VAT>
+<DESCRIPTION>
+
+Kniha stručnou formou popisuje praktický přístup k léčbě a sledování pacientů s diabetem 2. typu.
+
+</DESCRIPTION>
+<CATEGORYTEXT>
+Tištěné knihy | Odborná a technická literatura | Medicína
+</CATEGORYTEXT>
+<URL>
+https://www.sckn.cz/pr-vodce-le-bou-diabetu-2-typu-pro-internisty-martin-haluzik-pn-534-746/
+</URL>
+<IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/a5ca4a890892293086330f283ec8205a.jpg
+</IMGURL>
+<PARAM>
+<PARAM_NAME>Počet stran</PARAM_NAME>
+<VAL>160</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Datum vydání</PARAM_NAME>
+<VAL>2018</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Vazba</PARAM_NAME>
+<VAL>kniha, vázaná vazba</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Pořadí vydání</PARAM_NAME>
+<VAL>neurčeno</VAL>
+</PARAM>
+<CONTRIBUTOR>
+<ROLE>Autor</ROLE>
+<NAME>Martin</NAME>
+<SURNAME>Haluzík</SURNAME>
+</CONTRIBUTOR>
+<THEMATIC_GROUP>8 - Zdravotnictví</THEMATIC_GROUP>
+</SHOPITEM>

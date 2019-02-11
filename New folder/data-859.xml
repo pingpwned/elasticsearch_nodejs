@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+<ITEM_ID>533821</ITEM_ID>
+<PRODUCTNAME>Caesarův trůn - Steven Saylor</PRODUCTNAME>
+<PRODUCT>Caesarův trůn - Steven Saylor</PRODUCT>
+<EAN>9788075653925</EAN>
+<ISBN>978-80-7565-392-5</ISBN>
+<PRICE_VAT>248</PRICE_VAT>
+<DESCRIPTION>
+ Nejslavnější vražda v historii. „I ty, Brute?“ 
+</DESCRIPTION>
+<URL>
+https://www.sckn.cz/caesar-v-tr-n-steven-saylor-pn-533-821/
+</URL>
+<IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/36d665083340bd66f357827e198248ab.jpg
+</IMGURL>
+<PARAM>
+<PARAM_NAME>Počet stran</PARAM_NAME>
+<VAL>400</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Datum vydání</PARAM_NAME>
+<VAL>2018</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Pořadí vydání</PARAM_NAME>
+<VAL>neurčeno</VAL>
+</PARAM>
+<CONTRIBUTOR>
+<ROLE>Autor</ROLE>
+<NAME>Steven</NAME>
+<SURNAME>Saylor</SURNAME>
+</CONTRIBUTOR>
+<CONTRIBUTOR>
+<ROLE>Autor</ROLE>
+<NAME>Naďa</NAME>
+<SURNAME>Funioková</SURNAME>
+</CONTRIBUTOR>
+<THEMATIC_GROUP>999 - nezařazeno</THEMATIC_GROUP>
+</SHOPITEM>

@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>533855</ITEM_ID>
+   <PRODUCTNAME>Nejkrásnější filmové pohádky</PRODUCTNAME>
+   <EAN>9788075972293</EAN>
+   <ISBN>978-80-7597-229-3</ISBN>
+   <PRICE_VAT>349</PRICE_VAT>
+   <DESCRIPTION>
+
+Sůl nad zlato aneb Byl jednou jeden král – O Šípkové růžence aneb Jak se budí princezny – Lotrando a Zubejda – O Slunečníku, Měsíčníku a Větrníku aneb Princ a Večernice – Princ Bajaja – Princezna se zlatou hvězdou na čele – Potrestaná pýcha aneb Pyšná princezna – Čertův švagr aneb S čerty nejsou žerty – O Popelce aneb Tři oříšky pro Popelku – Tři zlaté vlasy děda Vševěda – Zlatovláska… a mnoho dalších pohádek…
+
+</DESCRIPTION>
+   <CATEGORYTEXT>Tištěné knihy | Pro děti a mládež</CATEGORYTEXT>
+   <URL>
+https://www.sckn.cz/nejkrasnejsi-filmove-pohadky-pn-533-855/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/71549aec844f1408ac75e78184c99296.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>352</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL />
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Jazyk</PARAM_NAME>
+         <VAL>český</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>08. 11. 2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME />
+         <SURNAME>kolektiv</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

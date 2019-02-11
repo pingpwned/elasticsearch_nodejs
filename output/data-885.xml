@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>533796</ITEM_ID>
+   <PRODUCTNAME>Advokát chudých - John Grisham</PRODUCTNAME>
+   <EAN>9788076170513</EAN>
+   <ISBN>978-80-7617-051-3</ISBN>
+   <PRICE_VAT>209</PRICE_VAT>
+   <DESCRIPTION>
+
+Michael Brock je nadějnou vycházející hvězdou velké právnické firmy Drake &amp;amp; Sweeney. Nezná odpočinek, devadesát hodin týdně tráví v kanceláři a nemá čas zaobírat se ani rozpadajícím se manželstvím, ani svým svědomím. Pak se však stane společně s několika svými kolegy na pár hodin rukojmím.
+
+</DESCRIPTION>
+   <CATEGORYTEXT />
+   <URL>
+https://www.sckn.cz/advokat-chudych-john-grisham-pn-533-796/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/6aee16413ff6172a361cf9ed91b8ef61.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>296</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>John</NAME>
+         <SURNAME>Grisham</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Jan</NAME>
+         <SURNAME>Jirák</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

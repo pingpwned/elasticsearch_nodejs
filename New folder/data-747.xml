@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+<ITEM_ID>533943</ITEM_ID>
+<PRODUCTNAME>Kniha odpovědí</PRODUCTNAME>
+<PRODUCT>Kniha odpovědí</PRODUCT>
+<EAN>9788073909765</EAN>
+<ISBN>978-80-7390-976-5</ISBN>
+<PRICE_VAT>399</PRICE_VAT>
+<DESCRIPTION>
+
+Časopis Popular Science byl založen v roce 1872 a se 6,7 miliony čtenáři je nejčtenějším časopisem o vědě a technice na světě. Každý měsíc Popular Science přináší novinky z oblasti vědy, které ovlivňují náš každodenní život.
+
+</DESCRIPTION>
+<CATEGORYTEXT>Tištěné knihy | Naučná | Literatura faktu</CATEGORYTEXT>
+<URL>
+https://www.sckn.cz/kniha-odpov-di-bjorn-carey-pn-533-943/
+</URL>
+<IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/ccae4be846e5787fc951629839148bef.jpg
+</IMGURL>
+<PARAM>
+<PARAM_NAME>Počet stran</PARAM_NAME>
+<VAL>224</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Datum vydání</PARAM_NAME>
+<VAL>2018</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Vazba</PARAM_NAME>
+<VAL>kniha, vázaná vazba</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Pořadí vydání</PARAM_NAME>
+<VAL>neurčeno</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Jazyk</PARAM_NAME>
+<VAL>český</VAL>
+</PARAM>
+<CONTRIBUTOR>
+<ROLE>Překladatel</ROLE>
+<NAME>Eva</NAME>
+<SURNAME>Baldová</SURNAME>
+</CONTRIBUTOR>
+<CONTRIBUTOR>
+<ROLE>Autor</ROLE>
+<NAME>Bjorn</NAME>
+<SURNAME>Carey</SURNAME>
+</CONTRIBUTOR>
+<THEMATIC_GROUP>2 - Společenské vědy; osvěta</THEMATIC_GROUP>
+</SHOPITEM>

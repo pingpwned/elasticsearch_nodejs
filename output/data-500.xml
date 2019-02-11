@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534206</ITEM_ID>
+   <PRODUCTNAME>Lezení - James Pearson, Caroline Ciavaldini</PRODUCTNAME>
+   <EAN>9788075295910</EAN>
+   <ISBN>978-80-7529-591-0</ISBN>
+   <PRICE_VAT>699</PRICE_VAT>
+   <DESCRIPTION>
+
+Překrásná pocta horolezeckému sportu a inspirace pro každého, kdo někdy snil o tom, že si popráší ruce magnéziem a poměří síly s těmi nejimpozantnějšími skalními stěnami světa.
+
+</DESCRIPTION>
+   <CATEGORYTEXT />
+   <URL>
+https://www.sckn.cz/lezeni-james-pearson-caroline-ciavaldini-pn-534-206/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/a317a17778ce523328a963be1711f031.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>224</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>kniha, vázaná vazba</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>James</NAME>
+         <SURNAME>Pearson</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Caroline</NAME>
+         <SURNAME>Ciavaldini</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

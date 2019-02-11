@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+<ITEM_ID>534333</ITEM_ID>
+<PRODUCTNAME>Probiotická smoothies</PRODUCTNAME>
+<PRODUCT>Probiotická smoothies</PRODUCT>
+<EAN>9788027106264</EAN>
+<ISBN>978-80-271-0626-4</ISBN>
+<PRICE_VAT>289</PRICE_VAT>
+<DESCRIPTION>
+ Zdravé zažívání je klíčem k našemu zdraví. 
+</DESCRIPTION>
+<CATEGORYTEXT>
+Tištěné knihy | Zdraví a životní styl | Kuchařky a nápoje | Nápoje, koktejly
+</CATEGORYTEXT>
+<URL>
+https://www.sckn.cz/probioticka-smoothies-eliq-maranik-pn-534-333/
+</URL>
+<IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/03fb72c7abb9bc01a41b906190944720.jpg
+</IMGURL>
+<PARAM>
+<PARAM_NAME>Počet stran</PARAM_NAME>
+<VAL>160</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Datum vydání</PARAM_NAME>
+<VAL>2018</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Vazba</PARAM_NAME>
+<VAL>kniha, brožovaná vazba</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Pořadí vydání</PARAM_NAME>
+<VAL>neurčeno</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Jazyk</PARAM_NAME>
+<VAL>český</VAL>
+</PARAM>
+<CONTRIBUTOR>
+<ROLE>Autor</ROLE>
+<NAME>Eliq</NAME>
+<SURNAME>Maranik</SURNAME>
+</CONTRIBUTOR>
+<THEMATIC_GROUP>8 - Zdravotnictví</THEMATIC_GROUP>
+</SHOPITEM>

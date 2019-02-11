@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534132</ITEM_ID>
+   <PRODUCTNAME>Československé správní právo. Část všeobecná</PRODUCTNAME>
+   <EAN>9788075981684</EAN>
+   <ISBN>978-80-7598-168-4</ISBN>
+   <PRICE_VAT>995</PRICE_VAT>
+   <DESCRIPTION>
+
+V ediční řadě Klasických právnických děl poprvé dostal prostor obor správního práva, a to v reprintované učebnici profesora pražské právnické fakulty Jiřího Hoetzela Československé správní právo. Část všeobecná z roku 1934. Profesor Jiří Hoetzel patřil ve své době k nejvýznamnějším představitelům československého veřejného práva. Kromě výuky mnoha generací studentů na pražské právnické fakultě se mj. podílel na vzniku obou prvorepublikových ústav a byl jedním z hlavních redaktorů monumentálního Slovníku veřejného práva československého (1929–1948). Jak píše profesor Petr Průcha ve svém předmluvě k reprintovanému dílu, „lze konstatovat, že Jiří Hoetzel se rozhodující měrou zasloužil o vytvoření celkové koncepce československého správního práva. Jeho rozsáhlá literární produkce ostatně pokrývá prakticky všechny významné pojmy a instituty tohoto oboru práva. Zdůraznit je třeba i to, že v rámci správního práva také výrazněji zviditelnil právo procesní a v dané době tak rovněž položil základy moderní nauky správního řízení. (…) Toto významné dílo Jiřího Hoetzela (…) je plným právem dodnes v odborných právnických kruzích považováno za vědecký základ správního práva v domácí právní vědě.“ Díky tomu, že Hoetzelovo pojetí správního práva je v nejryzejší podobě koncentrováno v právě reprintované učebnici, stává se tato kniha zajímavou nejen pro milovníky právní historie, ale aktuální myšlenky v ní najdou všichni odborníci na správní právo, kteří hledají podstatu a souvislosti současných správněprávních institutů.
+
+</DESCRIPTION>
+   <CATEGORYTEXT>
+Tištěné knihy | Odborná a technická literatura | Právo
+</CATEGORYTEXT>
+   <URL>
+https://www.sckn.cz/ceskoslovenske-spravni-pravo-cast-vseobecna-pn-534-132/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/8d1819003ac5d43850bc917455f79496.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>492</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL />
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Jazyk</PARAM_NAME>
+         <VAL>český</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>reprint vydání z roku 1934</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Jiří</NAME>
+         <SURNAME>Hoetzel</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Editor</ROLE>
+         <NAME>Petr</NAME>
+         <SURNAME>Průcha</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Editor</ROLE>
+         <NAME>Ondřej</NAME>
+         <SURNAME>Horák</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+<ITEM_ID>534716</ITEM_ID>
+<PRODUCTNAME>Stará a nevrlá rocková hvězda - Rick Wakeman</PRODUCTNAME>
+<PRODUCT>Stará a nevrlá rocková hvězda - Rick Wakeman</PRODUCT>
+<EAN>9788075114334</EAN>
+<ISBN>978-80-7511-433-4</ISBN>
+<PRICE_VAT>299</PRICE_VAT>
+<DESCRIPTION>
+
+Rick Wakeman je nejtalentovanější klávesista své generace, který je stejně doma na rockových pódiích jako na kůrech velkých katedrál.
+
+</DESCRIPTION>
+<URL>
+https://www.sckn.cz/stara-a-nevrla-rockova-hv-zda-rick-wakeman-pn-534-716/
+</URL>
+<IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/f4bca7eecfafebce8b4e4ecda1c4eaba.jpg
+</IMGURL>
+<PARAM>
+<PARAM_NAME>Počet stran</PARAM_NAME>
+<VAL>200</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Datum vydání</PARAM_NAME>
+<VAL>2018</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Vazba</PARAM_NAME>
+<VAL>kniha, vázaná vazba</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Pořadí vydání</PARAM_NAME>
+<VAL>neurčeno</VAL>
+</PARAM>
+<CONTRIBUTOR>
+<ROLE>Autor</ROLE>
+<NAME>Rick</NAME>
+<SURNAME>Wakeman</SURNAME>
+</CONTRIBUTOR>
+<CONTRIBUTOR>
+<ROLE>Autor</ROLE>
+<NAME>Milan</NAME>
+<SURNAME>Janeček</SURNAME>
+</CONTRIBUTOR>
+<THEMATIC_GROUP>999 - nezařazeno</THEMATIC_GROUP>
+</SHOPITEM>

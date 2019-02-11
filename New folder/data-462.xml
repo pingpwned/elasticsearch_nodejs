@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+<ITEM_ID>534244</ITEM_ID>
+<PRODUCTNAME>Kam odešly laně</PRODUCTNAME>
+<PRODUCT>Kam odešly laně</PRODUCT>
+<EAN>9788090655928</EAN>
+<ISBN>978-80-906559-2-8</ISBN>
+<PRICE_VAT>199</PRICE_VAT>
+<DESCRIPTION>
+
+Jedna z nejkrásnějších knih naší literatury nejenom pro děti. Tak trochu nezvyklé setkání dvou významných umělců: malíře Josefa Čapka a básníka Jana Skácela.
+
+</DESCRIPTION>
+<CATEGORYTEXT>
+Tištěné knihy | Pro děti a mládež | Pro děti 3-7 let | Poezie pro děti
+</CATEGORYTEXT>
+<URL>
+https://www.sckn.cz/kam-ode-scaron-ly-lan-jan-skacel-pn-534-244/
+</URL>
+<IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/c93f70b93fc5120f1ba5e83c72782b8a.jpg
+</IMGURL>
+<PARAM>
+<PARAM_NAME>Počet stran</PARAM_NAME>
+<VAL>32</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Datum vydání</PARAM_NAME>
+<VAL>2018</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Vazba</PARAM_NAME>
+<VAL>kniha, vázaná vazba</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Pořadí vydání</PARAM_NAME>
+<VAL>neurčeno</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Jazyk</PARAM_NAME>
+<VAL>český</VAL>
+</PARAM>
+<CONTRIBUTOR>
+<ROLE>Autor</ROLE>
+<NAME>Jan</NAME>
+<SURNAME>Skácel</SURNAME>
+</CONTRIBUTOR>
+<CONTRIBUTOR>
+<ROLE>Ilustrátor</ROLE>
+<NAME>Josef</NAME>
+<SURNAME>Čapek</SURNAME>
+</CONTRIBUTOR>
+<THEMATIC_GROUP>14 - Literatura pro děti a mládež</THEMATIC_GROUP>
+</SHOPITEM>

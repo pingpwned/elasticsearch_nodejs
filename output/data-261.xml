@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534509</ITEM_ID>
+   <PRODUCTNAME>
+Spisy Ladislava Grosmana 2. Povídky - Ladislav Grosman
+</PRODUCTNAME>
+   <EAN>9788074702006</EAN>
+   <ISBN>978-80-7470-200-6</ISBN>
+   <PRICE_VAT>189</PRICE_VAT>
+   <DESCRIPTION>
+
+Druhý svazek spisů přináší všechny povídky z prvního vydání knihy Nevěsta, v exilu vydanou povídkovou knihu Hlavou proti zdi, texty publikované pouze časopisecky a zejména dosud nevydané povídky z autorových rukopisů.
+
+</DESCRIPTION>
+   <CATEGORYTEXT>
+E-knihy | Krásná literatura | Próza | Česká a slovenská próza
+</CATEGORYTEXT>
+   <URL>
+https://www.sckn.cz/spisy-ladislava-grosmana-2-povidky-ladislav-grosman-pn-534-509/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/699c754281ed8cf8dbc7f5f5e423f0e1.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>384</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Ladislav</NAME>
+         <SURNAME>Grosman</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

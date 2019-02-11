@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534030</ITEM_ID>
+   <PRODUCTNAME>
+Harry Potter Boxed Set: The Complete Collection (Adult Paperback) - J. K. Rowlingová
+</PRODUCTNAME>
+   <EAN>9781408898659</EAN>
+   <ISBN>978-1-4088-9865-9</ISBN>
+   <PRICE_VAT>1849</PRICE_VAT>
+   <DESCRIPTION>
+
+Beautiful box set of J.K. Rowling&amp;apos;s classic Harry Potter series in new hardback editions, with stylish jacket art by Andrew Davidson to appeal to adult readers.
+
+</DESCRIPTION>
+   <CATEGORYTEXT />
+   <URL>
+https://www.sckn.cz/harry-potter-boxed-set-the-complete-collection-adult-paperback-j-k-rowlingova-pn-534-030/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/fd450f1576d68f6e3c52a82f1bdc5cbe.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>3872</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>kniha, brožovaná vazba</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>J. K.</NAME>
+         <SURNAME>Rowlingová</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Andrew</NAME>
+         <SURNAME>Davidson</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534342</ITEM_ID>
+   <PRODUCTNAME>Kroniky Deštné divočiny – Dračí strážce</PRODUCTNAME>
+   <EAN>9788025339312</EAN>
+   <ISBN>978-80-253-3931-2</ISBN>
+   <PRICE_VAT>399</PRICE_VAT>
+   <DESCRIPTION>
+
+Od chvíle, kdy mocná dračice Tintaglia pomohla lidem z kupeckých měst porazit nepřátele, uběhlo mnoho let. Obchodníci zapomněli na své sliby, že se postarají o znetvořené draky, a teď hrozí, že draci zemřou. Proto je nařízeno přesunout je do jejich bájné pravlasti. Nikdo však netuší, kde domov majestátních tvorů leží. Společná pouť lidí a draků tak přinese spoustu útrap, ale také radostí a dobrodružství, které předčí jejich nejdivočejší představy.
+
+</DESCRIPTION>
+   <CATEGORYTEXT>Tištěné knihy | Krásná literatura</CATEGORYTEXT>
+   <URL>
+https://www.sckn.cz/kroniky-destne-divociny-draci-strazce-pn-534-342/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/54a5ef98c1c36ff4359293d9e270d4ab.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>544</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL />
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Jazyk</PARAM_NAME>
+         <VAL>český</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>15. 11. 2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>1.</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Robin</NAME>
+         <SURNAME>Hobb</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534582</ITEM_ID>
+   <PRODUCTNAME>Mona Lisa s rovnátky - Ondřej Abrahám</PRODUCTNAME>
+   <EAN>9788072729920</EAN>
+   <ISBN>978-80-7272-992-0</ISBN>
+   <PRICE_VAT>239</PRICE_VAT>
+   <DESCRIPTION>
+ Kniha povídek českého diplomata a novináře. 
+</DESCRIPTION>
+   <CATEGORYTEXT />
+   <URL>
+https://www.sckn.cz/mona-lisa-s-rovnatky-ond-ej-abraham-pn-534-582/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/53506c8a3529b89ae209de9ae5d2cdea.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>308</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Ondřej</NAME>
+         <SURNAME>Abrahám</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

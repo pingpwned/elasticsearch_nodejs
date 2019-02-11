@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534049</ITEM_ID>
+   <PRODUCTNAME>Za lipicány po hřebčínech Evropy</PRODUCTNAME>
+   <EAN>9788087731291</EAN>
+   <ISBN>978-80-87731-29-1</ISBN>
+   <PRICE_VAT>750</PRICE_VAT>
+   <DESCRIPTION>
+
+Jedinečná celobarevná fotografická publikace Dalibora Gregora zavede čtenáře skvělými texty v češtině a angličtině a nádhernými fotografiemi do všech státních hřebčínů v Evropě.
+
+</DESCRIPTION>
+   <CATEGORYTEXT>Tištěné knihy | Umění | Fotografie</CATEGORYTEXT>
+   <URL>
+https://www.sckn.cz/za-lipicany-po-h-eb-inech-evropy-dalibor-gregor-pn-534-049/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/8041fcb20a3c4359579b63b57c4fe9eb.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>176</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>kniha, vázaná vazba</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Jazyk</PARAM_NAME>
+         <VAL>český</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Dalibor</NAME>
+         <SURNAME>Gregor</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

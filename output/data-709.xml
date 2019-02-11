@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>533981</ITEM_ID>
+   <PRODUCTNAME>Dětský obrázkový slovník česko-anglický</PRODUCTNAME>
+   <EAN>9788075673169</EAN>
+   <ISBN>978-80-7567-316-9</ISBN>
+   <PRICE_VAT>259</PRICE_VAT>
+   <DESCRIPTION>
+
+V tomto obrázkovém výkladovém slovníčku najdete přesně osm set nejpoužívanějších anglických slov a příkladů jejich použití, názorně ukázaných na obrázcích.
+
+</DESCRIPTION>
+   <CATEGORYTEXT />
+   <URL>
+https://www.sckn.cz/d-tsky-obrazkovy-slovnik-esko-anglicky-pn-533-981/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/3d37342ea116c843ce1a728463d1c3bf.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>256</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>kniha, vázaná vazba</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Eduardo</NAME>
+         <SURNAME>Trujillo</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Karolína</NAME>
+         <SURNAME>Schwarzová</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Kateřina</NAME>
+         <SURNAME>Petrošová</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

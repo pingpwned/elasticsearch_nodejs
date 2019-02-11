@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534779</ITEM_ID>
+   <PRODUCTNAME>Zpívání u jesliček</PRODUCTNAME>
+   <EAN>9788075660299</EAN>
+   <ISBN>978-80-7566-029-9</ISBN>
+   <PRICE_VAT>149</PRICE_VAT>
+   <DESCRIPTION>
+
+Zpěvník koled z Čech, Moravy a Slezska, který obsahuje klasické i méně známé vánoční melodie a texty. Zpěvník je určen pro muzicírování doma, ve škole, v kostelích, sborech, na koledách u domovních dveří, na návsích i náměstích. Formát, kroužková vazba i notový zápis jsou praktické a přizpůsobené obecnému užití jednotlivců i větších skupin. Naše vánoční písně, někdy poetické, jindy syrové, jsou plodem lidové tvořivosti a zbožnosti, prosté úcty našich předků. Ti betlémskou událost rozjímali – promýšleli a prociťovali – a věřili, že ten malý chlapec je Boží Syn a že „nám, nám narodil se“! Texty s jednoduchým připomenutím melodie a několika akordy jsou „nápovědou“ pro doprovod klavíru či kytary, flétničky, houslí – ale především pro vaše hlasy.
+
+</DESCRIPTION>
+   <CATEGORYTEXT>Tištěné knihy | Hudebniny | Ostatní</CATEGORYTEXT>
+   <URL>https://www.sckn.cz/zpivani-u-jeslicek-pn-534-779/</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/f2d67522784a509a905f94acb5b7e22b.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>216</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>
+měkké desky, lepená brožura oříznutá po třech stranách
+</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Jazyk</PARAM_NAME>
+         <VAL>český</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Rozměr</PARAM_NAME>
+         <VAL>115 × 180</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>12. 11. 2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>1.</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Josef</NAME>
+         <SURNAME>Straka</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Ilustrátor</ROLE>
+         <NAME>Jana</NAME>
+         <SURNAME>Majcherová</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Editor</ROLE>
+         <NAME>Jan</NAME>
+         <SURNAME>Štolba</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534054</ITEM_ID>
+   <PRODUCTNAME>Základy ošetřovatelství a ošetřovatelských postupů</PRODUCTNAME>
+   <EAN>9788027107179</EAN>
+   <ISBN>978-80-271-0717-9</ISBN>
+   <PRICE_VAT>349</PRICE_VAT>
+   <DESCRIPTION>
+
+Studium ošetřovatelství je nedílnou součástí přípravy na profesi zdravotnického záchranáře. V České republice legislativa umožňuje záchranářům pracovat jak v terénní péči, tak i na urgentních příjmech či anesteziologicko-resuscitačních odděleních....
+
+</DESCRIPTION>
+   <CATEGORYTEXT>
+Tištěné knihy | Odborná a technická literatura | Medicína
+</CATEGORYTEXT>
+   <URL>
+https://www.sckn.cz/zaklady-o-scaron-et-ovatelstvi-a-o-scaron-et-ovatelskych-postup-martina-scaron-likova-dingova-lucia-vrabelova-lucie-lidicka-pn-534-054/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/a833e27124092fa3116fa11ef1f36fb3.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>312</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>kniha, brožovaná vazba</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Jazyk</PARAM_NAME>
+         <VAL>český</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Martina Šliková</NAME>
+         <SURNAME>Dingová</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Lucia</NAME>
+         <SURNAME>Vrabelová</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Lucie</NAME>
+         <SURNAME>Lidická</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

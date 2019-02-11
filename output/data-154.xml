@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534616</ITEM_ID>
+   <PRODUCTNAME>Tiché lži - Sarah Pinborough</PRODUCTNAME>
+   <EAN>9788073595883</EAN>
+   <ISBN>978-80-7359-588-3</ISBN>
+   <PRICE_VAT>244</PRICE_VAT>
+   <DESCRIPTION>
+
+Thriller o třech ženách, jejich tajemstvích a nebezpečí, kterému nemohou uniknout.
+
+</DESCRIPTION>
+   <CATEGORYTEXT />
+   <URL>
+https://www.sckn.cz/tiche-l-i-sarah-pinborough-pn-534-616/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/16f4e160474528f3f54f3b7717ce9fdd.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>315</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Sarah</NAME>
+         <SURNAME>Pinborough</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Hana</NAME>
+         <SURNAME>Sichingerová</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

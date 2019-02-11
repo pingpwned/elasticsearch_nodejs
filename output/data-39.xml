@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534738</ITEM_ID>
+   <PRODUCTNAME>
+Bylo to na věčné časy, dokud to neskončilo - Alexej Jurčak
+</PRODUCTNAME>
+   <EAN>9788024636627</EAN>
+   <ISBN>978-80-246-3662-7</ISBN>
+   <PRICE_VAT>420</PRICE_VAT>
+   <DESCRIPTION>
+
+Kolaps socialismu byl pro obyvatele Sovětského svazu absolutně nečekaný, ale zároveň naprosto zákonitý. Ačkoli většina lidí v pozdním socialismu vnímala sovětský systém jako věčný a neměnný, byla současně připravena na jeho pád.
+
+</DESCRIPTION>
+   <CATEGORYTEXT />
+   <URL>
+https://www.sckn.cz/bylo-to-na-v-ne-asy-dokud-to-neskon-ilo-alexej-jur-ak-pn-534-738/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/f5e6eb7632ebc6db5db2e1859c4817f5.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>388</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>kniha, brožovaná vazba</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Alexej</NAME>
+         <SURNAME>Jurčak</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Veronika</NAME>
+         <SURNAME>Bránišová</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Přemysl</NAME>
+         <SURNAME>Houda</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534744</ITEM_ID>
+   <PRODUCTNAME>Četnické humoresky z Borovan - Jiří Cukr</PRODUCTNAME>
+   <EAN>9788088030317</EAN>
+   <ISBN>978-80-88030-31-7</ISBN>
+   <PRICE_VAT>220</PRICE_VAT>
+   <DESCRIPTION>
+
+Za tento poutavý a zábavný vhled do minulosti vděčíme vrchnímu strážmistru Václavu Šrolovi. Své vzpomínky o službě v Borovanech psal kolem roku 1940 – deset let poté, co ukončil svoji třicetiletou četnickou kariéru.
+
+</DESCRIPTION>
+   <CATEGORYTEXT />
+   <URL>
+https://www.sckn.cz/-etnicke-humoresky-z-borovan-ji-i-cukr-pn-534-744/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/043b7210592bc5edd0d8afbb2cd1cc10.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>128</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>kniha, vázaná vazba</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Jiří</NAME>
+         <SURNAME>Cukr</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

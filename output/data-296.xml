@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534468</ITEM_ID>
+   <PRODUCTNAME>Průvodce neklidným územím II</PRODUCTNAME>
+   <EAN>9788087260975</EAN>
+   <ISBN>978-80-87260-97-5</ISBN>
+   <PRICE_VAT>599</PRICE_VAT>
+   <DESCRIPTION>
+
+Unikátní publikace srozumitelnou a atraktivní formou mapuje vývoj architektury na našem území ve 20. a 21. století.
+
+</DESCRIPTION>
+   <CATEGORYTEXT>Tištěné knihy | Umění | Architektura</CATEGORYTEXT>
+   <URL>
+https://www.sckn.cz/pr-vodce-neklidnym-uzemim-ii-vojt-ch-scaron-eda-ond-ej-horak-pn-534-468/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/76c547ad9e83cfab5a01ba701daa4288.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>240</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>kniha, vázaná vazba</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Jazyk</PARAM_NAME>
+         <VAL>český</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Vojtěch</NAME>
+         <SURNAME>Šeda</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Ondřej</NAME>
+         <SURNAME>Horák</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

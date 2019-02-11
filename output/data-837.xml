@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>533846</ITEM_ID>
+   <PRODUCTNAME>Less</PRODUCTNAME>
+   <EAN>9788073355609</EAN>
+   <ISBN>978-80-7335-560-9</ISBN>
+   <PRICE_VAT>348</PRICE_VAT>
+   <DESCRIPTION>
+
+Žít dlouhou dobu v nesouladu sám se sebou se trestá i z medicínského hlediska. Ve dvaceti je to sice burcující a inspirující, jenže Arthur Less – druhořadý spisovatel a průměrný kalifornský gay – neochvějně míří k padesátce...
+
+</DESCRIPTION>
+   <CATEGORYTEXT>
+Tištěné knihy | Krásná literatura | Próza | Světová próza
+</CATEGORYTEXT>
+   <URL>
+https://www.sckn.cz/less-andrew-sean-greer-pn-533-846/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/5a565df1acf4b08343c652f0b9b460ec.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>296</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>kniha, vázaná vazba</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Jazyk</PARAM_NAME>
+         <VAL>český</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Andrew Sean</NAME>
+         <SURNAME>Greer</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Překladatel</ROLE>
+         <NAME>Jana</NAME>
+         <SURNAME>Jašová</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

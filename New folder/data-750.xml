@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+<ITEM_ID>533938</ITEM_ID>
+<PRODUCTNAME>Pohádky v pohybu - Paleček</PRODUCTNAME>
+<PRODUCT>Pohádky v pohybu - Paleček</PRODUCT>
+<EAN>9788025624289</EAN>
+<ISBN>978-80-256-2428-9</ISBN>
+<PRICE_VAT>249</PRICE_VAT>
+<DESCRIPTION>
+
+Klasický pohádkový příběh o Palečkovi tentokrát jako leporelo s pohyblivými prvky na každé dvoustraně.
+
+</DESCRIPTION>
+<URL>
+https://www.sckn.cz/pohadky-v-pohybu-pale-ek-pn-533-938/
+</URL>
+<IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/bc0410914531fb08d7b8d12c35cf5745.jpg
+</IMGURL>
+<PARAM>
+<PARAM_NAME>Počet stran</PARAM_NAME>
+<VAL>12</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Datum vydání</PARAM_NAME>
+<VAL>2018</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Vazba</PARAM_NAME>
+<VAL />
+</PARAM>
+<PARAM>
+<PARAM_NAME>Pořadí vydání</PARAM_NAME>
+<VAL>neurčeno</VAL>
+</PARAM>
+<CONTRIBUTOR>
+<ROLE>Autor</ROLE>
+<NAME>Josef</NAME>
+<SURNAME>Vyskočil</SURNAME>
+</CONTRIBUTOR>
+<CONTRIBUTOR>
+<ROLE>Autor</ROLE>
+<NAME>Lucile</NAME>
+<SURNAME>Ahrweiller</SURNAME>
+</CONTRIBUTOR>
+<THEMATIC_GROUP>999 - nezařazeno</THEMATIC_GROUP>
+</SHOPITEM>

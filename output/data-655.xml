@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534040</ITEM_ID>
+   <PRODUCTNAME>The Battles of Tolkien - David Day</PRODUCTNAME>
+   <EAN>9780753731093</EAN>
+   <ISBN>978-0-7537-3109-3</ISBN>
+   <PRICE_VAT>289</PRICE_VAT>
+   <DESCRIPTION>
+
+Tolkien&amp;apos;s works are punctuated by dramatic and explosive battles. Men versus Orcs, Elves versus Sauron, Goblins versus Dwarves - the history of Middle-earth has seen some of the greatest characters pitted against each other time and time again
+
+</DESCRIPTION>
+   <CATEGORYTEXT />
+   <URL>
+https://www.sckn.cz/the-battles-of-tolkien-david-day-pn-534-040/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/42674ddd4d465eda8699b3dbc7253eb3.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>256</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>kniha, brožovaná vazba</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>David</NAME>
+         <SURNAME>Day</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

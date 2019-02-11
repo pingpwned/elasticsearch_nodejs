@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534758</ITEM_ID>
+   <PRODUCTNAME>The Crimes of Grindelwald - Joanne K. Rowlingová</PRODUCTNAME>
+   <EAN>9781408711705</EAN>
+   <ISBN>978-1-4087-1170-5</ISBN>
+   <PRICE_VAT>399</PRICE_VAT>
+   <DESCRIPTION>
+
+J.K. Rowling&amp;apos;s five-film Fantastic Beasts adventure series continues with the original screenplay for Fantastic Beasts: The Crimes of Grindelwald
+
+</DESCRIPTION>
+   <CATEGORYTEXT />
+   <URL>
+https://www.sckn.cz/the-crimes-of-grindelwald-joanne-k-rowlingova-pn-534-758/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/624b21db25de43a24fd15f8f9843b847.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>304</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>kniha, vázaná vazba</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Joanne K.</NAME>
+         <SURNAME>Rowlingová</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

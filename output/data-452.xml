@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534260</ITEM_ID>
+   <PRODUCTNAME>Princezna se chtěla vdávat</PRODUCTNAME>
+   <EAN>9788073892265</EAN>
+   <ISBN>978-80-7389-226-5</ISBN>
+   <PRICE_VAT>115</PRICE_VAT>
+   <DESCRIPTION>
+
+Svým vnukům, ale i ostatním dětem předškolního a nižšího školního věku věnuje autor svou novou sbírku. Jeho pohled na svět je humorný, radostný, veselý - i když, jak sám říká - není vždy snadné se dívat na svět s humorem, smířlivým nadhledem a laskavostí. Sbírka jistě potěší své čtenáře - stejně jako ostatní autorovy sbírky. Knížku můžete koupit u dobrých knihkupců a v nakladatelství ALFA-OMEGA (např. www.alfa-omega-cz.com, alfa-omega@volny.cz ad.).
+
+</DESCRIPTION>
+   <CATEGORYTEXT>Tištěné knihy | Pro děti a mládež</CATEGORYTEXT>
+   <URL>
+https://www.sckn.cz/princezna-se-chtela-vdavat-pn-534-260/
+</URL>
+   <IMGURL />
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>36 + volný celobarevný grafický list</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>měkké desky, brožura sešitá drátěnou sponkou</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Jazyk</PARAM_NAME>
+         <VAL>český</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Rozměr</PARAM_NAME>
+         <VAL>105 x 210 mm na výšku</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>12. 11. 2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>1.</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Zdeněk</NAME>
+         <SURNAME>Salava</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Ilustrátor</ROLE>
+         <NAME>Věra</NAME>
+         <SURNAME>Martinková</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Editor</ROLE>
+         <NAME>Věra</NAME>
+         <SURNAME>Martinková, PhDr., CSc.</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

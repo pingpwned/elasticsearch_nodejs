@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534359</ITEM_ID>
+   <PRODUCTNAME>Bylinkové pečení</PRODUCTNAME>
+   <EAN>9788090733213</EAN>
+   <ISBN>978-80-907332-1-3</ISBN>
+   <PRICE_VAT>199</PRICE_VAT>
+   <DESCRIPTION>
+
+Už jste někdy zkusili upéct sušenky, cukroví nebo moučníky s přidáním bylinek? Tato kom-binace je totiž výborná! Autorka představuje mnoho zajímavých a jednoduchých receptů na pečení s čerstvými nebo sušenými bylinkami.
+
+</DESCRIPTION>
+   <CATEGORYTEXT>
+Tištěné knihy | Zdraví a životní styl | Kuchařky a nápoje | Pečení, moučníky
+</CATEGORYTEXT>
+   <URL>
+https://www.sckn.cz/bylinkove-pe-eni-adelheid-entinger-pn-534-359/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/905d237b60796b8b243d56525793aa36.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>120</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>kniha, brožovaná vazba</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Jazyk</PARAM_NAME>
+         <VAL>český</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Překladatel</ROLE>
+         <NAME>Jana</NAME>
+         <SURNAME>Zuziaková</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Adelheid</NAME>
+         <SURNAME>Entinger</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

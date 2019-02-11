@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+<ITEM_ID>534460</ITEM_ID>
+<PRODUCTNAME>Vesmírný turista</PRODUCTNAME>
+<PRODUCT>Vesmírný turista</PRODUCT>
+<EAN>9788075851437</EAN>
+<ISBN>978-80-7585-143-7</ISBN>
+<PRICE_VAT>699</PRICE_VAT>
+<DESCRIPTION>
+
+Zaujměte svá místa a připravte se na nejpodivuhodnější výlet všech dob – výlet, jehož prostřednictvím poznáte celý vesmír! Po cestě se zastavíte u 100 nejúžasnějších vesmírných planet, planetek, galaxií, těles a jevů.
+
+</DESCRIPTION>
+<CATEGORYTEXT>
+Tištěné knihy | Naučná | Příroda a přírodní vědy | Fyzika, matematika, astronomie
+</CATEGORYTEXT>
+<URL>
+https://www.sckn.cz/vesmirny-turista-brian-may-pn-534-460/
+</URL>
+<IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/64e4f745ee36a6d12f63f738a2d352a4.jpg
+</IMGURL>
+<PARAM>
+<PARAM_NAME>Počet stran</PARAM_NAME>
+<VAL>192</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Datum vydání</PARAM_NAME>
+<VAL>2018</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Vazba</PARAM_NAME>
+<VAL>kniha, vázaná vazba</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Pořadí vydání</PARAM_NAME>
+<VAL>neurčeno</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Jazyk</PARAM_NAME>
+<VAL>český</VAL>
+</PARAM>
+<CONTRIBUTOR>
+<ROLE>Autor</ROLE>
+<NAME>Brian</NAME>
+<SURNAME>May</SURNAME>
+</CONTRIBUTOR>
+<THEMATIC_GROUP>3 - Přírodní vědy, matematika</THEMATIC_GROUP>
+</SHOPITEM>

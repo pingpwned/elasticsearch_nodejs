@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534688</ITEM_ID>
+   <PRODUCTNAME>
+Sonderbehandlung neboli zvláštní zacházení - Filip Müller
+</PRODUCTNAME>
+   <EAN>9788087950500</EAN>
+   <ISBN>978-80-87950-50-0</ISBN>
+   <PRICE_VAT>278</PRICE_VAT>
+   <DESCRIPTION>
+
+Unikátní autentické svědectví, v němž Čechoslovák Filip Müller odhalil světu, co na vlastní oči viděl a zažil jakožto člen židovské¬ho sonderkommanda v osvětimské továrně na smrt.
+
+</DESCRIPTION>
+   <CATEGORYTEXT />
+   <URL>
+https://www.sckn.cz/sonderbehandlung-neboli-zvla-scaron-tni-zachazeni-filip-muller-pn-534-688/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/b27a503e1b3a63e7280d52065895f53c.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>248</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>kniha, vázaná vazba</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Filip</NAME>
+         <SURNAME>Müller</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

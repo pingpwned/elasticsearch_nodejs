@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534603</ITEM_ID>
+   <PRODUCTNAME>Česká otázka a dnešní doba</PRODUCTNAME>
+   <EAN>9788070075272</EAN>
+   <ISBN>978-80-7007-527-2</ISBN>
+   <PRICE_VAT>250</PRICE_VAT>
+   <DESCRIPTION>
+
+Kniha zabývající se Masarykovou Českou otázkou neznamená pouze historizující návrat do minulosti.
+
+</DESCRIPTION>
+   <CATEGORYTEXT>
+E-knihy | Historie | Podle zemí a kontinentů | České a slovenské dějiny
+</CATEGORYTEXT>
+   <URL>
+https://www.sckn.cz/-eska-otazka-a-dne-scaron-ni-doba-pn-534-603/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/1a7ccb0b9a3496ef06402b30a50e1580.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>620</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Jan</NAME>
+         <SURNAME>Svoboda</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Aleš</NAME>
+         <SURNAME>Prázný</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

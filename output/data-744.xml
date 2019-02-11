@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>533945</ITEM_ID>
+   <PRODUCTNAME>Knihkupectví u osamělých srdcí - Annie Darlingová</PRODUCTNAME>
+   <EAN>9788088250159</EAN>
+   <ISBN>978-80-88250-15-9</ISBN>
+   <PRICE_VAT>169</PRICE_VAT>
+   <DESCRIPTION>
+
+Aby zachránila upadající obchůdek a začala konečně žít svůj život, bude muset Posy odložit romantickou četbu a postavit se realitě. A skončí to všechno happy endem stejně jako v knížkách, které tak ráda čte?
+
+</DESCRIPTION>
+   <CATEGORYTEXT>
+E-knihy | Krásná literatura | Próza | Světová próza
+</CATEGORYTEXT>
+   <URL>
+https://www.sckn.cz/knihkupectvi-u-osam-lych-srdci-annie-darlingova-pn-533-945/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/5b14aa3fa9cd1d97e2b64c7c12fe19cd.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>312</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Annie</NAME>
+         <SURNAME>Darlingová</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Lucie</NAME>
+         <SURNAME>Křesťanová</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

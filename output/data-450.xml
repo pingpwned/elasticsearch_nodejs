@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534262</ITEM_ID>
+   <PRODUCTNAME>
+Základy marketingového práva a práva duševního vlastnictví
+</PRODUCTNAME>
+   <EAN>9788074081736</EAN>
+   <ISBN>978-80-7408-173-6</ISBN>
+   <PRICE_VAT>153</PRICE_VAT>
+   <DESCRIPTION>
+
+Základy marketingového práva a práva duševního vlastnictví. Fundamentals of marketing law and intellectual property law Učební text vhodný i pro neprávníky plynule vykládá institut práva duševního vlastnictví a práva mediálního, a to včetně mnoha názorných příkladů z právní praxe. Část mediálního práva představuje právní regulaci základních komunikačních kanálů od tisku, televize a rozhlasu k novým médiím a sociálním sítím. Výklad se zaměřuje na odpovědnost jednotlivých médií ale i jednotlivců vytvářejících mediální a reklamní obsah. Text seznamuje také s regulací reklamy, nekalou soutěží a stále významnějším právem na ochranu osobnosti. Bilingvální česko-anglické vydání.
+
+</DESCRIPTION>
+   <CATEGORYTEXT>
+Tištěné knihy | Učebnice | Učebnice pro vysoké školy
+</CATEGORYTEXT>
+   <URL>
+https://www.sckn.cz/zaklady-marketingoveho-prava-a-prava-dusevniho-vlastnictvi-pn-534-262/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/c24e88ed54416cb619fab3de9d506525.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>136</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>
+měkké desky, lepená brožura oříznutá po třech stranách
+</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Jazyk</PARAM_NAME>
+         <VAL>český</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>12. 11. 2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>1.</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Rudolf</NAME>
+         <SURNAME>Leška</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Eva</NAME>
+         <SURNAME>Ondřejová</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

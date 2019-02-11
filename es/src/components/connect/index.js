@@ -2,17 +2,20 @@ import React, { Component } from 'react';
 import SearchBar from '../search'
 import client from '../client'
 import Book from '../book'
+import Admin from '../admin'
 export default class Connect extends Component {
     constructor(props) {
         super(props)
         this.state = {
+            categories: [],
             data: [],
             queryString: {
-                index: "books",
+                index: "books_primary",
                 size: 10000 // max allowed
             },
             response: null,
             displayBook: false,
+            displayAdmin: true,
             bookID: "",
             searchResult: "",
             searchTime: 0
@@ -31,17 +34,46 @@ export default class Connect extends Component {
             let reqTime = new Date().getTime() - reqStart
             console.log(response, "RESPONSE")
             this.setState({data: response.hits.hits, searchTime: reqTime, searchResult: response.hits.total})
+            this.loadCategories()
           },
           error => {
             console.log(`error: ${error}`)
           }
         )
     }
+    loadCategories() {
+        let categoriesArray = []
+        this.state.data.map(item => {
+            if (item._source.SHOPITEM.CATEGORYTEXT) {
+                console.log(item._source.SHOPITEM.CATEGORYTEXT.split("|"))
+                categoriesArray.push(...item._source.SHOPITEM.CATEGORYTEXT.split("|"))
+            }
+        } )
+        let s = new Set(categoriesArray)
+        let it = s.values()
+        let arr = Array.from(it)
+        this.setState({categories: arr})
+    }
     updateQuery = e => {
         const queryString = {
-            index: "books",
+            index: "books_primary",
             size: 10000,
             q: e ? e : null
+        }
+        this.setState(
+            {
+                queryString: queryString // Save the user entered query string
+            },
+            () => {
+                this.performQuery(queryString); // Trigger a new search
+            }
+        )
+    }
+    updateQueryCat = e => {
+        const queryString = {
+            index: "books_primary",
+            size: 10000,
+            q: e.target.checked ? e.target.name : null
         }
         this.setState(
             {
@@ -66,7 +98,13 @@ export default class Connect extends Component {
             )
         )
     }
+    renderCategories() {
+        return this.state.categories.map((item, i) => (
+            <li key={i}><input type="checkbox" onChange={this.updateQueryCat} name={item}></input>{item}</li>
+        ))
+    }
     handleBookOpen(val) {
+        console.log(val, this.state.bookID, "val & state")
         document.body.classList.toggle("no-sroll")
         this.setState({
             displayBook: !this.state.displayBook,
@@ -76,8 +114,21 @@ export default class Connect extends Component {
     render() {
         return(
             <div className="container">
-                <SearchBar onChange={this.updateQuery} searchTime={this.state.searchTime} searchResult={this.state.searchResult} />
-                {this.state.displayBook ? <Book handler={this.handleBookOpen} id={this.state.bookID} /> : null}
+                <SearchBar onChange={this.updateQuery}
+                    searchTime={this.state.searchTime}
+                    searchResult={this.state.searchResult} />
+
+                <div>
+                    <h2>Box</h2>
+                    <ul className="cat__box">
+                        {this.renderCategories()}                        
+                    </ul>
+                </div>
+                {
+                    this.state.displayBook ? 
+                    <Book handler={this.handleBookOpen} id={this.state.bookID} /> 
+                    : null
+                }
                 <div className="list__container">
                     { this.renderData() }
                 </div>

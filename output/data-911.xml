@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>533768</ITEM_ID>
+   <PRODUCTNAME>
+O sluníčku, zvířátkách a noci tajemné - Obrázkové čtení - Alena Schejbalová
+</PRODUCTNAME>
+   <EAN>9788073536510</EAN>
+   <ISBN>978-80-7353-651-0</ISBN>
+   <PRICE_VAT>139</PRICE_VAT>
+   <DESCRIPTION>
+
+Knížka pro nejmenší čtenáře a čtenářky – předškoláky a začínající školáky. Začtěte se spolu se svou ratolestí do jedenácti milých příběhů o zvířátkách kolem nás. Kniha je doplněna kouzelnými ilustrace Venduly Hegerové.
+
+</DESCRIPTION>
+   <CATEGORYTEXT />
+   <URL>
+https://www.sckn.cz/o-sluni-ku-zvi-atkach-a-noci-tajemne-obrazkove-teni-alena-schejbalova-pn-533-768/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/8df7f3e2729f3b5675c1f159c8979891.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>40</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>kniha, vázaná vazba</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Vendula</NAME>
+         <SURNAME>Hegerová</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Alena</NAME>
+         <SURNAME>Schejbalová</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

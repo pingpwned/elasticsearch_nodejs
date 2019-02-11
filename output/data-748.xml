@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>533942</ITEM_ID>
+   <PRODUCTNAME>Deník raka 2</PRODUCTNAME>
+   <EAN>9788087973400</EAN>
+   <ISBN>978-80-87973-40-0</ISBN>
+   <PRICE_VAT>299</PRICE_VAT>
+   <DESCRIPTION>
+
+Rakovina vás nezmění. Pořád to budete vy. I po uzdravení. Ta nemoc vám hodně vezme. Ale taky něco dá. Například vás naučí vážit si maličkostí a okamžiků. Protože okamžiky jsou to jediné, co vám skutečně patří.
+
+</DESCRIPTION>
+   <CATEGORYTEXT>
+Tištěné knihy | Krásná literatura | Próza | Česká a slovenská próza
+</CATEGORYTEXT>
+   <URL>
+https://www.sckn.cz/denik-raka-2-tereza-schillerova-pn-533-942/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/b9fc59c203b166145bb98021be011c46.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>288</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>kniha, vázaná vazba</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Jazyk</PARAM_NAME>
+         <VAL>český</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Tereza</NAME>
+         <SURNAME>Schillerová</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534222</ITEM_ID>
+   <PRODUCTNAME>Pravidla pro Boyfrienda</PRODUCTNAME>
+   <EAN>9788075342119</EAN>
+   <ISBN>978-80-7534-211-9</ISBN>
+   <PRICE_VAT>200</PRICE_VAT>
+   <DESCRIPTION>
+
+Tabita Morgan se od mládí řídí několika pravidly, která mají zamezit případným komplikacím. Tedy pokud pomineme, že její bratři a práce jsou pro ni už dost velkým „šutrem“ v cestě.
+
+</DESCRIPTION>
+   <CATEGORYTEXT>
+Tištěné knihy | Krásná literatura | Próza | Ženské příběhy
+</CATEGORYTEXT>
+   <URL>
+https://www.sckn.cz/pravidla-pro-boyfrienda-adele-ralish-pn-534-222/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/c25036f527a046dd8a47a03137845077.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>172</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>kniha, vázaná vazba</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Jazyk</PARAM_NAME>
+         <VAL>český</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Adele</NAME>
+         <SURNAME>Ralish</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

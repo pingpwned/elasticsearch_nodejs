@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>533919</ITEM_ID>
+   <PRODUCTNAME>Plížením vpřed</PRODUCTNAME>
+   <EAN>9788075851550</EAN>
+   <ISBN>978-80-7585-155-0</ISBN>
+   <PRICE_VAT>249</PRICE_VAT>
+   <DESCRIPTION>
+
+Komiksově pojatá kniha, v níž jsou humorným způsobem vylíčeny všechny dobré a špatné vlastnosti koček. Nastíněno je také, o čem asi tak kočky mezi sebou komunikují a na co myslí v různých běžných situacích.
+
+</DESCRIPTION>
+   <CATEGORYTEXT>
+Tištěné knihy | Krásná literatura | Sci-fi, fantasy, komiks | Komiks pro dospělé a mládež
+</CATEGORYTEXT>
+   <URL>
+https://www.sckn.cz/pli-enim-vp-ed-rupert-fawcett-pn-533-919/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/ce32e4ab7ec180419cc1f0702de5878f.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>160</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>kniha, vázaná vazba</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Jazyk</PARAM_NAME>
+         <VAL>český</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Rupert</NAME>
+         <SURNAME>Fawcett</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Překladatel</ROLE>
+         <NAME>Jiří</NAME>
+         <SURNAME>Stárek</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

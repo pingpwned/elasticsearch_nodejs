@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534727</ITEM_ID>
+   <PRODUCTNAME>Slzy muže - Darina Hamarová</PRODUCTNAME>
+   <EAN>9788024385631</EAN>
+   <ISBN>978-80-243-8563-1</ISBN>
+   <PRICE_VAT>179</PRICE_VAT>
+   <DESCRIPTION>
+
+Nezávislý novinář dostane od své tajné lásky, šéfredaktorky Jany, úlohu, která je pro něj velkou profesionální výzvou. Věnuje se dvacet let starému případu, kdy byl jeden z prominentních boháčů odsouzen za znásilnění a vraždu své mladé přítelkyně.
+
+</DESCRIPTION>
+   <CATEGORYTEXT />
+   <URL>
+https://www.sckn.cz/slzy-mu-e-darina-hamarova-pn-534-727/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/a3d4d989e40420114c3be694907bd0a2.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>256</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Darina</NAME>
+         <SURNAME>Hamarová</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

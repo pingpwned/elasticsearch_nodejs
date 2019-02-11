@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>533833</ITEM_ID>
+   <PRODUCTNAME>Šarlota a vysněný kůň 3: Nečekaný host</PRODUCTNAME>
+   <EAN>9788026422235</EAN>
+   <ISBN>978-80-264-2223-5</ISBN>
+   <PRICE_VAT>199</PRICE_VAT>
+   <DESCRIPTION>
+
+Šarlotin sen se konečně proměnil ve skutečnost: s hnědým valachem Won Da Piem jsou skvělý tým a zkrátka nerozlučná dvojka. Nový učitel jezdectví je úplně super a Šarlota s tlukoucím srdcem očekává návštěvu svého tajného idola Thierryho! Její štěstí ale zkazí nečekané zprávy o tom, že existence jejich stáje je v ohrožení. Boj o záchranu začíná...
+
+</DESCRIPTION>
+   <CATEGORYTEXT>Tištěné knihy | Pro děti a mládež</CATEGORYTEXT>
+   <URL>
+https://www.sckn.cz/sarlota-a-vysneny-kun-3-necekany-host-pn-533-833/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/034525ada6ff5338999725688d51ba67.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>240</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>05. 11. 2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>kniha, vázaná vazba</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Jazyk</PARAM_NAME>
+         <VAL>český</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Nele</NAME>
+         <SURNAME>Neuhausová</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

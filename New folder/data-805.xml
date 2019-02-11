@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+<ITEM_ID>533884</ITEM_ID>
+<PRODUCTNAME>Hádej kdo - Chris McGeorge</PRODUCTNAME>
+<PRODUCT>Hádej kdo - Chris McGeorge</PRODUCT>
+<EAN>9788076171244</EAN>
+<ISBN>978-80-7617-124-4</ISBN>
+<PRICE_VAT>239</PRICE_VAT>
+<DESCRIPTION>
+
+Televizní moderátor. Číšnice. Uklízeč. Právník. Herečka. Studentka. Ti všichni jsou zamčení v jednom hotelovém pokoji s mrtvolou muže, jehož každý z nich nějak znal. Ani jeden z nich netuší, jak se dostal dovnitř. Nikdo z nich neví, jak se dostat ven. A jeden z nich je vrah. Mají na to tři hodiny.
+
+</DESCRIPTION>
+<URL>
+https://www.sckn.cz/hadej-kdo-chris-mcgeorge-pn-533-884/
+</URL>
+<IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/0c4f4b38872802ea101dc502703dc7da.jpg
+</IMGURL>
+<PARAM>
+<PARAM_NAME>Počet stran</PARAM_NAME>
+<VAL>336</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Datum vydání</PARAM_NAME>
+<VAL>2018</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Pořadí vydání</PARAM_NAME>
+<VAL>neurčeno</VAL>
+</PARAM>
+<CONTRIBUTOR>
+<ROLE>Autor</ROLE>
+<NAME>Chris</NAME>
+<SURNAME>McGeorge</SURNAME>
+</CONTRIBUTOR>
+<CONTRIBUTOR>
+<ROLE>Autor</ROLE>
+<NAME>Martin</NAME>
+<SURNAME>Pokorný</SURNAME>
+</CONTRIBUTOR>
+<THEMATIC_GROUP>999 - nezařazeno</THEMATIC_GROUP>
+</SHOPITEM>

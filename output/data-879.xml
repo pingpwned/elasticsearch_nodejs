@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>533802</ITEM_ID>
+   <PRODUCTNAME>Snář - Felix Londor</PRODUCTNAME>
+   <EAN>9788075411686</EAN>
+   <ISBN>978-80-7541-168-6</ISBN>
+   <PRICE_VAT>199</PRICE_VAT>
+   <DESCRIPTION>
+
+Co se zdá, to je sen, vyspíme se, máme den. Tato dětská říkačka jako by předznamenávala skeptický přístup ke snům. Skutečně jsou to jen iluze, nesmysly, přeludy, pověry, bujná fantazie nebo babské tlachy?
+
+</DESCRIPTION>
+   <CATEGORYTEXT />
+   <URL>https://www.sckn.cz/sna-felix-londor-pn-533-802/</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/fd1dbe4159c771e2ca39a99fc6b52606.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>288</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>kniha, vázaná vazba</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Felix</NAME>
+         <SURNAME>Londor</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

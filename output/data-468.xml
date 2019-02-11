@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534240</ITEM_ID>
+   <PRODUCTNAME>Dokud nás láska nerozdělí</PRODUCTNAME>
+   <EAN>9788075437280</EAN>
+   <ISBN>978-80-7543-728-0</ISBN>
+   <PRICE_VAT>329</PRICE_VAT>
+   <DESCRIPTION>
+
+Advokát Walter Parker má před sebou nelehký úkol. Musí usvědčit podvodníka, který jeho rodině již dlouho ztrpčuje život. Situace se zkomplikuje, když Walterova dcera Scarlet přivede k rodinnému krbu muže, jehož vytrhla ze spárů smrti po uštknutí hadem. Rozhoří se bouřlivý příběh plný vášně, žárlivosti a odplaty, který směle konkuruje ohni sužované australské krajině.
+
+</DESCRIPTION>
+   <CATEGORYTEXT>
+Tištěné knihy | Krásná literatura | Próza | Ženské příběhy
+</CATEGORYTEXT>
+   <URL>
+https://www.sckn.cz/dokud-nas-laska-nerozd-li-mirja-hein-pn-534-240/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/ebbc01365c5b366fd5830f3aacacb899.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>168</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>kniha, vázaná vazba</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Jazyk</PARAM_NAME>
+         <VAL>český</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Mirja</NAME>
+         <SURNAME>Hein</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

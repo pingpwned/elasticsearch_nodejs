@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>522091</ITEM_ID>
+   <PRODUCTNAME>
+Fotografové šlechtici v zemích Koruny české. Photographer Aristocrats in the Czech Crown Lands
+</PRODUCTNAME>
+   <EAN>9788074800856</EAN>
+   <ISBN>978-80-7480-085-6</ISBN>
+   <PRICE_VAT>469</PRICE_VAT>
+   <DESCRIPTION>
+
+Vynález fotografie od roku 1839 zásadně změnil nejen způsob zachycování obrazů světa, ale také prožívání volného času. Nová zobrazovací technika během několika desetiletí zaujala velmi mnoho příslušníků šlechty a právě oni patří k první skupině fotografů, kteří fotografovali jen ze záliby a pro své potěšení. V českém prostředí se těmto prvním fotoamatérům u nás dosud věnovala minimální pozornost. Předložená kniha se pokouší tuto mezeru zaplnit. Vzhledem k rozsáhlosti látky, která zároveň souvisí s tím, že řada archivních zdrojů není zcela dostupná, je však jen úvodem k celé problematice. Stejně jako šlechtické rody neznaly hranice, neznala je ani fotografie. V osmdesátých letech 19. století fotografovaly v Evropě již stovky šlechticů. Tato publikace představuje výběr 39 osobností, z nichž každá zároveň představuje určitý typ jak v zájmu, tak v technickém uchopení a způsobu prezentace svých fotografií.
+
+</DESCRIPTION>
+   <CATEGORYTEXT>
+Tištěné knihy | Historie | Historické podobory | Historické prameny
+</CATEGORYTEXT>
+   <URL>
+https://www.sckn.cz/fotografove-slechtici-v-zemich-koruny-ceske-photographer-aristocrats-in-the-czech-crown-lands-pn-522-091/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/d92f8111e1934e7960c95ba080acb5a7.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>320</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>
+pevné desky, papírový potah (eventuálně s laminem), bez přebalu
+</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Jazyk</PARAM_NAME>
+         <VAL>český</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>1.</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Editor</ROLE>
+         <NAME>Jan</NAME>
+         <SURNAME>Vaca</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

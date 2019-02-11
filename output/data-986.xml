@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>522094</ITEM_ID>
+   <PRODUCTNAME>
+Nizozemská malba "historií". Dutch "historic" painting
+</PRODUCTNAME>
+   <EAN>9788074800924</EAN>
+   <ISBN>978-80-7480-092-4</ISBN>
+   <PRICE_VAT>1200</PRICE_VAT>
+   <DESCRIPTION>
+
+Třetí z řady publikací, zaměřených na nizozemské umění od 16. po 19. století z oblasti Holandska, Flander a posléze Belgie, vstupuje na pole náboženské a do oblasti moralizující satiry. Jde o umělecké ztvárnění "historií" z oblasti starozákonní a novozákonní, s poukazem na ronění slz Matky Boží při oběti Spasitele za hříšné lidstvo. V moralizujícím kontextu navazuje příznačná nizozemská satira vycházející z příkladů Hieronyma Bosche i Pietra Bruegela staršího. Dotýká se lidských nepravostí, církev nevyjímaje. Kniha s bohatým obrazovým doprovodem se zaměřuje na umění ze světských, církevních a restituovaných šlechtických sbírek, nacházejících se nejen na hradech a zámcích, dnes rozptýlená i do regionálních a centrálních institucí, zejména do Národní galerie.
+
+</DESCRIPTION>
+   <CATEGORYTEXT />
+   <URL>
+https://www.sckn.cz/nizozemska-malba-historii-dutch-historic-painting-pn-522-094/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/72b2374fcefa68786d9070f5b3030970.png
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>240</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Jazyk</PARAM_NAME>
+         <VAL>český</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>1.</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL />
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Marie</NAME>
+         <SURNAME>Mžyková</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

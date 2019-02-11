@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534636</ITEM_ID>
+   <PRODUCTNAME>Z pokolení na pokolení - Eric Foley</PRODUCTNAME>
+   <EAN>9788087081754</EAN>
+   <ISBN>978-80-87081-75-4</ISBN>
+   <PRICE_VAT>69</PRICE_VAT>
+   <DESCRIPTION>
+
+Příběh severokorejské rodiny, která dokázala udržet při životě poselství evangelia v jednom z nejbrutálnějších protikřesťanských režimů, jaké lidstvo zná, po více než padesát let.
+
+</DESCRIPTION>
+   <CATEGORYTEXT />
+   <URL>
+https://www.sckn.cz/z-pokoleni-na-pokoleni-eric-foley-pn-534-636/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/f345fe0ab1aaa9ba118d55819fa48683.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>140</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Eric</NAME>
+         <SURNAME>Foley</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Lucie Kellnerová</NAME>
+         <SURNAME>Kalvachová</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

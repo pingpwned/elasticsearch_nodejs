@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534080</ITEM_ID>
+   <PRODUCTNAME>V pasti lží</PRODUCTNAME>
+   <EAN>9788026713548</EAN>
+   <ISBN>978-80-267-1354-8</ISBN>
+   <PRICE_VAT>269</PRICE_VAT>
+   <DESCRIPTION>
+
+Cass si konečně dala svůj život do pořádku, je šťastně vdaná a pracuje jako učitelka. Jedné deštivé noci se ale na neosvětlené lesní cestě stane něco, co jí převrátí život naruby. Paralyzovaná výčitkami zapomíná, kde nechala zaparkované auto, jestli si vzala prášky nebo že si domluvila schůzku. V hlavě má jen zmatek a mrtvou ženu, kterou možná mohla zachránit. Je blázen? Nebo si s ní zahrává její mysl?
+
+</DESCRIPTION>
+   <CATEGORYTEXT>
+Tištěné knihy | Krásná literatura | Próza | Detektivky, napětí
+</CATEGORYTEXT>
+   <URL>
+https://www.sckn.cz/v-pasti-l-i-b-a-paris-pn-534-080/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/0b6845aba47b893f2b98b6584cadb58a.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>328</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>kniha, brožovaná vazba</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Jazyk</PARAM_NAME>
+         <VAL>český</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>B. A.</NAME>
+         <SURNAME>Paris</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Překladatel</ROLE>
+         <NAME>Karolina</NAME>
+         <SURNAME>Medková</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

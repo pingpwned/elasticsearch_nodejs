@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>533650</ITEM_ID>
+   <PRODUCTNAME>V lese s Červenou karkulkou</PRODUCTNAME>
+   <EAN>9788000051550</EAN>
+   <ISBN>978-80-00-05155-0</ISBN>
+   <PRICE_VAT>169</PRICE_VAT>
+   <DESCRIPTION>
+
+Jednoho dne se vydala Karkulka za babičkou. Musela sama a přes hluboký les. Potkala sice vlka, ale také poznala spoustu věcí, které dělají les lesem. Houby, stromy, zvířátka, sladké dobrůtky. Stopy lesa objevila i v útulné babiččině chaloupce. Příroda je zkrátka všudypřítomná a důležitá. Chcete se i vy naučit spolu s červenou holčičkou všechno o lese? Otevřete knížku a projdět se s Červenou karkulkou lesem i její pohádkou.
+
+</DESCRIPTION>
+   <CATEGORYTEXT>Tištěné knihy | Pro děti a mládež</CATEGORYTEXT>
+   <URL>
+https://www.sckn.cz/v-lese-s-cervenou-karkulkou-pn-533-650/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/65fcf17a812a6bc0660f587207df9cb6.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>12</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL />
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Jazyk</PARAM_NAME>
+         <VAL>český</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>05. 11. 2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>1.</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Štěpánka</NAME>
+         <SURNAME>Sekaninová</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

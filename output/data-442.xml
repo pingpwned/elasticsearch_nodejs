@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534274</ITEM_ID>
+   <PRODUCTNAME>Vůně posečené trávy</PRODUCTNAME>
+   <EAN>9788026713531</EAN>
+   <ISBN>978-80-267-1353-1</ISBN>
+   <PRICE_VAT>269</PRICE_VAT>
+   <DESCRIPTION>
+
+Již šesté vydání sbírky fejetonů oblíbené herečky Ivanky Deváté neztrácí na aktuálnosti ani půvabu. Nadčasové příběhy vykreslují nostalgii válečných a poválečných let, a přitom nepostrádají pořádnou porci laskavého humoru. Autorka se vrací ke klíčovým momentům svého života a na scénu uvádí rodinné příslušníky, spolužáky z gymnázia, ale i husy a králíky či vši a blechy.
+
+</DESCRIPTION>
+   <CATEGORYTEXT>Tištěné knihy | Krásná literatura</CATEGORYTEXT>
+   <URL>
+https://www.sckn.cz/vune-posecene-travy-pn-534-274/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/39377b891e04d92c968f85c2071784a3.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>240</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL />
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Jazyk</PARAM_NAME>
+         <VAL>český</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>15. 11. 2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>6</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Ivanka</NAME>
+         <SURNAME>Devátá</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

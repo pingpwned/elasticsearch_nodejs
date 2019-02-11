@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+<ITEM_ID>533766</ITEM_ID>
+<PRODUCTNAME>Osmnáctá chasa - František Malátek</PRODUCTNAME>
+<PRODUCT>Osmnáctá chasa - František Malátek</PRODUCT>
+<EAN>9788088068181</EAN>
+<ISBN>978-80-88068-18-1</ISBN>
+<PRICE_VAT>175</PRICE_VAT>
+<DESCRIPTION>
+
+Kronikářem zachycené vypravování pamětníků nás vrací do časů v 19. a 20. století na východočeské vsi, jimž se nevyhýbaly krvavé válečné konflikty. Dva z nich autor zažil, ty starší přibližuje z doslechu.
+
+</DESCRIPTION>
+<URL>
+https://www.sckn.cz/osmnacta-chasa-franti-scaron-ek-malatek-pn-533-766/
+</URL>
+<IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/ef4e2d2fd3ab5b8ba7b02c0875354bb7.jpg
+</IMGURL>
+<PARAM>
+<PARAM_NAME>Počet stran</PARAM_NAME>
+<VAL>180</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Datum vydání</PARAM_NAME>
+<VAL>2018</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Vazba</PARAM_NAME>
+<VAL>kniha, brožovaná vazba</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Pořadí vydání</PARAM_NAME>
+<VAL>neurčeno</VAL>
+</PARAM>
+<CONTRIBUTOR>
+<ROLE>Autor</ROLE>
+<NAME>František</NAME>
+<SURNAME>Malátek</SURNAME>
+</CONTRIBUTOR>
+<THEMATIC_GROUP>999 - nezařazeno</THEMATIC_GROUP>
+</SHOPITEM>

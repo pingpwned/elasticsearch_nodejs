@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534235</ITEM_ID>
+   <PRODUCTNAME>Hledá se Flíček</PRODUCTNAME>
+   <EAN>9788075437327</EAN>
+   <ISBN>978-80-7543-732-7</ISBN>
+   <PRICE_VAT>149</PRICE_VAT>
+   <DESCRIPTION>
+
+Proč Flíček všechny Barborčiny kamarády tak nadšeně vítá a má je tolik rád? Bára žárlí a s kamarády se málem rozkmotří. Jednoho dne si Flíček usmyslí, že se za svou paničkou a jejími kamarády vydá do školy autobusem....
+
+</DESCRIPTION>
+   <CATEGORYTEXT>
+Tištěné knihy | Pro děti a mládež | Pro děti 3-7 let
+</CATEGORYTEXT>
+   <URL>
+https://www.sckn.cz/hleda-se-fli-ek-otilie-k-grezlova-pn-534-235/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/4f27840204326c50a1f75bede432c87b.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>86</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>kniha, vázaná vazba</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Jazyk</PARAM_NAME>
+         <VAL>český</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Otilie K.</NAME>
+         <SURNAME>Grezlová</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

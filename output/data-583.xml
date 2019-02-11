@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534115</ITEM_ID>
+   <PRODUCTNAME>Doběhnout strach</PRODUCTNAME>
+   <EAN>9788026422174</EAN>
+   <ISBN>978-80-264-2217-4</ISBN>
+   <PRICE_VAT>349</PRICE_VAT>
+   <DESCRIPTION>
+
+Když se Kristině začalo v životě vše hroutit, začala běhat. Stala se z ní ultramaratonská běžkyně a pokořila několik světových rekordů. Chtěla však ze svého běhu učinit víc. Rozhodla se, že běháním zkusí bořit předsudky a spojovat lidi. Proto se vydala na cestu, jíž by se obávali i mnohem zkušenější cestovatelé a dobrodruhové. Vydala se sama napříč Íránem. Nechte se strhnout vyprávěním o mnoha překážkách, ale i lidskosti, pohostinnosti a potřebě důvěry v druhé.
+
+</DESCRIPTION>
+   <CATEGORYTEXT>Tištěné knihy | Krásná literatura | Próza</CATEGORYTEXT>
+   <URL>https://www.sckn.cz/dobehnout-strach-pn-534-115/</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/bf376a8988e0f51033f3796c2edc4846.png
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL />
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Jazyk</PARAM_NAME>
+         <VAL>český</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>12. 11. 2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>1.</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Kristina</NAME>
+         <SURNAME>Paltén</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Desiréé</NAME>
+         <SURNAME>Wahren Stattin</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

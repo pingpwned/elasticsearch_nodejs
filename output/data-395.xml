@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534356</ITEM_ID>
+   <PRODUCTNAME>Povídky z ostrovů a pobřeží nevážně i vážně</PRODUCTNAME>
+   <EAN>9788085763997</EAN>
+   <ISBN>978-80-85763-99-7</ISBN>
+   <PRICE_VAT>75</PRICE_VAT>
+   <DESCRIPTION>
+
+V pořadí již III. pokračování krátkých humorných povídek, skutečných příběhů, nás zavede na ostrovy Středomoří či do blízkého Atlantiku. Autor zaznamenal jednoduché, komické situace, popsané humornou formou a lidovějším slangem popisujícím nejen onu událost, ale i okolní prostředí a zajímavosti. Poprvé jsou zařazeny i dvě delší, vážné povídky o pátrání po minulosti na dvou ostrovech, kam se autor po letech vrátil. Ilustraci, na rozdíl od předchozích dílů ilustrovaných R. Janoštíkem -„Rendou“, brilantně provedl brněnský hudebník a ilustrátor Libor Machata. Knížka obsahuje 15 povídek na 76 stranách a cca 20 ilustrací.
+
+</DESCRIPTION>
+   <CATEGORYTEXT>Tištěné knihy | Krásná literatura</CATEGORYTEXT>
+   <URL>
+https://www.sckn.cz/povidky-z-ostrovu-a-pobrezi-nevazne-i-vazne-pn-534-356/
+</URL>
+   <IMGURL />
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>76</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>
+měkké desky, lepená brožura oříznutá po třech stranách
+</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Jazyk</PARAM_NAME>
+         <VAL>český</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Rozměr</PARAM_NAME>
+         <VAL>130 x 200</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>12. 11. 2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>1.</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Dušan</NAME>
+         <SURNAME>Procházka</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Ilustrátor</ROLE>
+         <NAME>Libor, Jan</NAME>
+         <SURNAME>Machata, Peschl</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Editor</ROLE>
+         <NAME>Roman</NAME>
+         <SURNAME>Ravin</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

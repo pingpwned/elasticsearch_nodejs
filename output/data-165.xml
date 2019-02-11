@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534602</ITEM_ID>
+   <PRODUCTNAME>
+Star Trek: Éra ztracených - 2311: Hadi v rozvalinách - David R. George III
+</PRODUCTNAME>
+   <EAN>9788074564345</EAN>
+   <ISBN>978-80-7456-434-5</ISBN>
+   <PRICE_VAT>318</PRICE_VAT>
+   <DESCRIPTION>
+
+Byl to rok hanby, rok, který si pozdější generace budou pamatovat jako ten, jenž změnil průběh dějin za cenu tisíců životů. Rok, kdy se udál Tomedský incident.
+
+</DESCRIPTION>
+   <CATEGORYTEXT />
+   <URL>
+https://www.sckn.cz/star-trek-era-ztracenych-2311-hadi-v-rozvalinach-david-r-george-iii-pn-534-602/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/08c537caa9d96fcb80d104aaf3215890.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>364</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>kniha, brožovaná vazba</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>David R. George</NAME>
+         <SURNAME>III</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Jiří</NAME>
+         <SURNAME>Jaňák</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

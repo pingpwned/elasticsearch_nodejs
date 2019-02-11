@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>533798</ITEM_ID>
+   <PRODUCTNAME>Usagi Yojimbo: Zloději a špehové - Stan Sakai</PRODUCTNAME>
+   <EAN>9788074495984</EAN>
+   <ISBN>978-80-7449-598-4</ISBN>
+   <PRICE_VAT>229</PRICE_VAT>
+   <DESCRIPTION>
+
+Miyamoto Usagi spojí své síly se zlodějem a samurajem, aby se postavili nebezpečnému černému trhu. Potká ronina, který přišel v souboji o ruku... ale ještě mu zbylo pár triků v rukávu. Pomůže loajálnímu samuraji ochránit vzácný poklad.
+
+</DESCRIPTION>
+   <CATEGORYTEXT />
+   <URL>
+https://www.sckn.cz/usagi-yojimbo-zlod-ji-a-scaron-pehove-stan-sakai-pn-533-798/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/e8e8f6ac6e470dbbb168d6769744105c.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>184</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>kniha, brožovaná vazba</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Stan</NAME>
+         <SURNAME>Sakai</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Stan</NAME>
+         <SURNAME>Sakai</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Ľudovít</NAME>
+         <SURNAME>Plata</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

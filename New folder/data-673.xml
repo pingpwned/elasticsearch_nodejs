@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+<ITEM_ID>534020</ITEM_ID>
+<PRODUCTNAME>Sen jednoho estébáka - Hynek Mařák</PRODUCTNAME>
+<PRODUCT>Sen jednoho estébáka - Hynek Mařák</PRODUCT>
+<EAN>9788075362391</EAN>
+<ISBN>978-80-7536-239-1</ISBN>
+<PRICE_VAT>249</PRICE_VAT>
+<DESCRIPTION>
+
+Hynek Mařák přichází s humorem sobě vlastním se svou druhou knihou, souborem žánrově různorodých povídek sahajících od sci-fi přes historický román až k magickému realismu.
+
+</DESCRIPTION>
+<URL>
+https://www.sckn.cz/sen-jednoho-estebaka-hynek-ma-ak-pn-534-020/
+</URL>
+<IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/db148547907f157438d7148f243d0bbd.jpg
+</IMGURL>
+<PARAM>
+<PARAM_NAME>Počet stran</PARAM_NAME>
+<VAL>327</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Datum vydání</PARAM_NAME>
+<VAL>2018</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Pořadí vydání</PARAM_NAME>
+<VAL>neurčeno</VAL>
+</PARAM>
+<CONTRIBUTOR>
+<ROLE>Autor</ROLE>
+<NAME>Hynek</NAME>
+<SURNAME>Mařák</SURNAME>
+</CONTRIBUTOR>
+<THEMATIC_GROUP>999 - nezařazeno</THEMATIC_GROUP>
+</SHOPITEM>

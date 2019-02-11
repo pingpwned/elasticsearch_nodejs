@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>533948</ITEM_ID>
+   <PRODUCTNAME>Vlaky</PRODUCTNAME>
+   <EAN>9788075672391</EAN>
+   <ISBN>978-80-7567-239-1</ISBN>
+   <PRICE_VAT>119</PRICE_VAT>
+   <DESCRIPTION>
+
+Určitě jste se aspoň jednou nebo i víckrát svezli vlakem. Ale víte, kdo ho vynalezl? Jaké typy vlaků jezdily dřív a jaké jezdí dnes? A jaké budou v budoucnu ? V této knize se seznámíte s historií železnice.
+
+</DESCRIPTION>
+   <CATEGORYTEXT />
+   <URL>https://www.sckn.cz/vlaky-pn-533-948/</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/3d99989da8440d994eb09cdd512bfb14.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>46</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>kniha, vázaná vazba</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS />
+</SHOPITEM>

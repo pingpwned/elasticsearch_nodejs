@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+<ITEM_ID>533819</ITEM_ID>
+<PRODUCTNAME>Deník mého mizení - Camilla Grebe</PRODUCTNAME>
+<PRODUCT>Deník mého mizení - Camilla Grebe</PRODUCT>
+<EAN>9788074332456</EAN>
+<ISBN>978-80-7433-245-6</ISBN>
+<PRICE_VAT>329</PRICE_VAT>
+<DESCRIPTION>
+
+Uprostřed hluboké zimy klopýtá lesem u švédského Ormbergu osamělá žena. Paže má pokryté škrábanci, nohy bosé a nepamatuje si, kdo je.
+
+</DESCRIPTION>
+<URL>
+https://www.sckn.cz/denik-meho-mizeni-camilla-grebe-pn-533-819/
+</URL>
+<IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/46693f9a66cc5462310bda6e212bcc77.jpg
+</IMGURL>
+<PARAM>
+<PARAM_NAME>Počet stran</PARAM_NAME>
+<VAL>352</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Datum vydání</PARAM_NAME>
+<VAL>2018</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Vazba</PARAM_NAME>
+<VAL>kniha, vázaná vazba</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Pořadí vydání</PARAM_NAME>
+<VAL>neurčeno</VAL>
+</PARAM>
+<CONTRIBUTOR>
+<ROLE>Autor</ROLE>
+<NAME>Camilla</NAME>
+<SURNAME>Grebe</SURNAME>
+</CONTRIBUTOR>
+<CONTRIBUTOR>
+<ROLE>Autor</ROLE>
+<NAME>Eva</NAME>
+<SURNAME>Nováčková</SURNAME>
+</CONTRIBUTOR>
+<THEMATIC_GROUP>999 - nezařazeno</THEMATIC_GROUP>
+</SHOPITEM>

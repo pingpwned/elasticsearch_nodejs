@@ -1,0 +1,40 @@
+<SHOPITEM>
+
+    <ITEM_ID></ITEM_ID>
+
+    <PRODUCTNAME></PRODUCTNAME>
+
+    <EAN></EAN>
+
+    <ISBN></ISBN>
+
+    <PRICE_VAT></PRICE_VAT>
+
+    <DESCRIPTION></DESCRIPTION>
+
+    <CATEGORYTEXT></CATEGORYTEXT>
+
+    <URL></URL>
+
+    <IMGURL></IMGURL>
+
+    <PARAMS>
+
+        <PARAM>
+            <PARAM_NAME></PARAM_NAME>
+            <VAL></VAL>
+        </PARAM>
+        
+    </PARAMS>
+    
+    <CONTRIBUTORS>
+
+        <CONTRIBUTOR>
+            <ROLE></ROLE>
+            <NAME></NAME>
+            <SURNAME></SURNAME>
+        </CONTRIBUTOR>
+
+    </CONTRIBUTORS>
+
+</SHOPITEM>

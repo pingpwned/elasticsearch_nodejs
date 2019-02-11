@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534095</ITEM_ID>
+   <PRODUCTNAME>Sepsání – užívání – uchovávání - Tomáš Velička</PRODUCTNAME>
+   <EAN>9788088013709</EAN>
+   <ISBN>978-80-88013-70-9</ISBN>
+   <PRICE_VAT>330</PRICE_VAT>
+   <DESCRIPTION>
+
+Předmětem zájmu čtvrtého svazku řady Edice a studie SOA Litoměřice jsou panovnické písemnosti 13. až do roku 1526, které byly určeny pro česká královská města.
+
+</DESCRIPTION>
+   <CATEGORYTEXT />
+   <URL>
+https://www.sckn.cz/sepsani-ndash-u-ivani-ndash-uchovavani-toma-scaron-veli-ka-pn-534-095/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/c71802bb064a4b9f301df48262297a18.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>224</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>kniha, vázaná vazba</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Tomáš</NAME>
+         <SURNAME>Velička</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

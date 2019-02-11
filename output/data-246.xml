@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534522</ITEM_ID>
+   <PRODUCTNAME>Síla meče - Wilbur Smith</PRODUCTNAME>
+   <EAN>9788075437907</EAN>
+   <ISBN>978-80-7543-790-7</ISBN>
+   <PRICE_VAT>199</PRICE_VAT>
+   <DESCRIPTION>
+
+Válečná vřava, láska i nenávist, intriky i ztráty, to jsou kulisy dramatického příběhu nevlastních bratrů, synů Certaine Courtneyové, ženy tvrdé jako diamant. Manfred vyrostl s otcem, je hrdý na Afriku a své burské předky.
+
+</DESCRIPTION>
+   <CATEGORYTEXT>
+E-knihy | Krásná literatura | Próza | Společenské romány
+</CATEGORYTEXT>
+   <URL>
+https://www.sckn.cz/sila-me-e-wilbur-smith-pn-534-522/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/43de481c76ede6e1a4b83b5e207e40d9.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>544</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Michal</NAME>
+         <SURNAME>Švejda</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Wilbur</NAME>
+         <SURNAME>Smith</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

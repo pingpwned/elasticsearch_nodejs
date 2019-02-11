@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>533950</ITEM_ID>
+   <PRODUCTNAME>Pojďme si číst pohádky</PRODUCTNAME>
+   <EAN>9788075672407</EAN>
+   <ISBN>978-80-7567-240-7</ISBN>
+   <PRICE_VAT>359</PRICE_VAT>
+   <DESCRIPTION>
+
+Báječná kolekce 25 nejznámějších pohádek na více než 450 stránkách. Krásné obrázky rozvíjí fantazii malých i velkých. Pohádky jsou vysázené velkými písmenky, jsou vhodné i pro čtení genetickou metodou.
+
+</DESCRIPTION>
+   <CATEGORYTEXT />
+   <URL>
+https://www.sckn.cz/poj-me-si-ist-pohadky-pn-533-950/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/28386abf1130d5a18ade507f00c64d91.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>462</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>kniha, vázaná vazba</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>David</NAME>
+         <SURNAME>Kasl</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Dita</NAME>
+         <SURNAME>Křišťanová</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

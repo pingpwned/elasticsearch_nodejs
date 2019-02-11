@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+<ITEM_ID>534216</ITEM_ID>
+<PRODUCTNAME>Divoký kluk</PRODUCTNAME>
+<PRODUCT>Divoký kluk</PRODUCT>
+<EAN>9788020718624</EAN>
+<ISBN>978-80-207-1862-4</ISBN>
+<PRICE_VAT>259</PRICE_VAT>
+<DESCRIPTION>
+
+Knížka bezprostředně spojená s italským bestsellerem Osm hor. Spojuje v sobě deník, filozofickou meditaci, ale stejně tak i cestovní zápisky.
+
+</DESCRIPTION>
+<CATEGORYTEXT>
+Tištěné knihy | Krásná literatura | Próza | Světová próza
+</CATEGORYTEXT>
+<URL>
+https://www.sckn.cz/divoky-kluk-paolo-cognetti-pn-534-216/
+</URL>
+<IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/ea84acdd513d3c016eda55a394449efb.jpg
+</IMGURL>
+<PARAM>
+<PARAM_NAME>Počet stran</PARAM_NAME>
+<VAL>160</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Datum vydání</PARAM_NAME>
+<VAL>2018</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Vazba</PARAM_NAME>
+<VAL>kniha, vázaná vazba</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Pořadí vydání</PARAM_NAME>
+<VAL>neurčeno</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Jazyk</PARAM_NAME>
+<VAL>český</VAL>
+</PARAM>
+<CONTRIBUTOR>
+<ROLE>Autor</ROLE>
+<NAME>Paolo</NAME>
+<SURNAME>Cognetti</SURNAME>
+</CONTRIBUTOR>
+<CONTRIBUTOR>
+<ROLE>Překladatel</ROLE>
+<NAME>Alice</NAME>
+<SURNAME>Flemrová</SURNAME>
+</CONTRIBUTOR>
+<THEMATIC_GROUP>13 - Krásná literatura</THEMATIC_GROUP>
+</SHOPITEM>

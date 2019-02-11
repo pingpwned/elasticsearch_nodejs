@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534422</ITEM_ID>
+   <PRODUCTNAME>Jak umírá demokracie</PRODUCTNAME>
+   <EAN>9788072603947</EAN>
+   <ISBN>978-80-7260-394-7</ISBN>
+   <PRICE_VAT>347</PRICE_VAT>
+   <DESCRIPTION>
+
+Když Donald Trump vyhrál volby, mnozí si položili otázku, o níž si nikdo nemyslel, že si ji budeme klást: Je demokracie v USA v ohrožení?
+
+</DESCRIPTION>
+   <CATEGORYTEXT>
+Tištěné knihy | Naučná | Společenské vědy | Moderní svět a civilizace
+</CATEGORYTEXT>
+   <URL>
+https://www.sckn.cz/jak-umira-demokracie-steven-levitsky-daniel-ziblatt-pn-534-422/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/8746c953a76afe97be220cffcf293878.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>336</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>kniha, brožovaná vazba</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Jazyk</PARAM_NAME>
+         <VAL>český</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Steven</NAME>
+         <SURNAME>Levitsky</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Daniel</NAME>
+         <SURNAME>Ziblatt</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Překladatel</ROLE>
+         <NAME>Jaroslav</NAME>
+         <SURNAME>Veis</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

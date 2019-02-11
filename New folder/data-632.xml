@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+<ITEM_ID>534063</ITEM_ID>
+<PRODUCTNAME>Jmenuju se Martin</PRODUCTNAME>
+<PRODUCT>Jmenuju se Martin</PRODUCT>
+<EAN>9788026422082</EAN>
+<ISBN>978-80-264-2208-2</ISBN>
+<PRICE_VAT>329</PRICE_VAT>
+<DESCRIPTION>
+
+Cestovatelské zážitky a tipy od jednoho z nejvýraznějších objevů české YouTube scén. Sledujete všechny ty lidi na sociálních sítích a říkáte si, jak to dělají, že jsou pořád na cestách?
+
+</DESCRIPTION>
+<CATEGORYTEXT>Tištěné knihy | Cestování, mapy</CATEGORYTEXT>
+<URL>
+https://www.sckn.cz/jmenuju-se-martin-martin-carev-pn-534-063/
+</URL>
+<IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/969f73fdabf8a51b842a18156734fe38.jpg
+</IMGURL>
+<PARAM>
+<PARAM_NAME>Počet stran</PARAM_NAME>
+<VAL>208</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Datum vydání</PARAM_NAME>
+<VAL>2018</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Vazba</PARAM_NAME>
+<VAL>kniha, vázaná vazba</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Pořadí vydání</PARAM_NAME>
+<VAL>neurčeno</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Jazyk</PARAM_NAME>
+<VAL>český</VAL>
+</PARAM>
+<CONTRIBUTOR>
+<ROLE>Autor</ROLE>
+<NAME>Martin</NAME>
+<SURNAME>Carev</SURNAME>
+</CONTRIBUTOR>
+<THEMATIC_GROUP>11- Tělovýchova a sport</THEMATIC_GROUP>
+</SHOPITEM>

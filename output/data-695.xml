@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>533996</ITEM_ID>
+   <PRODUCTNAME>Loď - Vladislav Vlček</PRODUCTNAME>
+   <EAN>9788075575784</EAN>
+   <ISBN>978-80-7557-578-4</ISBN>
+   <PRICE_VAT>109</PRICE_VAT>
+   <DESCRIPTION>
+
+Akční sci-fi román. Konec světa předpovězený mayským kalendářem nenastal. Země se dál otáčí kolem své hvězdy a lety do vesmíru jsou stále extrémně nákladné a technologicky náročné.
+
+</DESCRIPTION>
+   <CATEGORYTEXT />
+   <URL>https://www.sckn.cz/lo-vladislav-vl-ek-pn-533-996/</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/476cf073a662dccc07a6017cf5571232.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>248</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Vladislav</NAME>
+         <SURNAME>Vlček</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534566</ITEM_ID>
+   <PRODUCTNAME>Ve stínu apokalypsy</PRODUCTNAME>
+   <EAN>9788075571564</EAN>
+   <ISBN>978-80-7557-156-4</ISBN>
+   <PRICE_VAT>555</PRICE_VAT>
+   <DESCRIPTION>
+ Antologie české fantastiky. 
+</DESCRIPTION>
+   <CATEGORYTEXT />
+   <URL>
+https://www.sckn.cz/ve-stinu-apokalypsy-pn-534-566/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/81a3b904aa46c15a8cf51e6644f0b8dd.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>584</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>kniha, vázaná vazba</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS />
+</SHOPITEM>

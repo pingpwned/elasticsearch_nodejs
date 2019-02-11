@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+<ITEM_ID>533963</ITEM_ID>
+<PRODUCTNAME>Česká republika</PRODUCTNAME>
+<PRODUCT>Česká republika</PRODUCT>
+<EAN>9788075672827</EAN>
+<ISBN>978-80-7567-282-7</ISBN>
+<PRICE_VAT>199</PRICE_VAT>
+<DESCRIPTION>
+
+Fakta, historie, zajímavosti, osobnosti, historické památky, objevy – 100 nejvýznamnějších informací o České republice. Může sloužit jako základní přehled pro malé školáky.
+
+</DESCRIPTION>
+<URL>https://www.sckn.cz/-eska-republika-pn-533-963/</URL>
+<IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/e9060130c4a85de6882850e9c4f61a7d.jpg
+</IMGURL>
+<PARAM>
+<PARAM_NAME>Počet stran</PARAM_NAME>
+<VAL>126</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Datum vydání</PARAM_NAME>
+<VAL>2018</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Vazba</PARAM_NAME>
+<VAL>kniha, vázaná vazba</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Pořadí vydání</PARAM_NAME>
+<VAL>neurčeno</VAL>
+</PARAM>
+<CONTRIBUTOR>
+<ROLE>Autor</ROLE>
+<NAME>Dita</NAME>
+<SURNAME>Křišťanová</SURNAME>
+</CONTRIBUTOR>
+<CONTRIBUTOR>
+<ROLE>Autor</ROLE>
+<NAME>Martin</NAME>
+<SURNAME>Izák</SURNAME>
+</CONTRIBUTOR>
+<CONTRIBUTOR>
+<ROLE>Autor</ROLE>
+<NAME>Lenka</NAME>
+<SURNAME>Izáková</SURNAME>
+</CONTRIBUTOR>
+<THEMATIC_GROUP>999 - nezařazeno</THEMATIC_GROUP>
+</SHOPITEM>

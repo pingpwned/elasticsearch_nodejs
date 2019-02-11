@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534534</ITEM_ID>
+   <PRODUCTNAME>Objev univerzální jednoty - Pavel Khom, Jiří Khom</PRODUCTNAME>
+   <EAN>9788075480330</EAN>
+   <ISBN>978-80-7548-033-0</ISBN>
+   <PRICE_VAT>189</PRICE_VAT>
+   <DESCRIPTION>
+
+Kniha obsahuje léčivé geometrické obrazce – MANDALY a „svatý grál“ jako Mandalu světa. Vysvětluje podstatu světla a jeho rychlosti.
+
+</DESCRIPTION>
+   <CATEGORYTEXT>E-knihy | Astrologie, ezoterika | Mystika, kabala</CATEGORYTEXT>
+   <URL>
+https://www.sckn.cz/objev-univerzalni-jednoty-pavel-khom-ji-i-khom-pn-534-534/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/c8eec6d090515fb8361d657c96ee70c0.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>358</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Pavel</NAME>
+         <SURNAME>Khom</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Jiří</NAME>
+         <SURNAME>Khom</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

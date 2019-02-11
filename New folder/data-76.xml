@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+<ITEM_ID>534699</ITEM_ID>
+<PRODUCTNAME>Life on Earth</PRODUCTNAME>
+<PRODUCT>Life on Earth</PRODUCT>
+<EAN>9780008294281</EAN>
+<ISBN>978-0-00-829428-1</ISBN>
+<PRICE_VAT>790</PRICE_VAT>
+<DESCRIPTION>
+
+A new, beautifully illustrated edition of David Attenborough’s groundbreaking Life on Earth. David Attenborough’s unforgettable meeting with gorillas became an iconic moment for millions of television viewers.
+
+</DESCRIPTION>
+<URL>https://www.sckn.cz/life-on-earth-pn-534-699/</URL>
+<IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/c4cd0451acd878410584895023705f47.jpg
+</IMGURL>
+<PARAM>
+<PARAM_NAME>Počet stran</PARAM_NAME>
+<VAL>352</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Datum vydání</PARAM_NAME>
+<VAL>2018</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Pořadí vydání</PARAM_NAME>
+<VAL>neurčeno</VAL>
+</PARAM>
+<CONTRIBUTOR>
+<ROLE>Autor</ROLE>
+<NAME>David</NAME>
+<SURNAME>Attenborough</SURNAME>
+</CONTRIBUTOR>
+<THEMATIC_GROUP>999 - nezařazeno</THEMATIC_GROUP>
+</SHOPITEM>

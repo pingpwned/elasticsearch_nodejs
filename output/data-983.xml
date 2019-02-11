@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>522105</ITEM_ID>
+   <PRODUCTNAME>Fotografické ateliéry na území zemí Koruny české</PRODUCTNAME>
+   <EAN>9788074800900</EAN>
+   <ISBN>978-80-7480-090-0</ISBN>
+   <PRICE_VAT>550</PRICE_VAT>
+   <DESCRIPTION>
+
+Kniha Fotografické ateliéry na území zemí Koruny české poprvé v našem prostředí představuje široké veřejnosti skryté možnosti historických fotografií jako zdroje poznatků o profesionálních fotografech a jejich ateliérech. Jedná se o třetí svazek edice Svědectví fotografie, v této edici dosud vyšly publikace Volný čas objektivem šlechty a Fotografové šlechtici v zemích Koruny české.
+
+</DESCRIPTION>
+   <CATEGORYTEXT>
+Tištěné knihy | Historie | Historické podobory | Historické prameny
+</CATEGORYTEXT>
+   <URL>
+https://www.sckn.cz/fotograficke-ateliery-na-uzemi-zemi-koruny-ceske-pn-522-105/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/7163fc4382228059239120b6f9bcb2ae.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>320</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>
+pevné desky, papírový potah (eventuálně s laminem), bez přebalu
+</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Jazyk</PARAM_NAME>
+         <VAL>český</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>1.</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Pavel</NAME>
+         <SURNAME>Scheufler</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

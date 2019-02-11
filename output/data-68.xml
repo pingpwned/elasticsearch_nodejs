@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534709</ITEM_ID>
+   <PRODUCTNAME>Tom Gates - Můj libovej svět - Liz Pichon</PRODUCTNAME>
+   <EAN>9788075297242</EAN>
+   <ISBN>978-80-7529-724-2</ISBN>
+   <PRICE_VAT>249</PRICE_VAT>
+   <DESCRIPTION>
+
+Tom Gates toho má ažaž – hodně kreslí, má s kámošem kapelu (no, tak rozhodně už maj název), fakt vynalézavě prudí svou otravnou ségru, louská komiksy, snaží se zapůsobit na Amy Porterovou...
+
+</DESCRIPTION>
+   <CATEGORYTEXT />
+   <URL>
+https://www.sckn.cz/tom-gates-m-j-libovej-sv-t-liz-pichon-pn-534-709/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/0a455438f1658aace532eff06edf712b.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>256</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>kniha, brožovaná vazba</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Liz</NAME>
+         <SURNAME>Pichon</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

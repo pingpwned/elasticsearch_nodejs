@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534296</ITEM_ID>
+   <PRODUCTNAME>Dotyky nebe a země</PRODUCTNAME>
+   <EAN>9788072664337</EAN>
+   <ISBN>978-80-7266-433-7</ISBN>
+   <PRICE_VAT>30</PRICE_VAT>
+   <DESCRIPTION>
+
+Sedm událostí a předmětů, jejichž historii a autentičnost na základě dostupných pramenů mapuje tento sborník, může mít svůj hluboký význam: věřícího ve víře utvrdí, hledajícího nasměrují, nevěřícího nahlodají... Proto je tato publikace vhodná prakticky pro každého. Obsah: Turínské plátno jako multidisciplinární problém (Mons. František Radkovský, exkurz P. Pavel Zahradníček); Rouška z Manopella se „Svatou Tváří“ (Ondřej Prokop Vaněček); Zázrak zázraků v Calandě (Mieczysław Piotrowski, TChr); Nositel Nobelovy ceny svědkem zázraku v Lurdech (P. Martin Sedloň, OMI); Plačící Madona v Syrakusách – před objektivem kamery (P. Pavel Zahradníček); André Frossard: Bůh je, já jsem ho potkal! (Mieczysław Piotrowski, TChr); Sokólka – hostie přeměněná na srdeční tkáň (Mieczysław Piotrowski, TChr). Kniha volnou formou navazuje na předchozí úspěšnou publikaci Dějiny, jak je možná neznáte. Vyšlo s církevním schválením.
+
+</DESCRIPTION>
+   <CATEGORYTEXT>
+Tištěné knihy | Filozofie a náboženství | Křesťanství
+</CATEGORYTEXT>
+   <URL>https://www.sckn.cz/dotyky-nebe-a-zeme-pn-534-296/</URL>
+   <IMGURL />
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>128</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>kniha, brožovaná vazba</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Jazyk</PARAM_NAME>
+         <VAL>český</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Rozměr</PARAM_NAME>
+         <VAL>A5</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>09. 11. 2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>1.</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Editor</ROLE>
+         <NAME>Marek</NAME>
+         <SURNAME>Dunda</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Editor</ROLE>
+         <NAME>Pavel</NAME>
+         <SURNAME>Zahradníček</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534112</ITEM_ID>
+   <PRODUCTNAME>Nejfake</PRODUCTNAME>
+   <EAN>9788026422273</EAN>
+   <ISBN>978-80-264-2227-3</ISBN>
+   <PRICE_VAT>110</PRICE_VAT>
+   <DESCRIPTION>
+
+Už 10 let vystupuji na internetu jako Nejfake, ale můj příběh nebyl nikdy kompletní. Teprve až nyní můžete díky této knize získat poslední část mozaiky a pochopit, kým Nejfake doopravdy je. Mohl jsem o tom natočit video, mohl jsem napsat status na sociální síť, mohl jsem nahrát fotku na Instagram bez šátku… Ale já se rozhodl pro knihu. Knihu, která je tak trochu jiná než ostatní. Nejen že poznáte můj příběh, ale ten obyčejný papír můžete díky svojí představivosti přeměnit v něco jedinečného.
+
+</DESCRIPTION>
+   <CATEGORYTEXT>Tištěné knihy | Krásná literatura | Próza</CATEGORYTEXT>
+   <URL>https://www.sckn.cz/nejfake-pn-534-112/</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/df818eb6d98af6f7bcbb2e1ab131872a.png
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL />
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Jazyk</PARAM_NAME>
+         <VAL>český</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>12. 11. 2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>1.</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS />
+</SHOPITEM>

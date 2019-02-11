@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534470</ITEM_ID>
+   <PRODUCTNAME>Učebnice ájurvédy II. - Vasant Dattatray Lad</PRODUCTNAME>
+   <EAN>9788075004383</EAN>
+   <ISBN>978-80-7500-438-3</ISBN>
+   <PRICE_VAT>445</PRICE_VAT>
+   <DESCRIPTION>
+
+Jádro ájurvédské praxe, tak jak nám ho představuje Dr. Lad, spočívá v pozorování každého momentu prostřednictvím plynulého, nepřerušovaného toku pozornosti, při němž nedochází k žádné projekci toho, co by mohlo nebo mělo být.
+
+</DESCRIPTION>
+   <CATEGORYTEXT>
+E-knihy | Zdraví a životní styl | Zdraví | Alternativní medicína
+</CATEGORYTEXT>
+   <URL>
+https://www.sckn.cz/u-ebnice-ajurvedy-ii-vasant-dattatray-lad-pn-534-470/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/38042fecfde9dcddc811e1646cc02ecf.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>423</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Vasant Dattatray</NAME>
+         <SURNAME>Lad</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Hana</NAME>
+         <SURNAME>Eassey</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

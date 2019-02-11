@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534390</ITEM_ID>
+   <PRODUCTNAME>Noční oceán</PRODUCTNAME>
+   <EAN>9788074329296</EAN>
+   <ISBN>978-80-7432-929-6</ISBN>
+   <PRICE_VAT>349</PRICE_VAT>
+   <DESCRIPTION>
+
+Doktorka Marina Willetová to vůbec nemá lehké, její manžel Charlie si totiž vypěstoval závislost na autorovi hororů H. P. Lovecraftovi.
+
+</DESCRIPTION>
+   <CATEGORYTEXT>
+Tištěné knihy | Krásná literatura | Próza | Světová próza
+</CATEGORYTEXT>
+   <URL>
+https://www.sckn.cz/no-ni-ocean-paul-la-farge-pn-534-390/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/be08518084f31eab5bbbc03764c73df9.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>360</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>kniha, vázaná vazba</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Jazyk</PARAM_NAME>
+         <VAL>český</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Paul La</NAME>
+         <SURNAME>Farge</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Překladatel</ROLE>
+         <NAME>Petr</NAME>
+         <SURNAME>Kotrle</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

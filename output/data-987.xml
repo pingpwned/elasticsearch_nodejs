@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>522093</ITEM_ID>
+   <PRODUCTNAME>
+Mariánský sloup v Poličce - Restaurování. Interdisciplinární restaurátorský průzkum
+</PRODUCTNAME>
+   <EAN>9788074800948</EAN>
+   <ISBN>978-80-7480-094-8</ISBN>
+   <PRICE_VAT>350</PRICE_VAT>
+   <DESCRIPTION>
+
+Publikace popisuje výsledky restaurátorského interdisciplinárního, na restaurátorskou praxi zaměřeného průzkumu pilíře se sousoším Panny Marie (Immaculata), jehož autorem je litomyšlský sochař Jiří František Pacák a který stojí od roku 1731 na náměstí v městě Pličce. V mnoha ohledech splňuje parametry ukázkového pilotního projektu. Provedení těchto průzkumů bylo vzhledem k významu sochařského díla pro český památkový fond považováno za nezbytné, bez jejich výsledků by totiž nemohly být při restaurátorském zásahu využívány relevantní recentní materiály a technologie a respektovány všechny dochované a poznané (rozlišené) památkové hodnoty. Průzkumy se uskutečnily v letech 2011 až 2012.
+
+</DESCRIPTION>
+   <CATEGORYTEXT />
+   <URL>
+https://www.sckn.cz/mariansky-sloup-v-policce-restaurovani-interdisciplinarni-restauratorsky-pruzkum-pn-522-093/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/0ae9c0bfd6179be69dab43ada01150ed.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>206</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Jazyk</PARAM_NAME>
+         <VAL>český</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>1.</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Vratislav</NAME>
+         <SURNAME>Nejedlý</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Petr</NAME>
+         <SURNAME>Gláser</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

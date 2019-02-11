@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>533841</ITEM_ID>
+   <PRODUCTNAME>Hry pro šest smyslů</PRODUCTNAME>
+   <EAN>9788070683231</EAN>
+   <ISBN>978-80-7068-323-1</ISBN>
+   <PRICE_VAT>50</PRICE_VAT>
+   <DESCRIPTION>
+
+Nová reedice stále žádané příručky, která patří k nejoblíbenějším metodikám mezi těmi, kdo učí dramatickou výchovu nebo využívají některých jejích postupů při práci s předškolními i školními dětmi, i pro ty, kdo vedou dětské divadelní a loutkářské soubory. Hry a cvičení s různými variantami a možnosti různých motivací jsou uváděny přehledně na kartotéčních lístcích a jsou uspořádány do těchto okruhů: Pozornost, paměť a představivost, Rytmus, Jevištní řeč, Fantazie a tvořivost, Hry a etudy, Hry s loutkou. Cennou součástí kartotéky jsou úvodní Metodické poznámky k práci s kartotékou s odkazy na další literaturu.
+
+</DESCRIPTION>
+   <CATEGORYTEXT>Tištěné knihy | Umění | Divadlo</CATEGORYTEXT>
+   <URL>
+https://www.sckn.cz/hry-pro-sest-smyslu-pn-533-841/
+</URL>
+   <IMGURL />
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>109</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>
+pevné desky, papírový potah (eventuálně s laminem), bez přebalu
+</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Jazyk</PARAM_NAME>
+         <VAL>český</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>10. vydání</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Hana</NAME>
+         <SURNAME>Budínská</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

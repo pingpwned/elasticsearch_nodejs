@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+<ITEM_ID>534174</ITEM_ID>
+<PRODUCTNAME>Osud a volba - Martina Riebauerová, Marek Toman</PRODUCTNAME>
+<PRODUCT>Osud a volba - Martina Riebauerová, Marek Toman</PRODUCT>
+<EAN>9788087079621</EAN>
+<ISBN>978-80-87079-62-1</ISBN>
+<PRICE_VAT>190</PRICE_VAT>
+<DESCRIPTION>
+ Rozhovory Martiny Riebauerové a Marka Tomana. 
+</DESCRIPTION>
+<URL>
+https://www.sckn.cz/osud-a-volba-martina-riebauerova-marek-toman-pn-534-174/
+</URL>
+<IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/65c07a646206b46137be348c6ce56ada.jpg
+</IMGURL>
+<PARAM>
+<PARAM_NAME>Počet stran</PARAM_NAME>
+<VAL>80</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Datum vydání</PARAM_NAME>
+<VAL>2018</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Vazba</PARAM_NAME>
+<VAL>kniha, vázaná vazba</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Pořadí vydání</PARAM_NAME>
+<VAL>neurčeno</VAL>
+</PARAM>
+<CONTRIBUTOR>
+<ROLE>Autor</ROLE>
+<NAME>Martina</NAME>
+<SURNAME>Riebauerová</SURNAME>
+</CONTRIBUTOR>
+<CONTRIBUTOR>
+<ROLE>Autor</ROLE>
+<NAME>Marek</NAME>
+<SURNAME>Toman</SURNAME>
+</CONTRIBUTOR>
+<THEMATIC_GROUP>999 - nezařazeno</THEMATIC_GROUP>
+</SHOPITEM>

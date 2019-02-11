@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+<ITEM_ID>534630</ITEM_ID>
+<PRODUCTNAME>
+Pocta panu Miroslavu Horníčkovi - Martina Samková, Jarmila Jiráková
+</PRODUCTNAME>
+<PRODUCT>
+Pocta panu Miroslavu Horníčkovi - Martina Samková, Jarmila Jiráková
+</PRODUCT>
+<EAN>9788073765378</EAN>
+<ISBN>978-80-7376-537-8</ISBN>
+<PRICE_VAT>249</PRICE_VAT>
+<DESCRIPTION>
+
+Publikace je vyjádřením obdivu Miroslavu Horníčkovi, který by letos v listopadu oslavil sté narozeniny.
+
+</DESCRIPTION>
+<URL>
+https://www.sckn.cz/pocta-panu-miroslavu-horni-kovi-martina-samkova-jarmila-jirakova-pn-534-630/
+</URL>
+<IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/76bee28d62edc80353c2fe3ab6ffd39b.jpg
+</IMGURL>
+<PARAM>
+<PARAM_NAME>Počet stran</PARAM_NAME>
+<VAL>216</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Datum vydání</PARAM_NAME>
+<VAL>2018</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Vazba</PARAM_NAME>
+<VAL>kniha, vázaná vazba</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Pořadí vydání</PARAM_NAME>
+<VAL>neurčeno</VAL>
+</PARAM>
+<CONTRIBUTOR>
+<ROLE>Autor</ROLE>
+<NAME>Martina</NAME>
+<SURNAME>Samková</SURNAME>
+</CONTRIBUTOR>
+<CONTRIBUTOR>
+<ROLE>Autor</ROLE>
+<NAME>Jarmila</NAME>
+<SURNAME>Jiráková</SURNAME>
+</CONTRIBUTOR>
+<THEMATIC_GROUP>999 - nezařazeno</THEMATIC_GROUP>
+</SHOPITEM>

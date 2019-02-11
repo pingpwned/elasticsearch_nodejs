@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534678</ITEM_ID>
+   <PRODUCTNAME>
+A History of the Czech Lands - Oldřich Tůma, Jaroslav Pánek
+</PRODUCTNAME>
+   <EAN>9788024622279</EAN>
+   <ISBN>978-80-246-2227-9</ISBN>
+   <PRICE_VAT>960</PRICE_VAT>
+   <DESCRIPTION>
+
+A History Of The Czech Lands podává soustavný výklad naší historie od pravěku až po vstup České republiky do Evropské unie v roce 2004.
+
+</DESCRIPTION>
+   <CATEGORYTEXT />
+   <URL>
+https://www.sckn.cz/a-history-of-the-czech-lands-old-ich-t-ma-jaroslav-panek-pn-534-678/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/1cf379e1fab9caf910bda0221890f26b.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>730</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>kniha, brožovaná vazba</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Oldřich</NAME>
+         <SURNAME>Tůma</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Jaroslav</NAME>
+         <SURNAME>Pánek</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

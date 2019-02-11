@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+<ITEM_ID>534462</ITEM_ID>
+<PRODUCTNAME>Geekův rok</PRODUCTNAME>
+<PRODUCT>Geekův rok</PRODUCT>
+<EAN>9788073909499</EAN>
+<ISBN>978-80-7390-949-9</ISBN>
+<PRICE_VAT>599</PRICE_VAT>
+<DESCRIPTION>
+
+Kniha nabízí fascinující pohled na kulturu inspirovanou žánry sci-fi, fantasy, hororem, komiksy i vším, co k ní patří. Na každý den přináší příběh některé ze slavných franšíz typu Star Wars či Matrix nebo věhlasných osobností ve stylu Petera Jacksona
+
+</DESCRIPTION>
+<CATEGORYTEXT>
+Tištěné knihy | Krásná literatura | Sci-fi, fantasy, komiks
+</CATEGORYTEXT>
+<URL>
+https://www.sckn.cz/geek-v-rok-james-clarke-pn-534-462/
+</URL>
+<IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/a4dae320b30ed12e8803b75609bbf974.jpg
+</IMGURL>
+<PARAM>
+<PARAM_NAME>Počet stran</PARAM_NAME>
+<VAL>224</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Datum vydání</PARAM_NAME>
+<VAL>2018</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Vazba</PARAM_NAME>
+<VAL>kniha, vázaná vazba</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Pořadí vydání</PARAM_NAME>
+<VAL>neurčeno</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Jazyk</PARAM_NAME>
+<VAL>český</VAL>
+</PARAM>
+<CONTRIBUTOR>
+<ROLE>Autor</ROLE>
+<NAME>James</NAME>
+<SURNAME>Clarke</SURNAME>
+</CONTRIBUTOR>
+<THEMATIC_GROUP>13 - Krásná literatura</THEMATIC_GROUP>
+</SHOPITEM>

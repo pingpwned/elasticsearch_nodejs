@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534186</ITEM_ID>
+   <PRODUCTNAME>
+Národ a dějiny jako sociologický problém - Tomáš Garrigue Masaryk
+</PRODUCTNAME>
+   <EAN>9788024641409</EAN>
+   <ISBN>978-80-246-4140-9</ISBN>
+   <PRICE_VAT>260</PRICE_VAT>
+   <DESCRIPTION>
+
+Myšlení a působení Tomáše G. Masaryka je v české (i odborné) veřejnosti většinou chápáno jen v jejich dimenzi filosofické a politické. Menší pozornost se věnuje náboženské komponentě Masarykova myšlení.
+
+</DESCRIPTION>
+   <CATEGORYTEXT />
+   <URL>
+https://www.sckn.cz/narod-a-d-jiny-jako-sociologicky-problem-toma-scaron-garrigue-masaryk-pn-534-186/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/393d065b577c1ed371158ba4b04d997a.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>344</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Tomáš Garrigue</NAME>
+         <SURNAME>Masaryk</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>533862</ITEM_ID>
+   <PRODUCTNAME>
+Využití stanovení plynných produktů pomocí plynové chromatografie ke sledování biodegradačních procesů s přihlédnutím k materiálovým vlastnostem makromolekulárních substrátů
+</PRODUCTNAME>
+   <EAN>9788074547898</EAN>
+   <ISBN>978-80-7454-789-8</ISBN>
+   <PRICE_VAT>0</PRICE_VAT>
+   <DESCRIPTION>
+
+První část disertační práce je zaměřena především na studium biodegradačních procesů v anaerobním prostředí. Jednotlivé kapitoly teoretické části této práce se zabývají anaerobní fermentací, při níž je hojně využívána rostlinná biomasa, dále možnostmi předúpravy biomasy a konečně látkami, které mohou v rámci těchto předúprav vznikat a působit tak potenciálně inhibičně na obsah methanu v bioplynu. Pro samotné experimenty byly na základě studií vybrány inhibiční látky furfural a 5-hydroxymethylfurfural a byl sledován jejich vliv na produkci methanu. Největší míru inhibice produkce methanu prokázal 5-hydroxymethylfurfural již při koncentraci 0,2 g/l a následně pak furfural v koncetraci od 1 g/l. Druhá část práce je zaměřena na sledování biodegradačních procesů kyseliny polymléčné (PLA) a jejích směsí v kompostu. V teoretické části jsou stručně popsány vlastnosti, výroba a využití PLA, možnosti modifikace PLA přídavkem látek, kterými může docházet ke zlepšení jejích mechanických, chemických či fyzikálních vlastností. V experimentální části práce je popsána morfologie vyrobených směsných materiálů s PLA a následná biodegradace těchto materiálů v kompostu. Látky použité na přípravu směsných filmů byly komerčně dostupné nemodifikované nebo organomodifikované montmorillonity. Výrazné zrychlení biodegradace oproti čisté PLA bylo zaznamenáno u směsi PLA/Cloisite 10A, vzhledem k jeho dobré interkalaci a homogení disperzi vrstev oxidu křemičitého v polymerní matrici. Třetí, neméně významnou kapitolou je studium materiálů na bázi termoplastického škrobu (ŠP) a jejich biologická degradace v prostředí kompostu. Tyto materiály byly připraveny různými postupy výroby, s různým stupněm modifikace a obsahem celulosových vláken. V části teoretické je stručně shrnuta problematika ŠP a jeho modifikace, v experimentální části pak průběh biodegradace těchto materiálů v závislosti na jejich složení v kompostu.
+
+</DESCRIPTION>
+   <CATEGORYTEXT>Tištěné knihy | Ostatní a nezařazené</CATEGORYTEXT>
+   <URL>
+https://www.sckn.cz/vyuziti-stanoveni-plynnych-produktu-pomoci-plynove-chromatografie-ke-sledovani-biodegradacnich-procesu-s-prihlednutim-k-materialovym-vlastnostem-makromolekularnich-substratu-pn-533-862/
+</URL>
+   <IMGURL />
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>50</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>e-kniha - pdf</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Jazyk</PARAM_NAME>
+         <VAL>český</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>06. 11. 2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>První</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Silvie</NAME>
+         <SURNAME>Pekařová</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

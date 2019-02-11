@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+<ITEM_ID>534605</ITEM_ID>
+<PRODUCTNAME>Smrt přijde s úsvitem - Louis L´Amour</PRODUCTNAME>
+<PRODUCT>Smrt přijde s úsvitem - Louis L´Amour</PRODUCT>
+<EAN>9788075438300</EAN>
+<ISBN>978-80-7543-830-0</ISBN>
+<PRICE_VAT>189</PRICE_VAT>
+<DESCRIPTION>
+
+Po útoku indiánů se Callaghenovi podařilo dostat patrolu zpět do bezpečí. Jen nezkušený poručík, který je vedl, zahynul. Ale proč vůbec zamířil tak hluboko do pouště? A jaké řeky zlata se týká mapa, kterou Callaghen našel v poručíkově pozůstalosti?
+
+</DESCRIPTION>
+<URL>
+https://www.sckn.cz/smrt-p-ijde-s-usvitem-louis-l-acute-amour-pn-534-605/
+</URL>
+<IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/badc8f7c3b66175331fc34896d0fcfee.jpg
+</IMGURL>
+<PARAM>
+<PARAM_NAME>Počet stran</PARAM_NAME>
+<VAL>256</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Datum vydání</PARAM_NAME>
+<VAL>2018</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Pořadí vydání</PARAM_NAME>
+<VAL>neurčeno</VAL>
+</PARAM>
+<CONTRIBUTOR>
+<ROLE>Autor</ROLE>
+<NAME>Louis</NAME>
+<SURNAME>L´Amour</SURNAME>
+</CONTRIBUTOR>
+<CONTRIBUTOR>
+<ROLE>Autor</ROLE>
+<NAME>Ondřej</NAME>
+<SURNAME>Duha</SURNAME>
+</CONTRIBUTOR>
+<THEMATIC_GROUP>999 - nezařazeno</THEMATIC_GROUP>
+</SHOPITEM>

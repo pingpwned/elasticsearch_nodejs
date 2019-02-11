@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>533927</ITEM_ID>
+   <PRODUCTNAME>Věř mi - J. P. Delaney</PRODUCTNAME>
+   <EAN>9788024937526</EAN>
+   <ISBN>978-80-249-3752-6</ISBN>
+   <PRICE_VAT>240</PRICE_VAT>
+   <DESCRIPTION>
+
+Když člověk nosí masku moc dlouho, přiroste mu ke tváři… Temný psychologický thriller od autora loňského bestselleru Ta přede mnou! Mladá ctižádostivá herečka Claire zoufale potřebuje práci a peníze, proto se rozhodne přijmout nabídku stejně tak amorální jako nebezpečnou – má být jakousi volavkou.
+
+</DESCRIPTION>
+   <CATEGORYTEXT />
+   <URL>https://www.sckn.cz/v-mi-j-p-delaney-pn-533-927/</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/9a3ccf951456d5cf133d47170db33b44.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>344</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>J. P.</NAME>
+         <SURNAME>Delaney</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Milena</NAME>
+         <SURNAME>Pellarová</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

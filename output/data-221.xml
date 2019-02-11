@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534548</ITEM_ID>
+   <PRODUCTNAME>Schůzka s ďáblem - J. D. Robb</PRODUCTNAME>
+   <EAN>9788075437631</EAN>
+   <ISBN>978-80-7543-763-1</ISBN>
+   <PRICE_VAT>229</PRICE_VAT>
+   <DESCRIPTION>
+
+Detektivce Evě Dallasové před autem náhle zavrávorá nahá postava, celá pokrytá krví. Eva dupne na brzdy a podaří se jí zraněnou ženu zachránit. Pro jejího manžela, další oběť přepadení, je už bohužel pozdě.
+
+</DESCRIPTION>
+   <CATEGORYTEXT>
+E-knihy | Krásná literatura | Próza | Detektivky, napětí
+</CATEGORYTEXT>
+   <URL>
+https://www.sckn.cz/sch-zka-s-ablem-j-d-robb-pn-534-548/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/5b8bda1745f2d1540056c3d3a6e44f14.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>352</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Zdík</NAME>
+         <SURNAME>Dušek</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>J. D.</NAME>
+         <SURNAME>Robb</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

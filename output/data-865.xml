@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>533816</ITEM_ID>
+   <PRODUCTNAME>Sedm dní k přežití - Nathalie Bernardová</PRODUCTNAME>
+   <EAN>9788072527649</EAN>
+   <ISBN>978-80-7252-764-9</ISBN>
+   <PRICE_VAT>269</PRICE_VAT>
+   <DESCRIPTION>
+
+Jedna jediná vteřina může převrátit život vzhůru nohama. Mrazivý thriller z hloubi kanadských lesů.
+
+</DESCRIPTION>
+   <CATEGORYTEXT />
+   <URL>
+https://www.sckn.cz/sedm-dni-k-p-e-iti-nathalie-bernardova-pn-533-816/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/46acb22b0d24bc4db7dc7873cc02ab8c.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>160</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>kniha, vázaná vazba</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Nathalie</NAME>
+         <SURNAME>Bernardová</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Michala</NAME>
+         <SURNAME>Marková</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

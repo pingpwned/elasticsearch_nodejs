@@ -140,6 +140,14 @@
 .book__info img {
   width: 280px;
 }
+.cat__box {
+  overflow-y: scroll;
+  max-height: 200px;
+  background: #fff;
+  width: 50%;
+  margin: 0 auto;
+  padding: 50px;
+}
 @media (max-width: 400px) {
   .list__item {
     max-width: 100%;

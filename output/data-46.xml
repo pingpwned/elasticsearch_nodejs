@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534728</ITEM_ID>
+   <PRODUCTNAME>Rozervané království - František Niedl</PRODUCTNAME>
+   <EAN>9788024385655</EAN>
+   <ISBN>978-80-243-8565-5</ISBN>
+   <PRICE_VAT>199</PRICE_VAT>
+   <DESCRIPTION>
+
+Jindřich z Lipé sedí ve věži pevného hradu Týřov, ale pokud si král Jan Lucemburský myslel, že když přidusí a později možná i odsekne hlavu hydry odbojných českých pánů, mýlil se.
+
+</DESCRIPTION>
+   <CATEGORYTEXT />
+   <URL>
+https://www.sckn.cz/rozervane-kralovstvi-franti-scaron-ek-niedl-pn-534-728/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/dcd620919eef19edd4d923c2aafb75a6.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>288</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>František</NAME>
+         <SURNAME>Niedl</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

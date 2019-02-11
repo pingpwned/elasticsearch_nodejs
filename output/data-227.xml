@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534539</ITEM_ID>
+   <PRODUCTNAME>Šepot mrtvých - Amo Jones</PRODUCTNAME>
+   <EAN>9788026909811</EAN>
+   <ISBN>978-80-269-0981-1</ISBN>
+   <PRICE_VAT>179</PRICE_VAT>
+   <DESCRIPTION>
+
+Král králů, vychovaný k vládnutí, to je Bishop Vincent Hayes. Bezohledný, nebezpečný, krutý, i jeho však lze zranit. A když ho dosud loajální bratři z Elitního klubu zradí, je z toho třeba vyvodit důsledky.
+
+</DESCRIPTION>
+   <CATEGORYTEXT />
+   <URL>
+https://www.sckn.cz/-scaron-epot-mrtvych-amo-jones-pn-534-539/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/dfa54e75b9bb528f1d3b1168ce60c535.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>328</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Amo</NAME>
+         <SURNAME>Jones</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Renata</NAME>
+         <SURNAME>Heitelová</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

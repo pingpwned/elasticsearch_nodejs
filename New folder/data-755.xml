@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+<ITEM_ID>533933</ITEM_ID>
+<PRODUCTNAME>Odložený život - Dita Krausová</PRODUCTNAME>
+<PRODUCT>Odložený život - Dita Krausová</PRODUCT>
+<EAN>9788024937250</EAN>
+<ISBN>978-80-249-3725-0</ISBN>
+<PRICE_VAT>249</PRICE_VAT>
+<DESCRIPTION>
+
+Biografie pražské rodačky Dity Krausové (nar. 1929), která prošla Terezínem, Osvětimí a Bergen-Belsenem. Ve své biografii popisuje dětství v Praze, vzpomíná na rodiče a kamarády. V listopadu 1942 přišlo předvolání do transportu a rodina putovala nejprve do Terezína a pak do Osvětimi.
+
+</DESCRIPTION>
+<URL>
+https://www.sckn.cz/odlo-eny-ivot-dita-krausova-pn-533-933/
+</URL>
+<IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/881c75c8714205ef6ef786c8599cce0d.jpg
+</IMGURL>
+<PARAM>
+<PARAM_NAME>Počet stran</PARAM_NAME>
+<VAL>368</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Datum vydání</PARAM_NAME>
+<VAL>2018</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Pořadí vydání</PARAM_NAME>
+<VAL>neurčeno</VAL>
+</PARAM>
+<CONTRIBUTOR>
+<ROLE>Autor</ROLE>
+<NAME>Dita</NAME>
+<SURNAME>Krausová</SURNAME>
+</CONTRIBUTOR>
+<CONTRIBUTOR>
+<ROLE>Autor</ROLE>
+<NAME>Dagmar</NAME>
+<SURNAME>Lieblová</SURNAME>
+</CONTRIBUTOR>
+<THEMATIC_GROUP>999 - nezařazeno</THEMATIC_GROUP>
+</SHOPITEM>

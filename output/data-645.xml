@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534048</ITEM_ID>
+   <PRODUCTNAME>Peníze</PRODUCTNAME>
+   <EAN>9788074432798</EAN>
+   <ISBN>978-80-7443-279-8</ISBN>
+   <PRICE_VAT>199</PRICE_VAT>
+   <DESCRIPTION>
+
+Kniha Pavla Zajíce je svérázným příspěvkem k poetizaci toho nejvšednějšího a současně nejzajímavějšího, co vůbec máme: života. Toho, který už nelze vést bez firemní politiky, hromadných mailů, teambuildingu a hlavně bez Peněz.
+
+</DESCRIPTION>
+   <CATEGORYTEXT>
+Tištěné knihy | Krásná literatura | Próza | Česká a slovenská próza
+</CATEGORYTEXT>
+   <URL>https://www.sckn.cz/penize-pavel-zajic-pn-534-048/</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/a1aab1754f48ce5b3f06841b1312045a.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>92</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>kniha, brožovaná vazba</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Jazyk</PARAM_NAME>
+         <VAL>český</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Pavel</NAME>
+         <SURNAME>Zajíc</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

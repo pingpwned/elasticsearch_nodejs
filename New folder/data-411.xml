@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+<ITEM_ID>534328</ITEM_ID>
+<PRODUCTNAME>Kupec zvláštní krásy</PRODUCTNAME>
+<PRODUCT>Kupec zvláštní krásy</PRODUCT>
+<EAN>9788075301376</EAN>
+<ISBN>978-80-7530-137-6</ISBN>
+<PRICE_VAT>220</PRICE_VAT>
+<DESCRIPTION>
+
+Hra Tomáše Vondrovice barvitým způsobem zpřístupňuje život a tvorbu spisovatele J. Zeyera.
+
+</DESCRIPTION>
+<CATEGORYTEXT>Tištěné knihy | Krásná literatura | Divadelní hry</CATEGORYTEXT>
+<URL>
+https://www.sckn.cz/kupec-zvla-scaron-tni-krasy-julius-zeyer-toma-scaron-vondrovic-pn-534-328/
+</URL>
+<IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/20724c89c89d3dea9a3b5d63ed9b4342.jpg
+</IMGURL>
+<PARAM>
+<PARAM_NAME>Datum vydání</PARAM_NAME>
+<VAL>2018</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Pořadí vydání</PARAM_NAME>
+<VAL>neurčeno</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>Vazba</PARAM_NAME>
+<VAL />
+</PARAM>
+<PARAM>
+<PARAM_NAME>Jazyk</PARAM_NAME>
+<VAL>český</VAL>
+</PARAM>
+<CONTRIBUTOR>
+<ROLE>Autor</ROLE>
+<NAME>Tomáš</NAME>
+<SURNAME>Vondrovic</SURNAME>
+</CONTRIBUTOR>
+<THEMATIC_GROUP>13 - Krásná literatura</THEMATIC_GROUP>
+</SHOPITEM>

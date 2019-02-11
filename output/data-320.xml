@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534434</ITEM_ID>
+   <PRODUCTNAME>Biblické příběhy pro děti</PRODUCTNAME>
+   <EAN>9788075411327</EAN>
+   <ISBN>978-80-7541-132-7</ISBN>
+   <PRICE_VAT>299</PRICE_VAT>
+   <DESCRIPTION>
+
+Ať už vyprávění začíná slovy „Bylo nebylo…“, nebo „Na počátku bylo slovo…“, princip je stejný – začíná se odvíjet příběh o tom, co (možná) bylo, jak to všechno začalo, co přišlo potom.
+
+</DESCRIPTION>
+   <CATEGORYTEXT>
+Tištěné knihy | Pro děti a mládež | Pro mládež (od 8 let) | Naučné
+</CATEGORYTEXT>
+   <URL>
+https://www.sckn.cz/biblicke-p-ib-hy-pro-d-ti-annette-neubauerova-pn-534-434/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/8200dfea3572c02f49c40d4160c26c98.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>156</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>kniha, vázaná vazba</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Jazyk</PARAM_NAME>
+         <VAL>český</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Annette</NAME>
+         <SURNAME>Neubauerová</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

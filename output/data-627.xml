@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534069</ITEM_ID>
+   <PRODUCTNAME>Krev teče vždycky červená</PRODUCTNAME>
+   <EAN>9788087761410</EAN>
+   <ISBN>978-80-87761-41-0</ISBN>
+   <PRICE_VAT>579</PRICE_VAT>
+   <DESCRIPTION>
+
+Doby, kdy Plavena byla chudou rybářskou zemí, jsou dávno pryč. Dnes je z ní koloniální velmoc s císařem jako jediným svrchovaným vládcem. Ačkoliv ve stínu jeho majestátu blednou samotné hvězdy, i on jednou zemře. A co se stane pak?
+
+</DESCRIPTION>
+   <CATEGORYTEXT>
+Tištěné knihy | Krásná literatura | Sci-fi, fantasy, komiks | Fantasy
+</CATEGORYTEXT>
+   <URL>
+https://www.sckn.cz/krev-te-e-v-dycky-ervena-hanina-vesela-pn-534-069/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/7a4f0f93f71d224f8e5bc86ecde78382.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>640</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>kniha, vázaná vazba</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Jazyk</PARAM_NAME>
+         <VAL>český</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Překladatel</ROLE>
+         <NAME>Hanina</NAME>
+         <SURNAME>Veselá</SURNAME>
+      </CONTRIBUTOR>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Kristina</NAME>
+         <SURNAME>Haidingerová</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534583</ITEM_ID>
+   <PRODUCTNAME>Kurz zázraků</PRODUCTNAME>
+   <EAN>9788090512511</EAN>
+   <ISBN>978-80-905125-1-1</ISBN>
+   <PRICE_VAT>425</PRICE_VAT>
+   <DESCRIPTION>
+
+Kurz zázraků je univerzálním duchovním učením, jehož účelem je umožnit lidem nalézt svého Vnitřního Učitele.
+
+</DESCRIPTION>
+   <CATEGORYTEXT>
+E-knihy | Zdraví a životní styl | Osobní rozvoj | Psychologie pro každého
+</CATEGORYTEXT>
+   <URL>https://www.sckn.cz/kurz-zazrak--pn-534-583/</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/25a966c3ea281c93eed84522c88d3ded.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>1352</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS />
+</SHOPITEM>

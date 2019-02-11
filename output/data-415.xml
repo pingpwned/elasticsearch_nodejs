@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf8'?>
+<SHOPITEM>
+   <ITEM_ID>534323</ITEM_ID>
+   <PRODUCTNAME>Od Velké Sýrie k malé</PRODUCTNAME>
+   <EAN>9788020028648</EAN>
+   <ISBN>978-80-200-2864-8</ISBN>
+   <PRICE_VAT>450</PRICE_VAT>
+   <DESCRIPTION>
+
+Publikace se zabývá historií Sýrie v první polovině 20. století, tedy v době závěrečné fáze existence osmanské říše a následujícího francouzského mandátu v Levantě.
+
+</DESCRIPTION>
+   <CATEGORYTEXT>
+Tištěné knihy | Historie | Podle zemí a kontinentů | Afrika
+</CATEGORYTEXT>
+   <URL>
+https://www.sckn.cz/od-velke-syrie-k-male-petr-p-ebinda-pn-534-323/
+</URL>
+   <IMGURL>
+https://www.sckn.cz/file/image/optimized/product-main/large/8001818bc956288389100d32edcb303f.jpg
+</IMGURL>
+   <PARAMS>
+      <PARAM>
+         <PARAM_NAME>Počet stran</PARAM_NAME>
+         <VAL>292</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Datum vydání</PARAM_NAME>
+         <VAL>2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vazba</PARAM_NAME>
+         <VAL>kniha, vázaná vazba</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Pořadí vydání</PARAM_NAME>
+         <VAL>neurčeno</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Jazyk</PARAM_NAME>
+         <VAL>český</VAL>
+      </PARAM>
+   </PARAMS>
+   <CONTRIBUTORS>
+      <CONTRIBUTOR>
+         <ROLE>Autor</ROLE>
+         <NAME>Petr</NAME>
+         <SURNAME>Přebinda</SURNAME>
+      </CONTRIBUTOR>
+   </CONTRIBUTORS>
+</SHOPITEM>
