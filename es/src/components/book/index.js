@@ -53,7 +53,6 @@ export default class Book extends Component {
     }
     _renderObject(obj){
 		return Object.entries(obj).map(([key, value], i) => {
-            console.log(key, value, "from _renderObject")
 			return (
 				<span key={i}>
 					<span>{value.toString()}</span><br></br>

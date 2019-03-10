@@ -17,7 +17,6 @@ export default class AutoComplete extends React.Component {
   }
 
   renderSuggestion = suggestion => {
-    console.log(suggestion, "suggestion")
     return (
       <div className="result">
         <div>{suggestion.SHOPITEM.PRODUCTNAME}</div>
@@ -46,17 +45,14 @@ export default class AutoComplete extends React.Component {
         }
         
     }
-    console.log(queryString)
     client.search(
         queryString
     ).then(
         res => {
             const results = res.hits.hits.map(h => h._source)
             this.setState({ suggestions: results })
-            console.log(results)
           },
       error => {
-        console.log(`error: ${error}`)
       }
     )
   }

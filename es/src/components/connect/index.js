@@ -25,14 +25,12 @@ export default class Connect extends Component {
         this.performQuery(this.state.queryString);
     }
     performQuery = queryString => {
-        console.log(queryString)
         let reqStart = new Date().getTime()
         client.search(
             queryString
         ).then(
           response => {
             let reqTime = new Date().getTime() - reqStart
-            console.log(response, "RESPONSE")
             this.setState({data: response.hits.hits, searchTime: reqTime, searchResult: response.hits.total})
             this.loadCategories()
           },
@@ -102,7 +100,6 @@ export default class Connect extends Component {
         )
     }
     handleBookOpen(val) {
-        console.log(val, this.state.bookID, "val & state")
         document.body.classList.toggle("no-sroll")
         this.setState({
             displayBook: !this.state.displayBook,
