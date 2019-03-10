@@ -35,7 +35,7 @@ for i in range(1, 993, 1): # 0-99, range(100, 200, 1) -> 100-199 // TODO: I RAN 
     # python_obj = json.loads(jsondata)
     # dataj = json.dumps(python_obj, ensure_ascii=False).encode('utf-8')
     # Make POST request to elasticsearch with JSON data
-    rput = requests.post('http://18.184.159.62:9200/books/_doc', data=jsondata, headers={'Content-type': 'application/json'})
+    rput = requests.post('https://search-wazup-mr-deer-mk6lluli7el4xy2czteszbktum.eu-central-1.es.amazonaws.com/default-0/_doc', data=jsondata, headers={'Content-type': 'application/json'})
     # Print response
     print(rput.json())
     print("\n ******* SENDING NEW POST REQUEST!! ******* \n")

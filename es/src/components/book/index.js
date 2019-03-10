@@ -8,7 +8,7 @@ export default class Book extends Component {
             id: [],
             data: [],
             queryString: { 
-                index: "books_primary"
+                index: "default-1"
             }
         }
         this.handleBookOpen = this.handleBookOpen.bind(this)
@@ -33,7 +33,7 @@ export default class Book extends Component {
     }
     updateQuery() {
         const queryString = {
-            index: "books_primary",
+            index: "default-1",
             body: {
                 query: {
                     ids: {
@@ -74,9 +74,6 @@ export default class Book extends Component {
                     <div className="book__content">
                         <span onClick={this.handleBookOpen} className="close"></span>
                         <h1>{item._source.SHOPITEM.PRODUCTNAME}</h1>
-                        <h2>
-                            <div>{Object.values(item._source.SHOPITEM.CONTRIBUTOR)}</div>
-                        </h2>
                         <img src={item._source.SHOPITEM.IMGURL ? item._source.SHOPITEM.IMGURL : "#"} />
                         <p><b>Popis: </b>{item._source.SHOPITEM.DESCRIPTION}</p>
                         <p><b>EAN: </b>{item._source.SHOPITEM.EAN}</p>
@@ -88,6 +85,13 @@ export default class Book extends Component {
                         
                     </div>
                 </div>
+            )
+        })
+    }
+    renderContributor = contributor => {
+        contributor.map((item, i) => {
+            return (
+                <p key={i}>{item}</p>
             )
         })
     }

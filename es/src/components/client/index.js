@@ -1,8 +1,7 @@
 import elasticsearch from 'elasticsearch';
 
 const client = new elasticsearch.Client({
-    host: 'http://18.184.159.62:9200',
-    log: 'trace'
+    host: 'https://search-wazup-mr-deer-mk6lluli7el4xy2czteszbktum.eu-central-1.es.amazonaws.com/'
 });
 
 export default client;

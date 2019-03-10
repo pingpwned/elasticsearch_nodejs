@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 import SearchBar from '../search'
 import client from '../client'
 import Book from '../book'
-import Admin from '../admin'
 export default class Connect extends Component {
     constructor(props) {
         super(props)
@@ -10,12 +9,12 @@ export default class Connect extends Component {
             categories: [],
             data: [],
             queryString: {
-                index: "books_primary",
+                index: "default-1",
                 size: 10000 // max allowed
             },
             response: null,
+            visible: 20,
             displayBook: false,
-            displayAdmin: true,
             bookID: "",
             searchResult: "",
             searchTime: 0
@@ -26,6 +25,7 @@ export default class Connect extends Component {
         this.performQuery(this.state.queryString);
     }
     performQuery = queryString => {
+        console.log(queryString)
         let reqStart = new Date().getTime()
         client.search(
             queryString
@@ -45,7 +45,6 @@ export default class Connect extends Component {
         let categoriesArray = []
         this.state.data.map(item => {
             if (item._source.SHOPITEM.CATEGORYTEXT) {
-                console.log(item._source.SHOPITEM.CATEGORYTEXT.split("|"))
                 categoriesArray.push(...item._source.SHOPITEM.CATEGORYTEXT.split("|"))
             }
         } )
@@ -56,7 +55,7 @@ export default class Connect extends Component {
     }
     updateQuery = e => {
         const queryString = {
-            index: "books_primary",
+            index: "default-1",
             size: 10000,
             q: e ? e : null
         }
@@ -71,9 +70,13 @@ export default class Connect extends Component {
     }
     updateQueryCat = e => {
         const queryString = {
-            index: "books_primary",
+            index: "default-1",
             size: 10000,
-            q: e.target.checked ? e.target.name : null
+            body: {
+                query: {
+                    match: {"CATEGORYTEXT": e.target.name}
+                }
+            }
         }
         this.setState(
             {
@@ -85,7 +88,7 @@ export default class Connect extends Component {
         )
     }
     renderData() {
-        return this.state.data.map((item, i) => 
+        return this.state.data.slice(0, this.state.visible).map((item, i) => 
             (
                 <div className="list__item" key={i} data-id={item._id} onClick={() => this.handleBookOpen(item._id)}>
                     <h3>{item._source.SHOPITEM.PRODUCTNAME.length > 50 ? item._source.SHOPITEM.PRODUCTNAME.substring(0, 49)+"..." : item._source.SHOPITEM.PRODUCTNAME}</h3>
@@ -98,11 +101,6 @@ export default class Connect extends Component {
             )
         )
     }
-    renderCategories() {
-        return this.state.categories.map((item, i) => (
-            <li key={i}><input type="checkbox" onChange={this.updateQueryCat} name={item}></input>{item}</li>
-        ))
-    }
     handleBookOpen(val) {
         console.log(val, this.state.bookID, "val & state")
         document.body.classList.toggle("no-sroll")
@@ -111,19 +109,17 @@ export default class Connect extends Component {
             bookID: val
         })
     }
+    loadMore = () => {
+        this.setState((prev) => {
+          return {visible: prev.visible + 20};
+        });
+      }
     render() {
         return(
             <div className="container">
                 <SearchBar onChange={this.updateQuery}
                     searchTime={this.state.searchTime}
                     searchResult={this.state.searchResult} />
-
-                <div>
-                    <h2>Box</h2>
-                    <ul className="cat__box">
-                        {this.renderCategories()}                        
-                    </ul>
-                </div>
                 {
                     this.state.displayBook ? 
                     <Book handler={this.handleBookOpen} id={this.state.bookID} /> 
@@ -131,6 +127,16 @@ export default class Connect extends Component {
                 }
                 <div className="list__container">
                     { this.renderData() }
+                </div>
+                <div className="load-more__container">
+                    {this.state.visible < this.state.data.length &&
+                    <button className="button load-more" onClick={this.loadMore} type="button">
+                        <div className="qube">
+                        <div className="front">+20 books</div>
+                        <div className="back">Load more</div>
+                        </div>
+                    </button>
+                    }
                 </div>
             </div>
         )
