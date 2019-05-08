@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import SearchBar from '../search'
-import client from '../client'
 import Book from '../book'
 export default class Connect extends Component {
     constructor(props) {
@@ -16,29 +15,43 @@ export default class Connect extends Component {
             visible: 20,
             displayBook: false,
             bookID: "",
-            searchResult: "",
+            total: "",
             searchTime: 0
         }
         this.handleBookOpen = this.handleBookOpen.bind(this)
     }
     componentDidMount(){
-        this.performQuery(this.state.queryString);
+        let reqStart = new Date().getTime()
+        this.getData(this.state.queryString)
+        .then(res => {
+            let searchTime = new Date().getTime() - reqStart
+            let total = res.hits.total
+            let data = res.hits.hits
+            this.setState({data, searchTime, total })
+        })
+        .catch(err => console.log(err));
     }
     performQuery = queryString => {
-        let reqStart = new Date().getTime()
-        client.search(
-            queryString
-        ).then(
-          response => {
-            let reqTime = new Date().getTime() - reqStart
-            this.setState({data: response.hits.hits, searchTime: reqTime, searchResult: response.hits.total})
-            this.loadCategories()
-          },
-          error => {
-            console.log(`error: ${error}`)
-          }
-        )
+       this.getData(queryString)
     }
+    getData = async (queryString) => {
+        let str = Object.keys(queryString).map(key => key + '=' + queryString[key]).join('&'); // index=default-1&size=10000
+        console.log(str)
+        const response = await fetch('/api?'+str);
+        const data = await response.json();
+        if (response.status !== 200) throw Error(data.message);
+        console.log(data.hits.hits)
+        this.setState({data: data.hits.hits});
+    }
+    // postRequest = async (str) => {
+    //     const response = await fetch('/search', {
+    //         method: 'POST',
+    //         body: JSON.stringify(str),
+    //         headers: {"Content-Type": "application/json"}
+    //     });
+    //     const data = await response.json();
+    //     console.log(data, "DATA FROM /search")
+    // }
     loadCategories() {
         let categoriesArray = []
         this.state.data.map(item => {
@@ -52,10 +65,11 @@ export default class Connect extends Component {
         this.setState({categories: arr})
     }
     updateQuery = e => {
+        let q = e
         const queryString = {
             index: "default-1",
             size: 10000,
-            q: e ? e : null
+            q
         }
         this.setState(
             {
@@ -116,7 +130,7 @@ export default class Connect extends Component {
             <div className="container">
                 <SearchBar onChange={this.updateQuery}
                     searchTime={this.state.searchTime}
-                    searchResult={this.state.searchResult} />
+                    total={this.state.total} />
                 {
                     this.state.displayBook ? 
                     <Book handler={this.handleBookOpen} id={this.state.bookID} /> 

@@ -16,7 +16,7 @@ export default class SearchBar extends Component {
             
             <div className="searchbar__container">
                 <input type="text" name="searchbar" className="searchbar" id="searchbar" placeholder="&#128270; Type for search.." onChange={this.updateQuery}/>
-                <p className="search__info">{this.props.searchResult} results in {stime}</p>
+                <p className="search__info">{this.props.total} results in {stime}</p>
             </div>
         )
     }
